@@ -31,10 +31,8 @@ jobs:
       run: npm i antora
     - name: Generate Site
       run: npx antora antora-playbook.yml
-    - name: Copy file index.html
-      run: |
-        cp index.html build/site
-        cp style.css build/site
+    - name: Copy file index.html and style.css
+      run:  cp -R my-cv build/site
     - name: Upload Artifacts
       uses: actions/upload-pages-artifact@v2
       with:
