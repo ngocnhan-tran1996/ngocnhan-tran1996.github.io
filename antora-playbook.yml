@@ -1,5 +1,5 @@
 site:
-  title: My Blog
+  title: My Resume
   url: https://ngocnhan-tran1996.github.io
 git:
   ensure_git_suffix: false
