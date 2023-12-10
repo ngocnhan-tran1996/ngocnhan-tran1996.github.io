@@ -1,0 +1,32 @@
+= My Learning Path About Java
+
+== Spring Framework
+* [x] https://docs.spring.io/spring-framework/reference/[Spring Framework]
+* [x] [.text-decoration-line-through]#https://docs.spring.io/spring-data/commons/docs/current/reference/html[Spring Data Old Version]#
+* [ ] https://docs.spring.io/spring-data/commons/reference/index.html[Spring Data]
+* [x] https://docs.spring.io/spring-amqp/docs/current/reference/html/[Spring AMQP]
+
+== Articles
+* [x] https://piotrminkowski.com/2021/02/01/new-developer-friendly-features-after-java-8/[New Features After Java 8]
+* [x] https://piotrminkowski.com/2022/01/05/useful-unknown-java-features/[Useful & Unknown Java Features]
+* [x] https://piotrminkowski.com/2023/01/30/useful-unknown-java-libraries/[Useful & Unknown Java Libraries]
+* [x] https://www.infoq.com/articles/data-oriented-programming-java/[Data Oriented Programming in Java]
+* [x] https://www.infoq.com/articles/java-local-variable-type-inference/[Java Feature Spotlight: Local Variable Type Inference]
+* [x] https://www.infoq.com/articles/java-text-blocks/[Java Feature Spotlight: Text Blocks]
+* [x] https://www.infoq.com/articles/java-14-feature-spotlight/[Java 14 Feature Spotlight: Records]
+* [x] https://www.infoq.com/articles/java-sealed-classes/[Java Feature Spotlight: Sealed Classes]
+* [x] https://www.infoq.com/articles/java-pattern-matching/[Java Feature Spotlight: Pattern Matching]
+* [x] https://www.baeldung.com/jackson-json-view-annotation[Jackson JSON Views]
+
+=== Java Service Provider Interface (SPI)
+* [ ] https://docs.oracle.com/javase/tutorial/ext/basics/index.html[Lesson: Creating and Using Extensions]
+* [x] https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/ServiceLoader.html[ServiceLoader]
+
+=== Spring Articles
+* [x] https://docs.spring.io/spring-framework/docs/6.0.10/javadoc-api/org/springframework/beans/BeanUtils.html[Class BeanUtils]
+* [x] https://docs.spring.io/spring-framework/docs/6.0.10/javadoc-api/org/springframework/core/Conventions.html[Class Conventions]
+* [x] https://spring.io/blog/2014/12/02/latest-jackson-integration-improvements-in-spring[Latest Jackson integration improvements in Spring]
+* [x] https://spring.io/blog/2016/04/13/overriding-dependency-versions-with-spring-boot/[Overriding Dependency Versions with Spring Boot]
+* [x] https://www.infoworld.com/article/2077963/distributed-transactions-in-spring--with-and-without-xa.html[Distributed transactions in Spring, with and without XA]
+* [x] https://developers.redhat.com/articles/2023/10/19/containerize-spring-boot-application-podman-desktop#[Containerize a Spring Boot application with Podman Desktop]
+* [x] https://www.youtube.com/watch?v=dMhpDdR6nHw[Youtube - Spring Tips: Spring Boot 3.2]

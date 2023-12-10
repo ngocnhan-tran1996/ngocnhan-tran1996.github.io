@@ -1,0 +1,17 @@
+site:
+  title: My Blog
+  url: https://ngocnhan-tran1996.github.io/my-blog
+git:
+  ensure_git_suffix: false
+content:
+  sources:
+  - url: https://github.com/ngocnhan-tran1996/ngocnhan-tran1996.github.io.git
+    branches: main
+    start_path: my-blog/docs
+urls:
+  latest_version_segment_strategy: redirect:to
+  latest_version_segment: current
+  html_extension_style: drop
+ui:
+  bundle:
+    url: https://github.com/ngocnhan-tran1996/antora-ui/releases/download/latest/ui-bundle.zip

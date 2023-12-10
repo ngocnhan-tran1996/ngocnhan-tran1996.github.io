@@ -1,0 +1,13 @@
+= My Learning Path About RabbitMQ
+
+== Articles
+* [x] https://www.rabbitmq.com/getstarted.html[RabbitMQ Tutorials]
+* [x] https://www.rabbitmq.com/confirms.html[Consumer Acknowledgements and Publisher Confirms]
+* [x] https://www.rabbitmq.com/streams.html[Streams]
+* [x] https://blog.rabbitmq.com/posts/2014/04/finding-bottlenecks-with-rabbitmq-3-3/[Finding bottlenecks with RabbitMQ 3.3]
+* [x] https://www.rabbitmq.com/stream.html[Stream Plugin]
+* [x] https://blog.rabbitmq.com/posts/2021/07/connecting-to-streams/[Connecting to Streams]
+* [x] https://www.rabbitmq.com/stream-core-plugin-comparison.html[Stream Core vs Stream Plugin]
+* [x] https://www.rabbitmq.com/queues.html[Queues]
+* [x] https://www.rabbitmq.com/heartbeats.html[Detecting Dead TCP Connections with Heartbeats and TCP Keepalives]
+* [x] https://www.rabbitmq.com/direct-reply-to.html[Direct Reply-to]

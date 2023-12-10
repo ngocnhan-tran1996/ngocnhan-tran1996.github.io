@@ -1,0 +1,15 @@
+= My Learning Path About Javascript
+
+== Articles
+* [ ] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide[Javascript Guides]
+* [ ] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_precedence[Operator precedence]
+* [ ] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements#difference_between_statements_and_declarations[Statements and declarations]
+* [ ] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/Expression_statement[Expression statement]
+* [ ] https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide/JavaScript[Guidelines for writing JavaScript code examples]
+
+=== NodeJS
+* [x] https://nodejs.dev/en/learn/[NodeJS Document]
+* [x] https://nodejs.dev/en/learn/how-much-javascript-do-you-need-to-know-to-use-nodejs/[How much JavaScript do you need to know to use Node.js?]
+
+=== ReactJS
+* [x] https://react.dev/learn/[ReactJS]

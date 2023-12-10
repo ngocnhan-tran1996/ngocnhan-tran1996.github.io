@@ -1,0 +1,6 @@
+name: my-blog
+title: My Blog
+version: 1.0.0
+start_page: index.adoc
+nav:
+- modules/ROOT/nav.adoc
