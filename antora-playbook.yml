@@ -1,6 +1,6 @@
 site:
   title: My Blog
-  url: https://ngocnhan-tran1996.github.io/my-blog
+  url: https://ngocnhan-tran1996.github.io
 git:
   ensure_git_suffix: false
 content:
