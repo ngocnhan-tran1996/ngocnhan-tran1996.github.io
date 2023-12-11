@@ -11,3 +11,4 @@
 * [x] https://www.rabbitmq.com/queues.html[Queues]
 * [x] https://www.rabbitmq.com/heartbeats.html[Detecting Dead TCP Connections with Heartbeats and TCP Keepalives]
 * [x] https://www.rabbitmq.com/direct-reply-to.html[Direct Reply-to]
+* [x] https://github.com/rabbitmq/rabbitmq-server/blob/v3.12.x/deps/rabbitmq_stream/docs/PROTOCOL.adoc[RabbitMQ Streams Protocol Reference]

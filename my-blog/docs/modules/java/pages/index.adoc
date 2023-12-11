@@ -6,6 +6,18 @@
 * [ ] https://docs.spring.io/spring-data/commons/reference/index.html[Spring Data]
 * [x] https://docs.spring.io/spring-amqp/docs/current/reference/html/[Spring AMQP]
 
+=== Related Articles
+* [x] https://docs.spring.io/spring-framework/docs/6.0.10/javadoc-api/org/springframework/beans/BeanUtils.html[Class BeanUtils]
+* [x] https://docs.spring.io/spring-framework/docs/6.0.10/javadoc-api/org/springframework/core/Conventions.html[Class Conventions]
+* [x] https://spring.io/blog/2014/12/02/latest-jackson-integration-improvements-in-spring[Latest Jackson integration improvements in Spring]
+* [x] https://spring.io/blog/2016/04/13/overriding-dependency-versions-with-spring-boot/[Overriding Dependency Versions with Spring Boot]
+* [x] https://www.infoworld.com/article/2077963/distributed-transactions-in-spring--with-and-without-xa.html[Distributed transactions in Spring, with and without XA]
+* [x] https://developers.redhat.com/articles/2023/10/19/containerize-spring-boot-application-podman-desktop#[Containerize a Spring Boot application with Podman Desktop]
+* [x] https://www.youtube.com/watch?v=dMhpDdR6nHw[Youtube - Spring Tips: Spring Boot 3.2]
+* [x] https://blog.devgenius.io/pessimistic-lock-in-spring-boot-a3c44055be0f[Pessimistic Lock in Spring Boot]
+* [x] https://sudarshandoiphode.hashnode.dev/understanding-the-power-of-responseentityt-in-spring-framework[Understanding the Power of ResponseEntity<T> in Spring Framework]
+* [x] https://piotrminkowski.com/2023/11/15/kafka-tracing-with-spring-boot-and-open-telemetry/[Kafka Tracing with Spring Boot and Open Telemetry]
+
 == Articles
 * [x] https://piotrminkowski.com/2021/02/01/new-developer-friendly-features-after-java-8/[New Features After Java 8]
 * [x] https://piotrminkowski.com/2022/01/05/useful-unknown-java-features/[Useful & Unknown Java Features]
@@ -17,16 +29,17 @@
 * [x] https://www.infoq.com/articles/java-sealed-classes/[Java Feature Spotlight: Sealed Classes]
 * [x] https://www.infoq.com/articles/java-pattern-matching/[Java Feature Spotlight: Pattern Matching]
 * [x] https://www.baeldung.com/jackson-json-view-annotation[Jackson JSON Views]
+* [x] https://www.baeldung.com/cs/statically-vs-dynamically-typed-languages[Statically Typed vs Dynamically Typed Languages]
+* [x] https://www.baeldung.com/cs/compile-load-execution-time[Compile Time vs. Load Time vs. Execution Time]
+* [x] https://openjdk.org/projects/amber/guides/lvti-style-guide[Local Variable Type Inference]
+* [x] https://openjdk.org/projects/amber/design-notes/patterns/pattern-matching-for-java[Pattern Matching for Java]
+* [x] https://docs.oracle.com/javase/8/docs/technotes/guides/language/type-inference-generic-instance-creation.html[Type Inference for Generic Instance Creation]
 
-=== Java Service Provider Interface (SPI)
+== Java Service Provider Interface (SPI)
 * [ ] https://docs.oracle.com/javase/tutorial/ext/basics/index.html[Lesson: Creating and Using Extensions]
 * [x] https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/ServiceLoader.html[ServiceLoader]
 
-=== Spring Articles
-* [x] https://docs.spring.io/spring-framework/docs/6.0.10/javadoc-api/org/springframework/beans/BeanUtils.html[Class BeanUtils]
-* [x] https://docs.spring.io/spring-framework/docs/6.0.10/javadoc-api/org/springframework/core/Conventions.html[Class Conventions]
-* [x] https://spring.io/blog/2014/12/02/latest-jackson-integration-improvements-in-spring[Latest Jackson integration improvements in Spring]
-* [x] https://spring.io/blog/2016/04/13/overriding-dependency-versions-with-spring-boot/[Overriding Dependency Versions with Spring Boot]
-* [x] https://www.infoworld.com/article/2077963/distributed-transactions-in-spring--with-and-without-xa.html[Distributed transactions in Spring, with and without XA]
-* [x] https://developers.redhat.com/articles/2023/10/19/containerize-spring-boot-application-podman-desktop#[Containerize a Spring Boot application with Podman Desktop]
-* [x] https://www.youtube.com/watch?v=dMhpDdR6nHw[Youtube - Spring Tips: Spring Boot 3.2]
+== Source Reference
+* [x] https://medium.com/@jojoooo/exploring-a-base-spring-boot-application-with-java-21-virtual-thread-spring-security-flyway-c0fde13c1eca[A Comprehensive guide to Spring Boot 3.2 with Java 21, Virtual Threads, Spring Security, PostgreSQL, Flyway, Caching, Micrometer, Opentelemetry, JUnit 5, RabbitMQ, Keycloak Integration, and More! (10/17)]
+* [x] https://github.com/laech/java-stacksrc[java-stacksrc]
+* [x] https://github.com/jonatan-ivanov/teahouse[Teahouse]
