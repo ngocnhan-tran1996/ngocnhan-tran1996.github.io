@@ -22,6 +22,7 @@
 * [x] https://piotrminkowski.com/2021/02/01/new-developer-friendly-features-after-java-8/[New Features After Java 8]
 * [x] https://piotrminkowski.com/2022/01/05/useful-unknown-java-features/[Useful & Unknown Java Features]
 * [x] https://piotrminkowski.com/2023/01/30/useful-unknown-java-libraries/[Useful & Unknown Java Libraries]
+* [x] https://www.infoworld.com/article/3709690/what-is-object-oriented-programming-the-everyday-programming-style.html[Intro to OOP: The everyday programming style]
 * [x] https://www.infoq.com/articles/data-oriented-programming-java/[Data Oriented Programming in Java]
 * [x] https://www.infoq.com/articles/java-local-variable-type-inference/[Java Feature Spotlight: Local Variable Type Inference]
 * [x] https://www.infoq.com/articles/java-text-blocks/[Java Feature Spotlight: Text Blocks]

@@ -9,6 +9,7 @@
 * [x] https://developer.mozilla.org/en-US/docs/Glossary/Pseudocode[Pseudocode]
 * [x] https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics[JavaScript object basics]
 * [x] https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes[Object prototypes]
+* [x] https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_programming[Object-oriented programming]
 
 === NodeJS
 * [x] https://nodejs.dev/en/learn/[NodeJS Document]
