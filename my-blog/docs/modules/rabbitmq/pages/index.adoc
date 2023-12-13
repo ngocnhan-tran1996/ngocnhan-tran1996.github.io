@@ -13,3 +13,6 @@
 * [x] https://www.rabbitmq.com/direct-reply-to.html[Direct Reply-to]
 * [x] https://github.com/rabbitmq/rabbitmq-server/blob/v3.12.x/deps/rabbitmq_stream/docs/PROTOCOL.adoc[RabbitMQ Streams Protocol Reference]
 * [x] https://www.rabbitmq.com/publishers.html[Publishers]
+* [x] https://www.rabbitmq.com/validated-user-id.html[Validated User-ID]
+* [x] https://www.rabbitmq.com/consumers.html[Consumers]
+* [x] https://www.rabbitmq.com/consumer-priority.html[Consumer Priorities]
