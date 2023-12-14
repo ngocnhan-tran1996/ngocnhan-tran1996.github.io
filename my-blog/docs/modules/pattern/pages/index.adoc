@@ -4,12 +4,8 @@
 
 * [x] https://sourcemaking.com/design_patterns/template_method[Template Method]
 * [x] https://sourcemaking.com/design_patterns/strategy[Strategy]
-
-=== Visitor
-
-* [x] https://sourcemaking.com/design_patterns/visitor
-* [x] https://refactoring.guru/design-patterns/visitor
-* [x] https://www.baeldung.com/ddd-double-dispatch
+* [x] https://sourcemaking.com/design_patterns/visitor[Visitor]
+* [x] https://www.baeldung.com/ddd-double-dispatch[Double Dispatch in DDD]
 
 == Messaging Patterns
 * [x] https://www.enterpriseintegrationpatterns.com/patterns/messaging/CompetingConsumers.html[Competing Consumers]
