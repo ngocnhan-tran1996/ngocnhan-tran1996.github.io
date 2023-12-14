@@ -1,0 +1,5 @@
+= My Learning Path About Jargon
+
+== Articles
+* [x] https://en.m.wikipedia.org/wiki/Yoda_conditions[Yoda conditions]
+* [x] https://en.m.wikipedia.org/wiki/Heisenbug[Heisenbug]

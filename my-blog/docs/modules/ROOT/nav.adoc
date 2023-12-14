@@ -4,5 +4,5 @@
 * xref:pattern:index.adoc[PATTERN]
 * xref:github:index.adoc[GITHUB]
 * xref:java:index.adoc[JAVA]
-* xref:javascript:index.adoc[NODEJS]
+* xref:javascript:index.adoc[JAVASCRIPT]
 * xref:rabbitmq:index.adoc[RABBITMQ]
