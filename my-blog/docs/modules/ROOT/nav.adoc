@@ -1,6 +1,7 @@
 * xref:index.adoc[About me]
 
 .The Learning Path
+* xref:jargon:index.adoc[JARGON]
 * xref:pattern:index.adoc[PATTERN]
 * xref:github:index.adoc[GITHUB]
 * xref:java:index.adoc[JAVA]

@@ -36,6 +36,8 @@
 * [x] https://openjdk.org/projects/amber/guides/lvti-style-guide[Local Variable Type Inference]
 * [x] https://openjdk.org/projects/amber/design-notes/patterns/pattern-matching-for-java[Pattern Matching for Java]
 * [x] https://docs.oracle.com/javase/8/docs/technotes/guides/language/type-inference-generic-instance-creation.html[Type Inference for Generic Instance Creation]
+* [x] https://digma.ai/blog/the-spring-way-of-doing-things-9-ways-to-improve-your-spring-boot-skills/[THE “SPRING WAY” OF DOING THINGS: 9 WAYS TO IMPROVE YOUR SPRING BOOT SKILLS]
+* [x] https://foojay.io/today/testing-spring-boot-jms-with-activemq-artemis-and-testcontainers/[Testing Spring Boot JMS with ActiveMQ Artemis and Testcontainers]
 
 == Java Service Provider Interface (SPI)
 * [ ] https://docs.oracle.com/javase/tutorial/ext/basics/index.html[Lesson: Creating and Using Extensions]

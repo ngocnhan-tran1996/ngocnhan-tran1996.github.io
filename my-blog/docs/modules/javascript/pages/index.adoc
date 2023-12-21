@@ -2,7 +2,7 @@
 
 == Articles
 * [ ] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide[Javascript Guides]
-* [ ] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_precedence[Operator precedence]
+* [x] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_precedence[Operator precedence]
 * [ ] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements#difference_between_statements_and_declarations[Statements and declarations]
 * [ ] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/Expression_statement[Expression statement]
 * [ ] https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide/JavaScript[Guidelines for writing JavaScript code examples]
