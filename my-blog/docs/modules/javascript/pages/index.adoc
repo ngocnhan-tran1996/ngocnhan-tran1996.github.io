@@ -4,7 +4,7 @@
 * [ ] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide[Javascript Guides]
 * [x] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_precedence[Operator precedence]
 * [ ] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements#difference_between_statements_and_declarations[Statements and declarations]
-* [ ] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/Expression_statement[Expression statement]
+* [x] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/Expression_statement[Expression statement]
 * [ ] https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines/Writing_style_guide/Code_style_guide/JavaScript[Guidelines for writing JavaScript code examples]
 * [x] https://developer.mozilla.org/en-US/docs/Glossary/Pseudocode[Pseudocode]
 * [x] https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics[JavaScript object basics]
@@ -16,10 +16,13 @@
 * [x] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comma_operator[Comma operator (,)]
 * [x] https://developer.mozilla.org/en-US/docs/Glossary/Identifier[Identifier]
 * [x] https://developer.mozilla.org/en-US/docs/Glossary/Function[Function]
+* [x] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/async_function[async function expression]
+* [x] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let[let]
 
 === NodeJS
 * [x] https://nodejs.dev/en/learn/[NodeJS Document]
 * [x] https://nodejs.dev/en/learn/how-much-javascript-do-you-need-to-know-to-use-nodejs/[How much JavaScript do you need to know to use Node.js?]
+* [x] https://nodejs.org/en/guides/event-loop-timers-and-nexttick[The Node.js Event Loop, Timers, and `process.nextTick()`]
 
 === ReactJS
 * [x] https://react.dev/learn/[ReactJS]

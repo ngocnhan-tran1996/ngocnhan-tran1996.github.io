@@ -16,3 +16,5 @@
 * [x] https://www.rabbitmq.com/validated-user-id.html[Validated User-ID]
 * [x] https://www.rabbitmq.com/consumers.html[Consumers]
 * [x] https://www.rabbitmq.com/consumer-priority.html[Consumer Priorities]
+* [x] https://www.rabbitmq.com/consumer-prefetch.html[Consumer Prefetch]
+* [x] https://www.rabbitmq.com/maxlength.html[Queue Length Limit]
