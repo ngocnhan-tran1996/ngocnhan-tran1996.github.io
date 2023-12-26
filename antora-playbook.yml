@@ -9,7 +9,7 @@ content:
     branches: main
     start_path: my-blog/docs
   - url: https://github.com/ngocnhan-tran1996/spring-boot-code-example.git
-    branches: [3.0.x,2.7.x]
+    branches: [3.1.x,3.0.x,2.7.x]
     start_path: docs
 urls:
   latest_version_segment_strategy: redirect:to
