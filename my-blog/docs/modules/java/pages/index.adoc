@@ -1,5 +1,9 @@
 = My Learning Path About Java
 
+== The Java™ Tutorials
+* [x] https://docs.oracle.com/javase/tutorial/getStarted/index.html[Getting Started]
+* [x] https://docs.oracle.com/javase/tutorial/java/index.html[Learning the Java Language]
+
 == Spring Framework
 * [x] https://docs.spring.io/spring-framework/reference/[Spring Framework]
 * [x] [.text-decoration-line-through]#https://docs.spring.io/spring-data/commons/docs/current/reference/html[Spring Data Old Version]#
@@ -42,6 +46,7 @@
 * [x] https://docs.oracle.com/javase/8/docs/technotes/guides/language/type-inference-generic-instance-creation.html[Type Inference for Generic Instance Creation]
 * [x] https://digma.ai/blog/the-spring-way-of-doing-things-9-ways-to-improve-your-spring-boot-skills/[THE “SPRING WAY” OF DOING THINGS: 9 WAYS TO IMPROVE YOUR SPRING BOOT SKILLS]
 * [x] https://foojay.io/today/testing-spring-boot-jms-with-activemq-artemis-and-testcontainers/[Testing Spring Boot JMS with ActiveMQ Artemis and Testcontainers]
+* [x] https://www.baeldung.com/cqrs-event-sourcing-java[CQRS and Event Sourcing in Java]
 
 == Java Service Provider Interface (SPI)
 * [ ] https://docs.oracle.com/javase/tutorial/ext/basics/index.html[Lesson: Creating and Using Extensions]

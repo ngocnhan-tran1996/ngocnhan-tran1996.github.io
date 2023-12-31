@@ -19,3 +19,4 @@
 * [x] https://www.rabbitmq.com/consumer-prefetch.html[Consumer Prefetch]
 * [x] https://www.rabbitmq.com/maxlength.html[Queue Length Limit]
 * [x] https://blog.rabbitmq.com/posts/2012/05/some-queuing-theory-throughput-latency-and-bandwidth/[Some queuing theory: throughput, latency and bandwidth]
+* [x] https://www.rabbitmq.com/nack.html[Negative Acknowledgements]
