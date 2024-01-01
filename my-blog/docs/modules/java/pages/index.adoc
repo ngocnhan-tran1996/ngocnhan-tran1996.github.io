@@ -10,12 +10,18 @@
 * [ ] https://docs.spring.io/spring-data/commons/reference/index.html[Spring Data]
 * [x] https://docs.spring.io/spring-amqp/docs/current/reference/html/[Spring AMQP]
 
+=== Transactions
+
+* [x] https://www.infoworld.com/article/2077963/distributed-transactions-in-spring--with-and-without-xa.html[Distributed transactions in Spring, with and without XA]
+* [x] https://www.atomikos.com/Documentation/SpringIntegration[Spring Integration]
+* [x] https://www.atomikos.com/Blog/DistributedTransactionsWithMultipleDatabasesSpringBootSpringDataJPAAndAtomikos[Distributed transactions with multiple databases, Spring Boot, Spring Data JPA and Atomikos]
+* [x] https://www.atomikos.com/Blog/SpringJTAMultipleResourceTransactionsInTomcatWithAtomikosExample[Spring JTA multiple resource transactions in Tomcat with Atomikos example]
+
 === Related Articles
 * [x] https://docs.spring.io/spring-framework/docs/6.0.10/javadoc-api/org/springframework/beans/BeanUtils.html[Class BeanUtils]
 * [x] https://docs.spring.io/spring-framework/docs/6.0.10/javadoc-api/org/springframework/core/Conventions.html[Class Conventions]
 * [x] https://spring.io/blog/2014/12/02/latest-jackson-integration-improvements-in-spring[Latest Jackson integration improvements in Spring]
 * [x] https://spring.io/blog/2016/04/13/overriding-dependency-versions-with-spring-boot/[Overriding Dependency Versions with Spring Boot]
-* [x] https://www.infoworld.com/article/2077963/distributed-transactions-in-spring--with-and-without-xa.html[Distributed transactions in Spring, with and without XA]
 * [x] https://developers.redhat.com/articles/2023/10/19/containerize-spring-boot-application-podman-desktop#[Containerize a Spring Boot application with Podman Desktop]
 * [x] https://www.youtube.com/watch?v=dMhpDdR6nHw[Youtube - Spring Tips: Spring Boot 3.2]
 * [x] https://blog.devgenius.io/pessimistic-lock-in-spring-boot-a3c44055be0f[Pessimistic Lock in Spring Boot]
@@ -25,6 +31,7 @@
 * [x] https://spring.io/blog/2023/06/21/docker-compose-support-in-spring-boot-3-1/[Docker Compose Support in Spring Boot 3.1]
 * [x] https://digma.ai/blog/the-spring-way-of-doing-things-9-ways-to-improve-your-spring-boot-skills/[THE “SPRING WAY” OF DOING THINGS: 9 WAYS TO IMPROVE YOUR SPRING BOOT SKILLS]
 * [x] https://foojay.io/today/testing-spring-boot-jms-with-activemq-artemis-and-testcontainers/[Testing Spring Boot JMS with ActiveMQ Artemis and Testcontainers]
+* [x] https://spring.io/blog/2023/06/19/spring-boot-31-connectiondetails-abstraction/[Spring Boot 3.1's ConnectionDetails abstraction]
 
 == Articles
 * [x] https://piotrminkowski.com/2021/02/01/new-developer-friendly-features-after-java-8/[New Features After Java 8]
