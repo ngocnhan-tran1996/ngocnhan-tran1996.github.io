@@ -32,6 +32,7 @@
 * [x] https://digma.ai/blog/the-spring-way-of-doing-things-9-ways-to-improve-your-spring-boot-skills/[THE “SPRING WAY” OF DOING THINGS: 9 WAYS TO IMPROVE YOUR SPRING BOOT SKILLS]
 * [x] https://foojay.io/today/testing-spring-boot-jms-with-activemq-artemis-and-testcontainers/[Testing Spring Boot JMS with ActiveMQ Artemis and Testcontainers]
 * [x] https://spring.io/blog/2023/06/19/spring-boot-31-connectiondetails-abstraction/[Spring Boot 3.1's ConnectionDetails abstraction]
+* [x] https://spring.io/blog/2023/07/13/new-in-spring-6-1-restclient/[New in Spring 6.1: RestClient]
 
 == Articles
 * [x] https://piotrminkowski.com/2021/02/01/new-developer-friendly-features-after-java-8/[New Features After Java 8]
@@ -64,3 +65,7 @@
 * [x] https://github.com/laech/java-stacksrc[java-stacksrc]
 * [x] https://github.com/jonatan-ivanov/teahouse[Teahouse]
 * [x] https://github.com/spring-tips[Spring Tips]
+
+== Java Language Updates
+
+* [x] https://docs.oracle.com/en/java/javase/17/language/index.html#Java-Platform%2C-Standard-Edition[version 17]
