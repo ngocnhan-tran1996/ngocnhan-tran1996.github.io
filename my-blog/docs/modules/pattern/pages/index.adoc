@@ -6,6 +6,7 @@
 * [x] https://sourcemaking.com/design_patterns/strategy[Strategy]
 * [x] https://sourcemaking.com/design_patterns/visitor[Visitor]
 * [x] https://www.baeldung.com/ddd-double-dispatch[Double Dispatch in DDD]
+* [x] https://refactoring.guru/design-patterns/command[Command]
 
 == Messaging Patterns
 * [x] https://www.enterpriseintegrationpatterns.com/patterns/messaging/CompetingConsumers.html[Competing Consumers]
@@ -19,9 +20,20 @@
 * [x] https://martinfowler.com/bliki/InversionOfControl.html[Inversion of Control]
 * [x] https://martinfowler.com/articles/injection.html[Inversion of Control Containers and the Dependency Injection pattern]
 
+== The DTO Pattern (Data Transfer Object)
+* [x] https://www.baeldung.com/java-dto-pattern[The DTO Pattern (Data Transfer Object)]
+* [x] https://martinfowler.com/eaaCatalog/dataTransferObject.html[Data Transfer Object]
+* [x] https://martinfowler.com/eaaCatalog/domainModel.html[Domain Model]
+* [x] https://martinfowler.com/eaaCatalog/dataMapper.html[Data Mapper]
+
+== Event-Driven
+* [x] https://martinfowler.com/articles/201701-event-driven.html[What do you mean by “Event-Driven”?]
+* [x] https://www.baeldung.com/cs/eda-software-design[Event-Driven Architecture]
+
 == Articles
 
 * [x] https://martinfowler.com/bliki/TellDontAsk.html[TellDontAsk]
+* [x] https://stateless.co/hal_specification.html[HAL - Hypertext Application Language]
 
 == Reference
 

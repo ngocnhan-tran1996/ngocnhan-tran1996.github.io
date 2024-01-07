@@ -23,7 +23,6 @@
 * [x] https://spring.io/blog/2014/12/02/latest-jackson-integration-improvements-in-spring[Latest Jackson integration improvements in Spring]
 * [x] https://spring.io/blog/2016/04/13/overriding-dependency-versions-with-spring-boot/[Overriding Dependency Versions with Spring Boot]
 * [x] https://developers.redhat.com/articles/2023/10/19/containerize-spring-boot-application-podman-desktop#[Containerize a Spring Boot application with Podman Desktop]
-* [x] https://www.youtube.com/watch?v=dMhpDdR6nHw[Youtube - Spring Tips: Spring Boot 3.2]
 * [x] https://blog.devgenius.io/pessimistic-lock-in-spring-boot-a3c44055be0f[Pessimistic Lock in Spring Boot]
 * [x] https://sudarshandoiphode.hashnode.dev/understanding-the-power-of-responseentityt-in-spring-framework[Understanding the Power of ResponseEntity<T> in Spring Framework]
 * [x] https://piotrminkowski.com/2023/11/15/kafka-tracing-with-spring-boot-and-open-telemetry/[Kafka Tracing with Spring Boot and Open Telemetry]
@@ -35,6 +34,20 @@
 * [x] https://spring.io/blog/2023/07/13/new-in-spring-6-1-restclient/[New in Spring 6.1: RestClient]
 * [x] https://digma.ai/blog/the-spring-way-of-doing-things-9-ways-to-improve-your-spring-boot-skills/[THE “SPRING WAY” OF DOING THINGS: 9 WAYS TO IMPROVE YOUR SPRING BOOT SKILLS]
 * [x] https://foojay.io/today/testing-spring-boot-jms-with-activemq-artemis-and-testcontainers/[Testing Spring Boot JMS with ActiveMQ Artemis and Testcontainers]
+* [x] https://mydeveloperplanet.com/2022/12/14/spring-boot-docker-best-practices/[Spring Boot Docker Best Practices]
+* [x] https://mydeveloperplanet.com/2023/10/04/how-to-generate-spring-properties-documentation/[How to Generate Spring Properties Documentation]
+* [x] https://mydeveloperplanet.com/2023/09/06/spring-boot-configuration-properties-explained/[Spring Boot Configuration Properties Explained]
+* [x] https://springframework.guru/why-you-should-be-using-spring-boot-docker-layers/[Why You Should be Using Spring Boot Docker Layers]
+* [x] https://towardsdev.com/data-transfer-object-dto-in-spring-boot-c00678cc5946[Data Transfer Object (DTO) in Spring Boot]
+* [x] https://javatechonline.com/spring-ai-reference/[Spring AI Reference]
+* [x] https://spring.io/blog/2022/10/11/embracing-virtual-threads/[Embracing Virtual Threads]
+* [x] https://spring.io/blog/2023/08/31/this-is-the-beginning-of-the-end-of-the-n-1-problem-introducing-single-query/[This is the Beginning of the End of the N+1 Problem: Introducing Single Query Loading.]
+* [x] https://www.baeldung.com/spring-webflux-backpressure[Backpressure Mechanism in Spring WebFlux]
+
+=== Videos
+* [x] https://www.youtube.com/watch?v=5YdjBWSGtbE[Spring Tips: Spring's Application Event Subsystem]
+* [x] https://www.youtube.com/watch?v=dMhpDdR6nHw[Spring Tips: Spring Boot 3.2]
+* [x] https://www.youtube.com/watch?v=kWb-orCsCM0[Development-time containers with Spring Boot 3.1]
 
 == Articles
 * [x] https://piotrminkowski.com/2022/01/05/useful-unknown-java-features/[Useful & Unknown Java Features]
@@ -52,6 +65,13 @@
 * [x] https://www.infoworld.com/article/3700054/all-about-java-class-loaders.html[All about Java class loaders]
 * [x] https://www.infoworld.com/article/3687234/how-to-use-callbacks-in-java.html[How to use callbacks in Java]
 * [x] https://mariadb.com/resources/blog/benchmark-jdbc-connectors-and-java-21-virtual-threads/[Benchmark JDBC connectors and Java 21 virtual threads]
+* [x] https://mydeveloperplanet.com/2017/11/16/java-9-collections-streams/[Java 9: Collections, Streams]
+* [x] https://mydeveloperplanet.com/2020/03/24/what-is-your-test-quality/[What Is Your Test Quality?]
+* [x] https://www.infoworld.com/article/2925720/elementary-java-language-features.html[Elementary Java language features]
+* [x] https://blog.frankel.ch/backpressure-reactive-systems/[Backpressure in Reactive Systems]
+* [x] https://www.baeldung.com/java-pojo-class[What Is a Pojo Class?]
+* [x] https://www.infoworld.com/article/3336222/java-challengers-6-thread-behavior-in-the-jvm.html[Thread behavior in the JVM]
+* [x] https://www.infoworld.com/article/3512039/does-java-pass-by-reference-or-pass-by-value.html[Does Java pass by reference or pass by value?]
 
 == Java Service Provider Interface (SPI)
 * [ ] https://docs.oracle.com/javase/tutorial/ext/basics/index.html[Lesson: Creating and Using Extensions]
@@ -74,3 +94,6 @@
 * [x] https://openjdk.org/projects/amber/guides/lvti-style-guide[Local Variable Type Inference]
 * [x] https://openjdk.org/projects/amber/design-notes/patterns/pattern-matching-for-java[Pattern Matching for Java]
 * [x] https://piotrminkowski.com/2021/02/01/new-developer-friendly-features-after-java-8/[New Features After Java 8]
+
+== Reference
+* [x] https://www.sqltutorial.org/sql-window-functions/[SQL Window Functions]

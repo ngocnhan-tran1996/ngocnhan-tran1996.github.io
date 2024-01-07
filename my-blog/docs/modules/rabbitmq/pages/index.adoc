@@ -21,3 +21,6 @@
 * [x] https://blog.rabbitmq.com/posts/2012/05/some-queuing-theory-throughput-latency-and-bandwidth/[Some queuing theory: throughput, latency and bandwidth]
 * [x] https://www.rabbitmq.com/nack.html[Negative Acknowledgements]
 * [x] https://www.rabbitmq.com/ttl.html[Time-To-Live and Expiration]
+* [x] https://www.rabbitmq.com/dlx.html[Dead Letter Exchanges]
+* [x] https://www.rabbitmq.com/sender-selected.html[Sender-selected Distribution]
+* [x] https://www.rabbitmq.com/ae.html[Alternate Exchanges]

@@ -2,3 +2,5 @@
 
 * [ ] https://github.com/git-guides/[Github Guide]
 * [x] https://github.com/github/gitignore/blob/main/Java.gitignore[Example .gitignore file]
+* [x] https://about.gitlab.com/blog/2015/02/19/8-tips-to-help-you-work-better-with-git/[8 Tips to help you work better with Git]
+* [x] https://devmaster.edu.vn/git-khong-co-gi-dang-so-ca.html[Git không có gì đáng sợ cả!]
