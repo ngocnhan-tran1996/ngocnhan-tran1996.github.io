@@ -1,5 +1,8 @@
 = My Learning Path About Design Pattern
 
+== Structural patterns
+* [x] https://refactoring.guru/design-patterns/flyweight[Flyweight]
+
 == Behavioral patterns
 
 * [x] https://sourcemaking.com/design_patterns/template_method[Template Method]
@@ -7,6 +10,7 @@
 * [x] https://sourcemaking.com/design_patterns/visitor[Visitor]
 * [x] https://www.baeldung.com/ddd-double-dispatch[Double Dispatch in DDD]
 * [x] https://refactoring.guru/design-patterns/command[Command]
+* [x] https://refactoring.guru/design-patterns/observer[Observer]
 
 == Messaging Patterns
 * [x] https://www.enterpriseintegrationpatterns.com/patterns/messaging/CompetingConsumers.html[Competing Consumers]
@@ -30,6 +34,13 @@
 * [x] https://martinfowler.com/articles/201701-event-driven.html[What do you mean by “Event-Driven”?]
 * [x] https://www.baeldung.com/cs/eda-software-design[Event-Driven Architecture]
 
+== Microservice Architecture
+* [x] https://microservices.io/patterns/microservices.html[Microservice Architecture]
+* [x] https://microservices.io/patterns/communication-style/rpi.html[Remote Procedure Invocation (RPI)]
+* [x] https://microservices.io/patterns/data/database-per-service.html[Database per service]
+* [x] https://microservices.io/patterns/data/saga.html[Saga]
+* [x] https://microservices.io/patterns/communication-style/idempotent-consumer.html[Idempotent Consumer]
+
 == Articles
 
 * [x] https://martinfowler.com/bliki/TellDontAsk.html[TellDontAsk]
@@ -38,3 +49,4 @@
 == Reference
 
 . https://refactoring.guru[refactoring.guru]
+. https://sourcemaking.com/[sourcemaking.com]

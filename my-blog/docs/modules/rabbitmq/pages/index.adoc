@@ -24,3 +24,5 @@
 * [x] https://www.rabbitmq.com/dlx.html[Dead Letter Exchanges]
 * [x] https://www.rabbitmq.com/sender-selected.html[Sender-selected Distribution]
 * [x] https://www.rabbitmq.com/ae.html[Alternate Exchanges]
+* [x] https://www.rabbitmq.com/e2e.html[Exchange to Exchange Bindings]
+* [x] https://www.rabbitmq.com/tutorials/amqp-concepts.html[AMQP 0-9-1 Model Explained]

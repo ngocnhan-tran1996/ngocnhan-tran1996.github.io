@@ -43,11 +43,22 @@
 * [x] https://spring.io/blog/2022/10/11/embracing-virtual-threads/[Embracing Virtual Threads]
 * [x] https://spring.io/blog/2023/08/31/this-is-the-beginning-of-the-end-of-the-n-1-problem-introducing-single-query/[This is the Beginning of the End of the N+1 Problem: Introducing Single Query Loading.]
 * [x] https://www.baeldung.com/spring-webflux-backpressure[Backpressure Mechanism in Spring WebFlux]
+* [x] https://medium.com/@majbahbuet08/performance-pitfalls-while-using-spring-data-jpa-and-solutions-to-avoid-them-5eb4ee3fe4ea[Performance Pitfalls while using Spring Data JPA and Solutions to avoid them]
+* [x] https://spring.io/blog/2023/09/22/simplified-event-externalization-with-spring-modulith/[Simplified Event Externalization with Spring Modulith]
+* [x] https://martinelli.ch/testing-spring-boot-jms-with-artemis-and-testcontainers/[Testing Spring Boot JMS with ActiveMQ Artemis and Testcontainers]
+* [x] https://medium.com/@satanjim/how-we-reduced-the-memory-consumption-of-spring-boot-application-over-40-for-the-development-c8a5813fac23[How we reduced the memory consumption of spring boot application over 40% for the development environment]
+* [x] https://umar-fajar14.medium.com/spring-boot-kafka-and-websocket-a-practical-approach-to-real-time-messaging-6169f5995fe1[Spring Boot, Kafka, and WebSocket: A Practical Approach to Real-Time Messaging]
 
 === Videos
 * [x] https://www.youtube.com/watch?v=5YdjBWSGtbE[Spring Tips: Spring's Application Event Subsystem]
 * [x] https://www.youtube.com/watch?v=dMhpDdR6nHw[Spring Tips: Spring Boot 3.2]
 * [x] https://www.youtube.com/watch?v=kWb-orCsCM0[Development-time containers with Spring Boot 3.1]
+* [x] https://www.youtube.com/watch?v=bbzek2j3Yz0[Build a ChatGPT clone with Spring Boot, LangChain, and React in 20 minutes]
+* [x] https://www.youtube.com/watch?v=0QVdJcxGf1M[Generate Dynamic Websites using ChatGPT and Spring AI]
+* [x] https://www.youtube.com/watch?v=74AEVZOBL88[How To Log Outgoing HTTP Requests with Spring Rest Client and Spring Boot 3]
+* [x] https://www.youtube.com/watch?v=jOTn6N-8iKc[Build an AI-powered scheduling app with Spring Boot and Timefold]
+* [x] https://www.youtube.com/watch?v=srBYXhhLVV4[Spring Tips: Spring Data JDBC]
+* [x] https://www.youtube.com/watch?v=RoAyxO_0IxM[Getting Started with Spring AI and Azure Open AI]
 
 == Articles
 * [x] https://piotrminkowski.com/2022/01/05/useful-unknown-java-features/[Useful & Unknown Java Features]
@@ -72,6 +83,7 @@
 * [x] https://www.baeldung.com/java-pojo-class[What Is a Pojo Class?]
 * [x] https://www.infoworld.com/article/3336222/java-challengers-6-thread-behavior-in-the-jvm.html[Thread behavior in the JVM]
 * [x] https://www.infoworld.com/article/3512039/does-java-pass-by-reference-or-pass-by-value.html[Does Java pass by reference or pass by value?]
+* [x] https://digma.ai/blog/25-reasons-java-is-still-around-in-2023/[25 REASONS WHY JAVA IS STILL AROUND IN 2023]
 
 == Java Service Provider Interface (SPI)
 * [ ] https://docs.oracle.com/javase/tutorial/ext/basics/index.html[Lesson: Creating and Using Extensions]
@@ -82,6 +94,7 @@
 * [x] https://github.com/laech/java-stacksrc[java-stacksrc]
 * [x] https://github.com/jonatan-ivanov/teahouse[Teahouse]
 * [x] https://github.com/spring-tips[Spring Tips]
+* [x] https://github.com/skinny85/jilt[Jilt]
 
 == Java Language Updates
 
