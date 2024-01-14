@@ -40,6 +40,7 @@
 * [x] https://microservices.io/patterns/data/database-per-service.html[Database per service]
 * [x] https://microservices.io/patterns/data/saga.html[Saga]
 * [x] https://microservices.io/patterns/communication-style/idempotent-consumer.html[Idempotent Consumer]
+* [x] https://microservices.io/post/microservices/patterns/2020/10/16/idempotent-consumer.html[Handling duplicate messages using the Idempotent consumer pattern]
 
 == Articles
 
