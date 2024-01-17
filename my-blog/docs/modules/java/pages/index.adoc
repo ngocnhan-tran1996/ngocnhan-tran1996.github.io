@@ -51,7 +51,8 @@
 * [x] https://auth0.com/blog/java-spring-boot-microservices/[Java Microservices with Spring Boot and Spring Cloud]
 * [x] https://medium.com/@anilfromdit/dockerize-your-spring-boot-app-like-a-pro-d1dd0ef37b79[Dockerize Your Spring Boot App Like a Pro]
 * [x] https://spring.io/blog/2023/08/22/tackling-the-oauth2-client-component-model-in-spring-security/[Tackling the OAuth2 Client component model in Spring Security]
-* [x] How to integrate Hibernates Multitenant feature with Spring Data JPA in a Spring Boot application[How to integrate Hibernates Multitenant feature with Spring Data JPA in a Spring Boot application]
+* [x] https://spring.io/blog/2022/07/31/how-to-integrate-hibernates-multitenant-feature-with-spring-data-jpa-in-a-spring-boot-application/[How to integrate Hibernates Multitenant feature with Spring Data JPA in a Spring Boot application]
+* [x] https://spring.io/blog/2023/09/20/hello-java-21/[Hello, Java 21]
 
 === Videos
 * [x] https://www.youtube.com/watch?v=5YdjBWSGtbE[Spring Tips: Spring's Application Event Subsystem]
@@ -64,6 +65,8 @@
 * [x] https://www.youtube.com/watch?v=srBYXhhLVV4[Spring Tips: Spring Data JDBC]
 * [x] https://www.youtube.com/watch?v=RoAyxO_0IxM[Getting Started with Spring AI and Azure Open AI]
 * [x] https://www.youtube.com/watch?v=MlmHrbcNouc[DataSources]
+* [x] https://www.youtube.com/watch?v=rt_cUtb8LnQ[Spring Tips: DataSources]
+* [x] https://www.youtube.com/watch?v=8VJ_dSdV3pY[Spring Tips: Making the Joyful Jump to Java 21]
 
 == Articles
 * [x] https://piotrminkowski.com/2022/01/05/useful-unknown-java-features/[Useful & Unknown Java Features]
@@ -100,6 +103,8 @@
 * [x] https://github.com/jonatan-ivanov/teahouse[Teahouse]
 * [x] https://github.com/spring-tips[Spring Tips]
 * [x] https://github.com/skinny85/jilt[Jilt]
+* [x] https://github.com/maciejwalkowiak/wiremock-spring-boot[WireMock Spring Boot]
+* [x] https://github.com/spring-projects-experimental/spring-boot-testjars[spring-boot-testjars]
 
 == Java Language Updates
 
