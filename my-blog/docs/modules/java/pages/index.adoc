@@ -17,6 +17,16 @@
 * [x] https://www.atomikos.com/Blog/DistributedTransactionsWithMultipleDatabasesSpringBootSpringDataJPAAndAtomikos[Distributed transactions with multiple databases, Spring Boot, Spring Data JPA and Atomikos]
 * [x] https://www.atomikos.com/Blog/SpringJTAMultipleResourceTransactionsInTomcatWithAtomikosExample[Spring JTA multiple resource transactions in Tomcat with Atomikos example]
 
+=== JPA
+
+* [x] https://medium.com/@majbahbuet08/performance-pitfalls-while-using-spring-data-jpa-and-solutions-to-avoid-them-5eb4ee3fe4ea[Performance Pitfalls while using Spring Data JPA and Solutions to avoid them]
+* [x] https://spring.io/blog/2022/07/31/how-to-integrate-hibernates-multitenant-feature-with-spring-data-jpa-in-a-spring-boot-application/[How to integrate Hibernates Multitenant feature with Spring Data JPA in a Spring Boot application]
+
+=== JDBC
+
+* [x] https://spring.io/blog/2018/09/17/introducing-spring-data-jdbc/[Introducing Spring Data JDBC]
+* [x] https://spring.io/blog/2018/09/24/spring-data-jdbc-references-and-aggregates/[Spring Data JDBC, References, and Aggregates]
+
 === Related Articles
 * [x] https://docs.spring.io/spring-framework/docs/6.0.10/javadoc-api/org/springframework/beans/BeanUtils.html[Class BeanUtils]
 * [x] https://docs.spring.io/spring-framework/docs/6.0.10/javadoc-api/org/springframework/core/Conventions.html[Class Conventions]
@@ -43,7 +53,6 @@
 * [x] https://spring.io/blog/2022/10/11/embracing-virtual-threads/[Embracing Virtual Threads]
 * [x] https://spring.io/blog/2023/08/31/this-is-the-beginning-of-the-end-of-the-n-1-problem-introducing-single-query/[This is the Beginning of the End of the N+1 Problem: Introducing Single Query Loading.]
 * [x] https://www.baeldung.com/spring-webflux-backpressure[Backpressure Mechanism in Spring WebFlux]
-* [x] https://medium.com/@majbahbuet08/performance-pitfalls-while-using-spring-data-jpa-and-solutions-to-avoid-them-5eb4ee3fe4ea[Performance Pitfalls while using Spring Data JPA and Solutions to avoid them]
 * [x] https://spring.io/blog/2023/09/22/simplified-event-externalization-with-spring-modulith/[Simplified Event Externalization with Spring Modulith]
 * [x] https://martinelli.ch/testing-spring-boot-jms-with-artemis-and-testcontainers/[Testing Spring Boot JMS with ActiveMQ Artemis and Testcontainers]
 * [x] https://medium.com/@satanjim/how-we-reduced-the-memory-consumption-of-spring-boot-application-over-40-for-the-development-c8a5813fac23[How we reduced the memory consumption of spring boot application over 40% for the development environment]
@@ -51,7 +60,6 @@
 * [x] https://auth0.com/blog/java-spring-boot-microservices/[Java Microservices with Spring Boot and Spring Cloud]
 * [x] https://medium.com/@anilfromdit/dockerize-your-spring-boot-app-like-a-pro-d1dd0ef37b79[Dockerize Your Spring Boot App Like a Pro]
 * [x] https://spring.io/blog/2023/08/22/tackling-the-oauth2-client-component-model-in-spring-security/[Tackling the OAuth2 Client component model in Spring Security]
-* [x] https://spring.io/blog/2022/07/31/how-to-integrate-hibernates-multitenant-feature-with-spring-data-jpa-in-a-spring-boot-application/[How to integrate Hibernates Multitenant feature with Spring Data JPA in a Spring Boot application]
 * [x] https://spring.io/blog/2023/09/20/hello-java-21/[Hello, Java 21]
 
 === Videos
@@ -67,6 +75,13 @@
 * [x] https://www.youtube.com/watch?v=MlmHrbcNouc[DataSources]
 * [x] https://www.youtube.com/watch?v=rt_cUtb8LnQ[Spring Tips: DataSources]
 * [x] https://www.youtube.com/watch?v=8VJ_dSdV3pY[Spring Tips: Making the Joyful Jump to Java 21]
+
+=== Source reference
+
+* [x] https://github.com/spring-projects-experimental/spring-boot-testjars[spring-boot-testjars]
+* [x] https://github.com/schauder/talk-spring-data-jdbc[talk-spring-data-jdbc]
+* [x] https://github.com/spring-tips[Spring Tips]
+* [x] https://github.com/coffee-software-show[the Coffee Software Show]
 
 == Articles
 * [x] https://piotrminkowski.com/2022/01/05/useful-unknown-java-features/[Useful & Unknown Java Features]
@@ -101,10 +116,8 @@
 * [x] https://medium.com/@jojoooo/exploring-a-base-spring-boot-application-with-java-21-virtual-thread-spring-security-flyway-c0fde13c1eca[A Comprehensive guide to Spring Boot 3.2 with Java 21, Virtual Threads, Spring Security, PostgreSQL, Flyway, Caching, Micrometer, Opentelemetry, JUnit 5, RabbitMQ, Keycloak Integration, and More! (10/17)]
 * [x] https://github.com/laech/java-stacksrc[java-stacksrc]
 * [x] https://github.com/jonatan-ivanov/teahouse[Teahouse]
-* [x] https://github.com/spring-tips[Spring Tips]
 * [x] https://github.com/skinny85/jilt[Jilt]
 * [x] https://github.com/maciejwalkowiak/wiremock-spring-boot[WireMock Spring Boot]
-* [x] https://github.com/spring-projects-experimental/spring-boot-testjars[spring-boot-testjars]
 
 == Java Language Updates
 
