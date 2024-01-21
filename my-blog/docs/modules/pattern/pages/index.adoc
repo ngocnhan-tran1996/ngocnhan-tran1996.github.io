@@ -2,6 +2,7 @@
 
 == Structural patterns
 * [x] https://refactoring.guru/design-patterns/flyweight[Flyweight]
+* [x] https://refactoring.guru/design-patterns/proxy[Proxy]
 
 == Behavioral patterns
 
@@ -46,6 +47,9 @@
 
 * [x] https://martinfowler.com/bliki/TellDontAsk.html[TellDontAsk]
 * [x] https://stateless.co/hal_specification.html[HAL - Hypertext Application Language]
+* [x] https://en.wikipedia.org/wiki/Domain-driven_design[Domain-driven design]
+* [x] https://martinfowler.com/articles/patterns-of-distributed-systems/two-phase-commit.html[Two-Phase Commit]
+* [x] https://martinfowler.com/articles/patterns-of-distributed-systems/write-ahead-log.html[Write-Ahead Log]
 
 == Reference
 

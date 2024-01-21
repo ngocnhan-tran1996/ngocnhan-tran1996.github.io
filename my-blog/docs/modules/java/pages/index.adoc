@@ -26,6 +26,22 @@
 
 * [x] https://spring.io/blog/2018/09/17/introducing-spring-data-jdbc/[Introducing Spring Data JDBC]
 * [x] https://spring.io/blog/2018/09/24/spring-data-jdbc-references-and-aggregates/[Spring Data JDBC, References, and Aggregates]
+* [x] https://spring.io/blog/2021/09/09/spring-data-jdbc-how-to-use-custom-id-generation/[Spring Data JDBC - How to use custom ID generation]
+* [x] https://spring.io/blog/2021/09/22/spring-data-jdbc-how-do-i-make-bidirectional-relationships/[Spring Data JDBC - How do I make Bidirectional Relationships?]
+* [x] https://spring.io/blog/2021/10/18/spring-data-jdbc-how-do-i-implement-caching/[Spring Data JDBC - How do I implement caching?]
+* [x] https://spring.io/blog/2022/01/20/spring-data-jdbc-how-can-i-do-a-partial-update-of-an-aggregate-root/[Spring Data JDBC - How Can I Do a Partial Update of an Aggregate Root?]
+* [x] https://spring.io/blog/2023/08/29/spring-data-jdbc-how-to-maintain-your-database-schema/[Spring Data JDBC - How To Maintain Your Database Schema]
+
+=== Locking
+
+* [x] https://blog.devgenius.io/pessimistic-lock-in-spring-boot-a3c44055be0f[Pessimistic Lock in Spring Boot]
+* [x] https://www.baeldung.com/jpa-pessimistic-locking[Pessimistic Locking in JPA]
+* [x] https://www.baeldung.com/jpa-optimistic-locking[Optimistic Locking in JPA]
+
+=== Security
+
+* [x] https://spring.io/blog/2023/08/22/tackling-the-oauth2-client-component-model-in-spring-security/[Tackling the OAuth2 Client component model in Spring Security]
+* [x] https://neuw.medium.com/spring-boot-3-oauth2-client-for-servlets-based-project-1343de8bab34[Spring Boot 3 OAuth2 Client for non reactive project]
 
 === Related Articles
 * [x] https://docs.spring.io/spring-framework/docs/6.0.10/javadoc-api/org/springframework/beans/BeanUtils.html[Class BeanUtils]
@@ -33,7 +49,6 @@
 * [x] https://spring.io/blog/2014/12/02/latest-jackson-integration-improvements-in-spring[Latest Jackson integration improvements in Spring]
 * [x] https://spring.io/blog/2016/04/13/overriding-dependency-versions-with-spring-boot/[Overriding Dependency Versions with Spring Boot]
 * [x] https://developers.redhat.com/articles/2023/10/19/containerize-spring-boot-application-podman-desktop#[Containerize a Spring Boot application with Podman Desktop]
-* [x] https://blog.devgenius.io/pessimistic-lock-in-spring-boot-a3c44055be0f[Pessimistic Lock in Spring Boot]
 * [x] https://sudarshandoiphode.hashnode.dev/understanding-the-power-of-responseentityt-in-spring-framework[Understanding the Power of ResponseEntity<T> in Spring Framework]
 * [x] https://piotrminkowski.com/2023/11/15/kafka-tracing-with-spring-boot-and-open-telemetry/[Kafka Tracing with Spring Boot and Open Telemetry]
 * [x] https://spring.io/blog/2023/06/23/improved-testcontainers-support-in-spring-boot-3-1/[Improved Testcontainers Support in Spring Boot 3.1]
@@ -59,7 +74,6 @@
 * [x] https://umar-fajar14.medium.com/spring-boot-kafka-and-websocket-a-practical-approach-to-real-time-messaging-6169f5995fe1[Spring Boot, Kafka, and WebSocket: A Practical Approach to Real-Time Messaging]
 * [x] https://auth0.com/blog/java-spring-boot-microservices/[Java Microservices with Spring Boot and Spring Cloud]
 * [x] https://medium.com/@anilfromdit/dockerize-your-spring-boot-app-like-a-pro-d1dd0ef37b79[Dockerize Your Spring Boot App Like a Pro]
-* [x] https://spring.io/blog/2023/08/22/tackling-the-oauth2-client-component-model-in-spring-security/[Tackling the OAuth2 Client component model in Spring Security]
 * [x] https://spring.io/blog/2023/09/20/hello-java-21/[Hello, Java 21]
 
 === Videos
@@ -75,6 +89,7 @@
 * [x] https://www.youtube.com/watch?v=MlmHrbcNouc[DataSources]
 * [x] https://www.youtube.com/watch?v=rt_cUtb8LnQ[Spring Tips: DataSources]
 * [x] https://www.youtube.com/watch?v=8VJ_dSdV3pY[Spring Tips: Making the Joyful Jump to Java 21]
+* [x] https://www.youtube.com/watch?v=0P8UU5vkvI8[Dr. Mark Pollack, lead of the new Spring AI project]
 
 === Source reference
 
