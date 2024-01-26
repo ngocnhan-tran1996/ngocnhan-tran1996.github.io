@@ -16,6 +16,7 @@
 * [x] https://www.atomikos.com/Documentation/SpringIntegration[Spring Integration]
 * [x] https://www.atomikos.com/Blog/DistributedTransactionsWithMultipleDatabasesSpringBootSpringDataJPAAndAtomikos[Distributed transactions with multiple databases, Spring Boot, Spring Data JPA and Atomikos]
 * [x] https://www.atomikos.com/Blog/SpringJTAMultipleResourceTransactionsInTomcatWithAtomikosExample[Spring JTA multiple resource transactions in Tomcat with Atomikos example]
+* [x] https://spring.io/blog/2023/10/24/a-use-case-for-transactions-adapting-to-transactional-outbox-pattern/[A Use Case for Transactions: Outbox Pattern Strategies in Spring Cloud Stream Kafka Binder]
 
 === JPA
 
@@ -46,6 +47,7 @@
 === Related Articles
 * [x] https://docs.spring.io/spring-framework/docs/6.0.10/javadoc-api/org/springframework/beans/BeanUtils.html[Class BeanUtils]
 * [x] https://docs.spring.io/spring-framework/docs/6.0.10/javadoc-api/org/springframework/core/Conventions.html[Class Conventions]
+* [x] https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/annotation/ClassPathScanningCandidateComponentProvider.html[Class ClassPathScanningCandidateComponentProvider]
 * [x] https://spring.io/blog/2014/12/02/latest-jackson-integration-improvements-in-spring[Latest Jackson integration improvements in Spring]
 * [x] https://spring.io/blog/2016/04/13/overriding-dependency-versions-with-spring-boot/[Overriding Dependency Versions with Spring Boot]
 * [x] https://developers.redhat.com/articles/2023/10/19/containerize-spring-boot-application-podman-desktop#[Containerize a Spring Boot application with Podman Desktop]
@@ -75,6 +77,8 @@
 * [x] https://auth0.com/blog/java-spring-boot-microservices/[Java Microservices with Spring Boot and Spring Cloud]
 * [x] https://medium.com/@anilfromdit/dockerize-your-spring-boot-app-like-a-pro-d1dd0ef37b79[Dockerize Your Spring Boot App Like a Pro]
 * [x] https://spring.io/blog/2023/09/20/hello-java-21/[Hello, Java 21]
+* [x] https://stackoverflow.com/questions/76416798/why-does-autoconfiguration-use-proxybeanmethods-false-autoconfigurebefore[Why does @AutoConfiguration use proxyBeanMethods = false, @AutoConfigureBefore, @AutoConfigureAfter]
+* [x] https://stackoverflow.com/questions/70455585/why-i-always-get-singleton-bean-even-if-i-use-proxybeanmethods-false[why I always get singleton bean, even if I use proxyBeanMethods = false?]
 
 === Videos
 * [x] https://www.youtube.com/watch?v=5YdjBWSGtbE[Spring Tips: Spring's Application Event Subsystem]
@@ -90,6 +94,7 @@
 * [x] https://www.youtube.com/watch?v=rt_cUtb8LnQ[Spring Tips: DataSources]
 * [x] https://www.youtube.com/watch?v=8VJ_dSdV3pY[Spring Tips: Making the Joyful Jump to Java 21]
 * [x] https://www.youtube.com/watch?v=0P8UU5vkvI8[Dr. Mark Pollack, lead of the new Spring AI project]
+* [x] https://www.youtube.com/watch?v=aUm5WZjh8RA[Spring Tips: the road to Spring Boot 3: Spring Framework 6]
 
 === Source reference
 
