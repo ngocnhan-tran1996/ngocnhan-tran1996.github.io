@@ -37,6 +37,7 @@
 
 * [x] https://spring.io/blog/2023/08/22/tackling-the-oauth2-client-component-model-in-spring-security/[Tackling the OAuth2 Client component model in Spring Security]
 * [x] https://neuw.medium.com/spring-boot-3-oauth2-client-for-servlets-based-project-1343de8bab34[Spring Boot 3 OAuth2 Client for non reactive project]
+* [x] https://www.tutorialspoint.com/how-to-implement-simple-authentication-in-spring-boot[How to Implement Simple Authentication in Spring Boot?]
 
 === Kafka
 
@@ -45,6 +46,7 @@
 * [x] https://umar-fajar14.medium.com/spring-boot-kafka-and-websocket-a-practical-approach-to-real-time-messaging-6169f5995fe1[Spring Boot, Kafka, and WebSocket: A Practical Approach to Real-Time Messaging]
 * [x] https://spring.io/blog/2023/10/24/a-use-case-for-transactions-adapting-to-transactional-outbox-pattern/[A Use Case for Transactions: Outbox Pattern Strategies in Spring Cloud Stream Kafka Binder]
 * [x] https://spring.io/blog/2023/09/27/introduction-to-transactions-in-spring-cloud-stream-kafka-applications[Introduction to Transactions in Spring Cloud Stream Kafka Applications]
+* [x] https://spring.io/blog/2023/09/28/producer-initiated-transactions-in-spring-cloud-stream-kafka-applications[Producer Initiated Transactions in Spring Cloud Stream Kafka Applications]
 
 === Docker
 
@@ -84,7 +86,6 @@
 * [x] https://digma.ai/blog/the-spring-way-of-doing-things-9-ways-to-improve-your-spring-boot-skills/[THE “SPRING WAY” OF DOING THINGS: 9 WAYS TO IMPROVE YOUR SPRING BOOT SKILLS]
 * [x] https://spring.io/blog/2023/06/19/spring-boot-31-connectiondetails-abstraction/[Spring Boot 3.1's ConnectionDetails abstraction]
 * [x] https://spring.io/blog/2023/07/13/new-in-spring-6-1-restclient/[New in Spring 6.1: RestClient]
-* [x] https://digma.ai/blog/the-spring-way-of-doing-things-9-ways-to-improve-your-spring-boot-skills/[THE “SPRING WAY” OF DOING THINGS: 9 WAYS TO IMPROVE YOUR SPRING BOOT SKILLS]
 * [x] https://mydeveloperplanet.com/2023/10/04/how-to-generate-spring-properties-documentation/[How to Generate Spring Properties Documentation]
 * [x] https://mydeveloperplanet.com/2023/09/06/spring-boot-configuration-properties-explained/[Spring Boot Configuration Properties Explained]
 * [x] https://towardsdev.com/data-transfer-object-dto-in-spring-boot-c00678cc5946[Data Transfer Object (DTO) in Spring Boot]
