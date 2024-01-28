@@ -17,11 +17,6 @@
 * [x] https://www.atomikos.com/Blog/DistributedTransactionsWithMultipleDatabasesSpringBootSpringDataJPAAndAtomikos[Distributed transactions with multiple databases, Spring Boot, Spring Data JPA and Atomikos]
 * [x] https://www.atomikos.com/Blog/SpringJTAMultipleResourceTransactionsInTomcatWithAtomikosExample[Spring JTA multiple resource transactions in Tomcat with Atomikos example]
 
-=== JPA
-
-* [x] https://medium.com/@majbahbuet08/performance-pitfalls-while-using-spring-data-jpa-and-solutions-to-avoid-them-5eb4ee3fe4ea[Performance Pitfalls while using Spring Data JPA and Solutions to avoid them]
-* [x] https://spring.io/blog/2022/07/31/how-to-integrate-hibernates-multitenant-feature-with-spring-data-jpa-in-a-spring-boot-application/[How to integrate Hibernates Multitenant feature with Spring Data JPA in a Spring Boot application]
-
 === JDBC
 
 * [x] https://spring.io/blog/2018/09/17/introducing-spring-data-jdbc/[Introducing Spring Data JDBC]
@@ -49,6 +44,7 @@
 * [x] https://piotrminkowski.com/2023/11/15/kafka-tracing-with-spring-boot-and-open-telemetry/[Kafka Tracing with Spring Boot and Open Telemetry]
 * [x] https://umar-fajar14.medium.com/spring-boot-kafka-and-websocket-a-practical-approach-to-real-time-messaging-6169f5995fe1[Spring Boot, Kafka, and WebSocket: A Practical Approach to Real-Time Messaging]
 * [x] https://spring.io/blog/2023/10/24/a-use-case-for-transactions-adapting-to-transactional-outbox-pattern/[A Use Case for Transactions: Outbox Pattern Strategies in Spring Cloud Stream Kafka Binder]
+* [x] https://spring.io/blog/2023/09/27/introduction-to-transactions-in-spring-cloud-stream-kafka-applications[Introduction to Transactions in Spring Cloud Stream Kafka Applications]
 
 === Docker
 
@@ -56,6 +52,26 @@
 * [x] https://mydeveloperplanet.com/2022/12/14/spring-boot-docker-best-practices/[Spring Boot Docker Best Practices]
 * [x] https://springframework.guru/why-you-should-be-using-spring-boot-docker-layers/[Why You Should be Using Spring Boot Docker Layers]
 * [x] https://medium.com/@anilfromdit/dockerize-your-spring-boot-app-like-a-pro-d1dd0ef37b79[Dockerize Your Spring Boot App Like a Pro]
+
+=== MULTI TENANT
+
+* [x] https://spring.io/blog/2022/07/31/how-to-integrate-hibernates-multitenant-feature-with-spring-data-jpa-in-a-spring-boot-application/[How to integrate Hibernates Multitenant feature with Spring Data JPA in a Spring Boot application]
+* [x] https://callistaenterprise.se/blogg/teknik/2020/09/19/multi-tenancy-with-spring-boot-part1/[Dynamic Multi Tenancy with Spring Boot, Hibernate and Liquibase Part 1]
+* [x] https://callistaenterprise.se/blogg/teknik/2020/09/20/multi-tenancy-with-spring-boot-part2/[Dynamic Multi Tenancy with Spring Boot, Hibernate and Liquibase Part 2: Outlining an Implementation Strategy for Multi Tenant Data Access]
+* [x] https://callistaenterprise.se/blogg/teknik/2020/10/03/multi-tenancy-with-spring-boot-part3/[Dynamic Multi Tenancy with Spring Boot, Hibernate and Liquibase Part 3: Implement the Database-per-tenant pattern using Hibernate]
+* [x] https://callistaenterprise.se/blogg/teknik/2020/10/10/multi-tenancy-with-spring-boot-part4/[Dynamic Multi Tenancy with Spring Boot, Hibernate and Liquibase Part 4: Implement the Schema-per-tenant pattern using Hibernate]
+* [x] https://callistaenterprise.se/blogg/teknik/2020/10/17/multi-tenancy-with-spring-boot-part5/[Dynamic Multi Tenancy with Spring Boot, Hibernate and Liquibase Part 5: Implementing the Shared Database with Discriminator Column pattern using Hibernate Filters]
+* [x] https://callistaenterprise.se/blogg/teknik/2020/10/24/multi-tenancy-with-spring-boot-part6/[Dynamic Multi Tenancy with Spring Boot, Hibernate and Liquibase Part 6: Implementing the Shared Database with Discriminator Column pattern using Postgres Row Level Security]
+* [x] https://callistaenterprise.se/blogg/teknik/2022/03/26/multi-tenancy-with-spring-boot-part7/[Dynamic Multi Tenancy with Spring Boot, Hibernate and Liquibase Part 7: Combining the Shared Database pattern with Database per Group of Tenants (a.k.a. Shard) for additional scalability]
+* [x] https://callistaenterprise.se/blogg/teknik/2023/05/22/multi-tenancy-with-spring-boot-part8/[Dynamic Multi Tenancy with Spring Boot, Hibernate and Liquibase Part 8: Shared Database pattern with Hibernate 6]
+
+=== TESTCONTAINERS
+
+* [x] https://spring.io/blog/2023/06/23/improved-testcontainers-support-in-spring-boot-3-1/[Improved Testcontainers Support in Spring Boot 3.1]
+* [x] https://info.michael-simons.eu/2023/07/27/the-best-way-to-use-testcontainers-from-your-spring-boot-tests/[THE BEST WAY TO USE TESTCONTAINERS FROM YOUR SPRING BOOT TESTS!]
+* [x] https://martinelli.ch/testing-spring-boot-jms-with-artemis-and-testcontainers/[Testing Spring Boot JMS with ActiveMQ Artemis and Testcontainers]
+* [x] https://maciejwalkowiak.com/blog/testcontainers-spring-boot-setup/[The best way to use Testcontainers with Spring Boot]
+* [x] https://www.infoq.com/news/2023/07/enhanced-testcontainers-support/[Enhanced Testcontainers and Development-Time Containers Support in Spring Boot 3.1]
 
 === Related Articles
 * [x] https://docs.spring.io/spring-framework/docs/6.0.10/javadoc-api/org/springframework/beans/BeanUtils.html[Class BeanUtils]
@@ -65,13 +81,10 @@
 * [x] https://spring.io/blog/2016/04/13/overriding-dependency-versions-with-spring-boot/[Overriding Dependency Versions with Spring Boot]
 * [x] https://developers.redhat.com/articles/2023/10/19/containerize-spring-boot-application-podman-desktop#[Containerize a Spring Boot application with Podman Desktop]
 * [x] https://sudarshandoiphode.hashnode.dev/understanding-the-power-of-responseentityt-in-spring-framework[Understanding the Power of ResponseEntity<T> in Spring Framework]
-* [x] https://spring.io/blog/2023/06/23/improved-testcontainers-support-in-spring-boot-3-1/[Improved Testcontainers Support in Spring Boot 3.1]
 * [x] https://digma.ai/blog/the-spring-way-of-doing-things-9-ways-to-improve-your-spring-boot-skills/[THE “SPRING WAY” OF DOING THINGS: 9 WAYS TO IMPROVE YOUR SPRING BOOT SKILLS]
-* [x] https://foojay.io/today/testing-spring-boot-jms-with-activemq-artemis-and-testcontainers/[Testing Spring Boot JMS with ActiveMQ Artemis and Testcontainers]
 * [x] https://spring.io/blog/2023/06/19/spring-boot-31-connectiondetails-abstraction/[Spring Boot 3.1's ConnectionDetails abstraction]
 * [x] https://spring.io/blog/2023/07/13/new-in-spring-6-1-restclient/[New in Spring 6.1: RestClient]
 * [x] https://digma.ai/blog/the-spring-way-of-doing-things-9-ways-to-improve-your-spring-boot-skills/[THE “SPRING WAY” OF DOING THINGS: 9 WAYS TO IMPROVE YOUR SPRING BOOT SKILLS]
-* [x] https://foojay.io/today/testing-spring-boot-jms-with-activemq-artemis-and-testcontainers/[Testing Spring Boot JMS with ActiveMQ Artemis and Testcontainers]
 * [x] https://mydeveloperplanet.com/2023/10/04/how-to-generate-spring-properties-documentation/[How to Generate Spring Properties Documentation]
 * [x] https://mydeveloperplanet.com/2023/09/06/spring-boot-configuration-properties-explained/[Spring Boot Configuration Properties Explained]
 * [x] https://towardsdev.com/data-transfer-object-dto-in-spring-boot-c00678cc5946[Data Transfer Object (DTO) in Spring Boot]
@@ -80,12 +93,13 @@
 * [x] https://spring.io/blog/2023/08/31/this-is-the-beginning-of-the-end-of-the-n-1-problem-introducing-single-query/[This is the Beginning of the End of the N+1 Problem: Introducing Single Query Loading.]
 * [x] https://www.baeldung.com/spring-webflux-backpressure[Backpressure Mechanism in Spring WebFlux]
 * [x] https://spring.io/blog/2023/09/22/simplified-event-externalization-with-spring-modulith/[Simplified Event Externalization with Spring Modulith]
-* [x] https://martinelli.ch/testing-spring-boot-jms-with-artemis-and-testcontainers/[Testing Spring Boot JMS with ActiveMQ Artemis and Testcontainers]
 * [x] https://medium.com/@satanjim/how-we-reduced-the-memory-consumption-of-spring-boot-application-over-40-for-the-development-c8a5813fac23[How we reduced the memory consumption of spring boot application over 40% for the development environment]
 * [x] https://auth0.com/blog/java-spring-boot-microservices/[Java Microservices with Spring Boot and Spring Cloud]
 * [x] https://spring.io/blog/2023/09/20/hello-java-21/[Hello, Java 21]
 * [x] https://stackoverflow.com/questions/76416798/why-does-autoconfiguration-use-proxybeanmethods-false-autoconfigurebefore[Why does @AutoConfiguration use proxyBeanMethods = false, @AutoConfigureBefore, @AutoConfigureAfter]
 * [x] https://stackoverflow.com/questions/70455585/why-i-always-get-singleton-bean-even-if-i-use-proxybeanmethods-false[why I always get singleton bean, even if I use proxyBeanMethods = false?]
+* [x] https://medium.com/@majbahbuet08/performance-pitfalls-while-using-spring-data-jpa-and-solutions-to-avoid-them-5eb4ee3fe4ea[Performance Pitfalls while using Spring Data JPA and Solutions to avoid them]
+* [x] https://medium.com/cloud-native-daily/elk-spring-boot-a-guide-to-local-configuration-b6d9fa7790f6[ELK + Spring Boot: A Guide to Local Configuration]
 
 === Videos
 * [x] https://www.youtube.com/watch?v=5YdjBWSGtbE[Spring Tips: Spring's Application Event Subsystem]
@@ -145,6 +159,8 @@
 * [x] https://github.com/jonatan-ivanov/teahouse[Teahouse]
 * [x] https://github.com/skinny85/jilt[Jilt]
 * [x] https://github.com/maciejwalkowiak/wiremock-spring-boot[WireMock Spring Boot]
+* [x] https://github.com/hardikSinghBehl/just-another-testcontainer-integration[Just another Testcontainer integration]
+* [x] https://github.com/LogNet/grpc-spring-boot-starter[Spring boot starter for gRPC framework]
 
 == Java Language Updates
 
