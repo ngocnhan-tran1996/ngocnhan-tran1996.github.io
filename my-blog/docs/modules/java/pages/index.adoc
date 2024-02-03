@@ -17,6 +17,13 @@
 * [x] https://www.atomikos.com/Blog/DistributedTransactionsWithMultipleDatabasesSpringBootSpringDataJPAAndAtomikos[Distributed transactions with multiple databases, Spring Boot, Spring Data JPA and Atomikos]
 * [x] https://www.atomikos.com/Blog/SpringJTAMultipleResourceTransactionsInTomcatWithAtomikosExample[Spring JTA multiple resource transactions in Tomcat with Atomikos example]
 
+=== JPA
+* [x] https://vladmihalcea.com/spring-data-jpa-findbyid/[The Spring Data JPA findById Anti-Pattern]
+* [x] https://www.baeldung.com/jpa-pessimistic-locking[Pessimistic Locking in JPA]
+* [x] https://www.baeldung.com/jpa-optimistic-locking[Optimistic Locking in JPA]
+* [x] https://spring.io/blog/2022/07/31/how-to-integrate-hibernates-multitenant-feature-with-spring-data-jpa-in-a-spring-boot-application/[How to integrate Hibernates Multitenant feature with Spring Data JPA in a Spring Boot application]
+* [x] https://medium.com/@majbahbuet08/performance-pitfalls-while-using-spring-data-jpa-and-solutions-to-avoid-them-5eb4ee3fe4ea[Performance Pitfalls while using Spring Data JPA and Solutions to avoid them]
+
 === JDBC
 
 * [x] https://spring.io/blog/2018/09/17/introducing-spring-data-jdbc/[Introducing Spring Data JDBC]
@@ -30,8 +37,6 @@
 === Locking
 
 * [x] https://blog.devgenius.io/pessimistic-lock-in-spring-boot-a3c44055be0f[Pessimistic Lock in Spring Boot]
-* [x] https://www.baeldung.com/jpa-pessimistic-locking[Pessimistic Locking in JPA]
-* [x] https://www.baeldung.com/jpa-optimistic-locking[Optimistic Locking in JPA]
 
 === Security
 
@@ -57,7 +62,6 @@
 
 === MULTI TENANT
 
-* [x] https://spring.io/blog/2022/07/31/how-to-integrate-hibernates-multitenant-feature-with-spring-data-jpa-in-a-spring-boot-application/[How to integrate Hibernates Multitenant feature with Spring Data JPA in a Spring Boot application]
 * [x] https://callistaenterprise.se/blogg/teknik/2020/09/19/multi-tenancy-with-spring-boot-part1/[Dynamic Multi Tenancy with Spring Boot, Hibernate and Liquibase Part 1]
 * [x] https://callistaenterprise.se/blogg/teknik/2020/09/20/multi-tenancy-with-spring-boot-part2/[Dynamic Multi Tenancy with Spring Boot, Hibernate and Liquibase Part 2: Outlining an Implementation Strategy for Multi Tenant Data Access]
 * [x] https://callistaenterprise.se/blogg/teknik/2020/10/03/multi-tenancy-with-spring-boot-part3/[Dynamic Multi Tenancy with Spring Boot, Hibernate and Liquibase Part 3: Implement the Database-per-tenant pattern using Hibernate]
@@ -79,6 +83,7 @@
 * [x] https://docs.spring.io/spring-framework/docs/6.0.10/javadoc-api/org/springframework/beans/BeanUtils.html[Class BeanUtils]
 * [x] https://docs.spring.io/spring-framework/docs/6.0.10/javadoc-api/org/springframework/core/Conventions.html[Class Conventions]
 * [x] https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/annotation/ClassPathScanningCandidateComponentProvider.html[Class ClassPathScanningCandidateComponentProvider]
+* [x] https://docs.spring.io/spring-framework/docs/current/javadoc-api/constant-values.html[Constant Field Values]
 * [x] https://spring.io/blog/2014/12/02/latest-jackson-integration-improvements-in-spring[Latest Jackson integration improvements in Spring]
 * [x] https://spring.io/blog/2016/04/13/overriding-dependency-versions-with-spring-boot/[Overriding Dependency Versions with Spring Boot]
 * [x] https://developers.redhat.com/articles/2023/10/19/containerize-spring-boot-application-podman-desktop#[Containerize a Spring Boot application with Podman Desktop]
@@ -99,8 +104,9 @@
 * [x] https://spring.io/blog/2023/09/20/hello-java-21/[Hello, Java 21]
 * [x] https://stackoverflow.com/questions/76416798/why-does-autoconfiguration-use-proxybeanmethods-false-autoconfigurebefore[Why does @AutoConfiguration use proxyBeanMethods = false, @AutoConfigureBefore, @AutoConfigureAfter]
 * [x] https://stackoverflow.com/questions/70455585/why-i-always-get-singleton-bean-even-if-i-use-proxybeanmethods-false[why I always get singleton bean, even if I use proxyBeanMethods = false?]
-* [x] https://medium.com/@majbahbuet08/performance-pitfalls-while-using-spring-data-jpa-and-solutions-to-avoid-them-5eb4ee3fe4ea[Performance Pitfalls while using Spring Data JPA and Solutions to avoid them]
 * [x] https://medium.com/cloud-native-daily/elk-spring-boot-a-guide-to-local-configuration-b6d9fa7790f6[ELK + Spring Boot: A Guide to Local Configuration]
+* [x] https://digma.ai/blog/key-changes-in-observability-in-spring-boot-3-2/[KEY IMPROVEMENTS AND CHANGES IN OBSERVABILITY FOR SPRING BOOT 3.2]
+* [x] https://auth0.com/blog/how-to-build-a-graphql-api-with-spring-boot/[How to Build a GraphQL API with Spring Boot]
 
 === Videos
 * [x] https://www.youtube.com/watch?v=5YdjBWSGtbE[Spring Tips: Spring's Application Event Subsystem]
@@ -117,6 +123,7 @@
 * [x] https://www.youtube.com/watch?v=8VJ_dSdV3pY[Spring Tips: Making the Joyful Jump to Java 21]
 * [x] https://www.youtube.com/watch?v=0P8UU5vkvI8[Dr. Mark Pollack, lead of the new Spring AI project]
 * [x] https://www.youtube.com/watch?v=aUm5WZjh8RA[Spring Tips: the road to Spring Boot 3: Spring Framework 6]
+* [x] https://www.youtube.com/watch?v=7K6YPRUtBkQ[Generating Images with Spring AI]
 
 === Source reference
 
@@ -162,6 +169,7 @@
 * [x] https://github.com/maciejwalkowiak/wiremock-spring-boot[WireMock Spring Boot]
 * [x] https://github.com/hardikSinghBehl/just-another-testcontainer-integration[Just another Testcontainer integration]
 * [x] https://github.com/LogNet/grpc-spring-boot-starter[Spring boot starter for gRPC framework]
+* [x] https://github.com/kiberohrannik/webflux-log[webflux-log]
 
 == Java Language Updates
 
@@ -174,6 +182,7 @@
 * [x] https://openjdk.org/projects/amber/guides/lvti-style-guide[Local Variable Type Inference]
 * [x] https://openjdk.org/projects/amber/design-notes/patterns/pattern-matching-for-java[Pattern Matching for Java]
 * [x] https://piotrminkowski.com/2021/02/01/new-developer-friendly-features-after-java-8/[New Features After Java 8]
+* [x] https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-21/[A categorized list of all Java and JVM features since JDK 8 to 21]
 
 == Reference
 * [x] https://www.sqltutorial.org/sql-window-functions/[SQL Window Functions]
