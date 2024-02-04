@@ -34,10 +34,6 @@
 * [x] https://spring.io/blog/2022/01/20/spring-data-jdbc-how-can-i-do-a-partial-update-of-an-aggregate-root/[Spring Data JDBC - How Can I Do a Partial Update of an Aggregate Root?]
 * [x] https://spring.io/blog/2023/08/29/spring-data-jdbc-how-to-maintain-your-database-schema/[Spring Data JDBC - How To Maintain Your Database Schema]
 
-=== Locking
-
-* [x] https://blog.devgenius.io/pessimistic-lock-in-spring-boot-a3c44055be0f[Pessimistic Lock in Spring Boot]
-
 === Security
 
 * [x] https://spring.io/blog/2023/08/22/tackling-the-oauth2-client-component-model-in-spring-security/[Tackling the OAuth2 Client component model in Spring Security]
@@ -124,6 +120,7 @@
 * [x] https://www.youtube.com/watch?v=0P8UU5vkvI8[Dr. Mark Pollack, lead of the new Spring AI project]
 * [x] https://www.youtube.com/watch?v=aUm5WZjh8RA[Spring Tips: the road to Spring Boot 3: Spring Framework 6]
 * [x] https://www.youtube.com/watch?v=7K6YPRUtBkQ[Generating Images with Spring AI]
+* [x] https://www.youtube.com/watch?v=FWJ3IzQp0fk[Spring Tips: CQRS and Axon Framework]
 
 === Source reference
 
@@ -131,6 +128,11 @@
 * [x] https://github.com/schauder/talk-spring-data-jdbc[talk-spring-data-jdbc]
 * [x] https://github.com/spring-tips[Spring Tips]
 * [x] https://github.com/coffee-software-show[the Coffee Software Show]
+
+== Locking
+
+* [x] https://blog.devgenius.io/pessimistic-lock-in-spring-boot-a3c44055be0f[Pessimistic Lock in Spring Boot]
+* [x] https://vladmihalcea.com/2pl-two-phase-locking/[How does the 2PL (Two-Phase Locking) algorithm work]
 
 == Articles
 * [x] https://piotrminkowski.com/2022/01/05/useful-unknown-java-features/[Useful & Unknown Java Features]
