@@ -48,6 +48,9 @@
 * [x] https://spring.io/blog/2023/10/24/a-use-case-for-transactions-adapting-to-transactional-outbox-pattern/[A Use Case for Transactions: Outbox Pattern Strategies in Spring Cloud Stream Kafka Binder]
 * [x] https://spring.io/blog/2023/09/27/introduction-to-transactions-in-spring-cloud-stream-kafka-applications[Introduction to Transactions in Spring Cloud Stream Kafka Applications]
 * [x] https://spring.io/blog/2023/09/28/producer-initiated-transactions-in-spring-cloud-stream-kafka-applications[Producer Initiated Transactions in Spring Cloud Stream Kafka Applications]
+* [x] https://spring.io/blog/2023/10/04/synchronizing-with-external-transaction-managers-in-spring-cloud-stream/[Synchronizing with External Transaction Managers in Spring Cloud Stream Kafka Applications]
+* [x] https://spring.io/blog/2023/10/11/transactional-rollback-strategies-with-spring-cloud-stream-and-apache-kafka/[Transactional Rollback Strategies with Spring Cloud Stream and Apache Kafka]
+* [x] https://spring.io/blog/2023/10/16/apache-kafkas-exactly-once-semantics-in-spring-cloud-stream-kafka[Apache Kafka’s Exactly-Once Semantics in Spring Cloud Stream Kafka Applications]
 
 === Docker
 
@@ -103,6 +106,7 @@
 * [x] https://medium.com/cloud-native-daily/elk-spring-boot-a-guide-to-local-configuration-b6d9fa7790f6[ELK + Spring Boot: A Guide to Local Configuration]
 * [x] https://digma.ai/blog/key-changes-in-observability-in-spring-boot-3-2/[KEY IMPROVEMENTS AND CHANGES IN OBSERVABILITY FOR SPRING BOOT 3.2]
 * [x] https://auth0.com/blog/how-to-build-a-graphql-api-with-spring-boot/[How to Build a GraphQL API with Spring Boot]
+* [x] https://www.baeldung.com/spring-webclient-json-custom-deserialization[Custom JSON Deserialization Using Spring WebClient]
 
 === Videos
 * [x] https://www.youtube.com/watch?v=5YdjBWSGtbE[Spring Tips: Spring's Application Event Subsystem]
@@ -137,6 +141,7 @@
 == Articles
 * [x] https://piotrminkowski.com/2022/01/05/useful-unknown-java-features/[Useful & Unknown Java Features]
 * [x] https://piotrminkowski.com/2023/01/30/useful-unknown-java-libraries/[Useful & Unknown Java Libraries]
+* [x] https://piotrminkowski.com/2019/10/04/overview-of-java-stream-api-extensions/[Overview of Java Stream API Extensions]
 * [x] https://www.infoworld.com/article/3709690/what-is-object-oriented-programming-the-everyday-programming-style.html[Intro to OOP: The everyday programming style]
 * [x] https://www.infoq.com/articles/data-oriented-programming-java/[Data Oriented Programming in Java]
 * [x] https://www.baeldung.com/jackson-json-view-annotation[Jackson JSON Views]
