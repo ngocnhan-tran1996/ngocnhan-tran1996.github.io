@@ -107,24 +107,33 @@
 * [x] https://digma.ai/blog/key-changes-in-observability-in-spring-boot-3-2/[KEY IMPROVEMENTS AND CHANGES IN OBSERVABILITY FOR SPRING BOOT 3.2]
 * [x] https://auth0.com/blog/how-to-build-a-graphql-api-with-spring-boot/[How to Build a GraphQL API with Spring Boot]
 * [x] https://www.baeldung.com/spring-webclient-json-custom-deserialization[Custom JSON Deserialization Using Spring WebClient]
+* [x] https://spring.io/blog/2023/03/28/context-propagation-with-project-reactor-1-the-basics[Context Propagation with Project Reactor 1 - The Basics]
+* [x] https://spring.io/blog/2023/03/29/context-propagation-with-project-reactor-2-the-bumpy-road-of-spring-cloud[Context Propagation with Project Reactor 2 - The bumpy road of Spring Cloud Sleuth]
+* [x] https://spring.io/blog/2023/03/30/context-propagation-with-project-reactor-3-unified-bridging-between-reactive[Context Propagation with Project Reactor 3 - Unified Bridging between Reactive and Imperative]
 
-=== Videos
+=== Spring Tips
+
 * [x] https://www.youtube.com/watch?v=5YdjBWSGtbE[Spring Tips: Spring's Application Event Subsystem]
 * [x] https://www.youtube.com/watch?v=dMhpDdR6nHw[Spring Tips: Spring Boot 3.2]
+* [x] https://www.youtube.com/watch?v=aUm5WZjh8RA[Spring Tips: the road to Spring Boot 3: Spring Framework 6]
+* [x] https://www.youtube.com/watch?v=7K6YPRUtBkQ[Generating Images with Spring AI]
+* [x] https://www.youtube.com/watch?v=FWJ3IzQp0fk[Spring Tips: CQRS and Axon Framework]
+* [x] https://www.youtube.com/watch?v=mOLfjfPm8u8[Spring Tips: Spring Boot Testjars]
+* [x] https://www.youtube.com/watch?v=aNKDoiOUo9M[Spring Tips: Spring AI]
+* [x] https://www.youtube.com/watch?v=rt_cUtb8LnQ[Spring Tips: DataSources]
+* [x] https://www.youtube.com/watch?v=8VJ_dSdV3pY[Spring Tips: Making the Joyful Jump to Java 21]
+* [x] https://www.youtube.com/watch?v=srBYXhhLVV4[Spring Tips: Spring Data JDBC]
+
+=== Videos
+
 * [x] https://www.youtube.com/watch?v=kWb-orCsCM0[Development-time containers with Spring Boot 3.1]
 * [x] https://www.youtube.com/watch?v=bbzek2j3Yz0[Build a ChatGPT clone with Spring Boot, LangChain, and React in 20 minutes]
 * [x] https://www.youtube.com/watch?v=0QVdJcxGf1M[Generate Dynamic Websites using ChatGPT and Spring AI]
 * [x] https://www.youtube.com/watch?v=74AEVZOBL88[How To Log Outgoing HTTP Requests with Spring Rest Client and Spring Boot 3]
 * [x] https://www.youtube.com/watch?v=jOTn6N-8iKc[Build an AI-powered scheduling app with Spring Boot and Timefold]
-* [x] https://www.youtube.com/watch?v=srBYXhhLVV4[Spring Tips: Spring Data JDBC]
 * [x] https://www.youtube.com/watch?v=RoAyxO_0IxM[Getting Started with Spring AI and Azure Open AI]
 * [x] https://www.youtube.com/watch?v=MlmHrbcNouc[DataSources]
-* [x] https://www.youtube.com/watch?v=rt_cUtb8LnQ[Spring Tips: DataSources]
-* [x] https://www.youtube.com/watch?v=8VJ_dSdV3pY[Spring Tips: Making the Joyful Jump to Java 21]
 * [x] https://www.youtube.com/watch?v=0P8UU5vkvI8[Dr. Mark Pollack, lead of the new Spring AI project]
-* [x] https://www.youtube.com/watch?v=aUm5WZjh8RA[Spring Tips: the road to Spring Boot 3: Spring Framework 6]
-* [x] https://www.youtube.com/watch?v=7K6YPRUtBkQ[Generating Images with Spring AI]
-* [x] https://www.youtube.com/watch?v=FWJ3IzQp0fk[Spring Tips: CQRS and Axon Framework]
 
 === Source reference
 
