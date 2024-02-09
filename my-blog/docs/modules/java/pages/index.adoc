@@ -116,7 +116,6 @@
 * [x] https://www.youtube.com/watch?v=5YdjBWSGtbE[Spring Tips: Spring's Application Event Subsystem]
 * [x] https://www.youtube.com/watch?v=dMhpDdR6nHw[Spring Tips: Spring Boot 3.2]
 * [x] https://www.youtube.com/watch?v=aUm5WZjh8RA[Spring Tips: the road to Spring Boot 3: Spring Framework 6]
-* [x] https://www.youtube.com/watch?v=7K6YPRUtBkQ[Generating Images with Spring AI]
 * [x] https://www.youtube.com/watch?v=FWJ3IzQp0fk[Spring Tips: CQRS and Axon Framework]
 * [x] https://www.youtube.com/watch?v=mOLfjfPm8u8[Spring Tips: Spring Boot Testjars]
 * [x] https://www.youtube.com/watch?v=aNKDoiOUo9M[Spring Tips: Spring AI]
@@ -134,6 +133,7 @@
 * [x] https://www.youtube.com/watch?v=RoAyxO_0IxM[Getting Started with Spring AI and Azure Open AI]
 * [x] https://www.youtube.com/watch?v=MlmHrbcNouc[DataSources]
 * [x] https://www.youtube.com/watch?v=0P8UU5vkvI8[Dr. Mark Pollack, lead of the new Spring AI project]
+* [x] https://www.youtube.com/watch?v=7K6YPRUtBkQ[Generating Images with Spring AI]
 
 === Source reference
 
