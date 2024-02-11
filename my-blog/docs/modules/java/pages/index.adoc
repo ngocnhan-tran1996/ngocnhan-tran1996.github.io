@@ -16,6 +16,9 @@
 * [x] https://www.atomikos.com/Documentation/SpringIntegration[Spring Integration]
 * [x] https://www.atomikos.com/Blog/DistributedTransactionsWithMultipleDatabasesSpringBootSpringDataJPAAndAtomikos[Distributed transactions with multiple databases, Spring Boot, Spring Data JPA and Atomikos]
 * [x] https://www.atomikos.com/Blog/SpringJTAMultipleResourceTransactionsInTomcatWithAtomikosExample[Spring JTA multiple resource transactions in Tomcat with Atomikos example]
+* [x] https://piotrminkowski.com/2020/06/19/distributed-transactions-in-microservices-with-spring-boot/[Distributed Transactions in Microservices with Spring Boot]
+* [x] https://piotrminkowski.com/2022/01/24/distributed-transactions-in-microservices-with-kafka-streams-and-spring-boot/[Distributed Transactions in Microservices with Kafka Streams and Spring Boot]
+* [x] https://piotrminkowski.com/2022/02/07/deep-dive-into-saga-transactions-with-kafka-streams-and-spring-boot/[Deep Dive into Saga Transactions with Kafka Streams and Spring Boot]
 
 === JPA
 * [x] https://vladmihalcea.com/spring-data-jpa-findbyid/[The Spring Data JPA findById Anti-Pattern]
@@ -110,6 +113,9 @@
 * [x] https://spring.io/blog/2023/03/28/context-propagation-with-project-reactor-1-the-basics[Context Propagation with Project Reactor 1 - The Basics]
 * [x] https://spring.io/blog/2023/03/29/context-propagation-with-project-reactor-2-the-bumpy-road-of-spring-cloud[Context Propagation with Project Reactor 2 - The bumpy road of Spring Cloud Sleuth]
 * [x] https://spring.io/blog/2023/03/30/context-propagation-with-project-reactor-3-unified-bridging-between-reactive[Context Propagation with Project Reactor 3 - Unified Bridging between Reactive and Imperative]
+* [x] https://piotrminkowski.com/2020/08/04/guide-to-building-spring-boot-library/[Guide to building Spring Boot library]
+* [x] https://piotrminkowski.com/2021/01/13/spring-boot-tips-tricks-and-techniques/[Spring Boot Tips, Tricks and Techniques]
+* [x] https://piotrminkowski.com/2017/05/08/jpa-caching-with-hazelcast-hibernate-and-spring-boot/[JPA caching with Hazelcast, Hibernate and Spring Boot]
 
 === Spring Tips
 
