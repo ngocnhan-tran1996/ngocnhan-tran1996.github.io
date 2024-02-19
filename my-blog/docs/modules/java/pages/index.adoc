@@ -128,6 +128,7 @@
 * [x] https://www.youtube.com/watch?v=rt_cUtb8LnQ[Spring Tips: DataSources]
 * [x] https://www.youtube.com/watch?v=8VJ_dSdV3pY[Spring Tips: Making the Joyful Jump to Java 21]
 * [x] https://www.youtube.com/watch?v=srBYXhhLVV4[Spring Tips: Spring Data JDBC]
+* [x] https://www.youtube.com/watch?v=Yh8t04NG_K4[Spring Tips: The Spring Authorization Server]
 
 === Videos
 
@@ -205,6 +206,12 @@
 * [x] https://openjdk.org/projects/amber/design-notes/patterns/pattern-matching-for-java[Pattern Matching for Java]
 * [x] https://piotrminkowski.com/2021/02/01/new-developer-friendly-features-after-java-8/[New Features After Java 8]
 * [x] https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-21/[A categorized list of all Java and JVM features since JDK 8 to 21]
+* [x] https://docs.oracle.com/en/java/javase/21/core/foreign-function-and-memory-api.html[Foreign Function and Memory API]
+* [x] https://docs.oracle.com/en/java/javase/21/core/virtual-threads.html[Virtual Threads]
+
+== Vaadin
+
+* [x] https://www.youtube.com/watch?v=bxy2JgqqKDU[Spring Boot Web App Tutorial (Java) | Full Course]
 
 == Reference
 * [x] https://www.sqltutorial.org/sql-window-functions/[SQL Window Functions]
