@@ -116,6 +116,7 @@
 * [x] https://piotrminkowski.com/2020/08/04/guide-to-building-spring-boot-library/[Guide to building Spring Boot library]
 * [x] https://piotrminkowski.com/2021/01/13/spring-boot-tips-tricks-and-techniques/[Spring Boot Tips, Tricks and Techniques]
 * [x] https://piotrminkowski.com/2017/05/08/jpa-caching-with-hazelcast-hibernate-and-spring-boot/[JPA caching with Hazelcast, Hibernate and Spring Boot]
+* [x] https://spring.io/guides/gs/gateway[Building a Gateway]
 
 === Spring Tips
 

@@ -3,3 +3,4 @@
 == Articles
 * [x] https://en.m.wikipedia.org/wiki/Yoda_conditions[Yoda conditions]
 * [x] https://en.m.wikipedia.org/wiki/Heisenbug[Heisenbug]
+* [x] https://softwareengineering.stackexchange.com/questions/298973/rest-api-security-stored-token-vs-jwt-vs-oauth[REST API security Stored token vs JWT vs OAuth]
