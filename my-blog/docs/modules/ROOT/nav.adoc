@@ -7,3 +7,5 @@
 * xref:java:index.adoc[JAVA]
 * xref:javascript:index.adoc[JAVASCRIPT]
 * xref:rabbitmq:index.adoc[RABBITMQ]
+* xref:english:index.adoc[ENGLISH]
+* xref:database:index.adoc[DATABASE]

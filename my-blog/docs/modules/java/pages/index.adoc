@@ -194,6 +194,7 @@
 * [x] https://github.com/hardikSinghBehl/just-another-testcontainer-integration[Just another Testcontainer integration]
 * [x] https://github.com/LogNet/grpc-spring-boot-starter[Spring boot starter for gRPC framework]
 * [x] https://github.com/kiberohrannik/webflux-log[webflux-log]
+* [x] https://github.com/wimdeblauwe/error-handling-spring-boot-starter[error-handling-spring-boot-starter]
 
 == Java Language Updates
 

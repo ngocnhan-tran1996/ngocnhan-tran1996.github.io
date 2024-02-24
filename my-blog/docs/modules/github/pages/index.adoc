@@ -4,3 +4,42 @@
 * [x] https://github.com/github/gitignore/blob/main/Java.gitignore[Example .gitignore file]
 * [x] https://about.gitlab.com/blog/2015/02/19/8-tips-to-help-you-work-better-with-git/[8 Tips to help you work better with Git]
 * [x] https://devmaster.edu.vn/git-khong-co-gi-dang-so-ca.html[Git không có gì đáng sợ cả!]
+
+[pass]
+<div class="bd-example-snippet bd-code-snippet bd-file-ref">
+    <div class="d-flex align-items-center highlight-toolbar ps-3 pe-2 py-1 border-bottom">
+      <strong>Command In Use</strong>
+    </div>
+    <div class="highlight">
+<pre>
+
+// gitHub reset
+git reset --hard "commit_id"
+git reset --soft "commit_id"
+git push origin -f
+
+// git rename and delete branch
+git branch -m oldname newName
+git push origin newName
+git push origin :oldname
+
+// copy all file and commit
+git branch -c oldname newName
+
+// git stash
+git stash clear
+git stash list
+git stash save -u "name"
+git stash apply "name"
+git stash drop "name"
+git stash pop "name"
+
+// git remove
+git rm -r *
+
+// git config
+git config --global user.name "user_name"
+git config --global user.email "user_email"
+</pre>
+    </div>
+</div>
