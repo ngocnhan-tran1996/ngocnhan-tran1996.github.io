@@ -7,3 +7,5 @@
 * [x] https://developer.mozilla.org/en-US/docs/Web/HTTP[HTTP]
 * [x] https://developer.mozilla.org/en-US/docs/Glossary/Protocol[Protocol]
 * [x] https://developer.mozilla.org/en-US/docs/Glossary/TCP[TCP]
+* [x] https://developer.mozilla.org/en-US/docs/Glossary/SSL[Secure Sockets Layer (SSL)]
+* [x] https://developer.mozilla.org/en-US/docs/Glossary/TLS[Transport Layer Security (TLS)]

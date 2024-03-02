@@ -117,6 +117,7 @@
 * [x] https://piotrminkowski.com/2021/01/13/spring-boot-tips-tricks-and-techniques/[Spring Boot Tips, Tricks and Techniques]
 * [x] https://piotrminkowski.com/2017/05/08/jpa-caching-with-hazelcast-hibernate-and-spring-boot/[JPA caching with Hazelcast, Hibernate and Spring Boot]
 * [x] https://spring.io/guides/gs/gateway[Building a Gateway]
+* [x] https://garnier.wf/blog/2024/02/12/spring-auth-server-tokens.html[Spring Authorization Server customization]
 
 === Spring Tips
 
