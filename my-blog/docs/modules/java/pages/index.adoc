@@ -81,7 +81,12 @@
 * [x] https://maciejwalkowiak.com/blog/testcontainers-spring-boot-setup/[The best way to use Testcontainers with Spring Boot]
 * [x] https://www.infoq.com/news/2023/07/enhanced-testcontainers-support/[Enhanced Testcontainers and Development-Time Containers Support in Spring Boot 3.1]
 
+=== Cache
+* [x] https://www.baeldung.com/spring-cache-tutorial[A Guide To Caching in Spring]
+* [x] https://www.baeldung.com/spring-boot-caffeine-spring-get-all-keys[Get All Cached Keys with Caffeine Cache in Spring Boot]
+
 === Related Articles
+* [x] https://docs.spring.io/spring-data/jpa/docs/current/api/org/springframework/data/jpa/repository/query/QueryUtils.html[QueryUtils]
 * [x] https://docs.spring.io/spring-framework/docs/6.0.10/javadoc-api/org/springframework/beans/BeanUtils.html[Class BeanUtils]
 * [x] https://docs.spring.io/spring-framework/docs/6.0.10/javadoc-api/org/springframework/core/Conventions.html[Class Conventions]
 * [x] https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/annotation/ClassPathScanningCandidateComponentProvider.html[Class ClassPathScanningCandidateComponentProvider]
@@ -116,8 +121,13 @@
 * [x] https://piotrminkowski.com/2020/08/04/guide-to-building-spring-boot-library/[Guide to building Spring Boot library]
 * [x] https://piotrminkowski.com/2021/01/13/spring-boot-tips-tricks-and-techniques/[Spring Boot Tips, Tricks and Techniques]
 * [x] https://piotrminkowski.com/2017/05/08/jpa-caching-with-hazelcast-hibernate-and-spring-boot/[JPA caching with Hazelcast, Hibernate and Spring Boot]
+* [x] https://piotrminkowski.com/2024/03/04/rotate-ssl-certificates-with-openshift-and-spring-boot/[Rotate SSL Certificates with OpenShift and Spring Boot]
 * [x] https://spring.io/guides/gs/gateway[Building a Gateway]
 * [x] https://garnier.wf/blog/2024/02/12/spring-auth-server-tokens.html[Spring Authorization Server customization]
+* [x] https://vladmihalcea.com/spring-transaction-best-practices/[Spring Transaction Best Practices]
+* [x] https://www.sivalabs.in/spring-boot-3-error-reporting-using-problem-details/[Spring Boot 3 : Error Responses using Problem Details for HTTP APIs]
+* [x] https://www.baeldung.com/spring-log4j2-config-per-profile[Different Log4j2 Configurations per Spring Profile]
+* [x] https://www.baeldung.com/spring-boot-logback-log4j2[Spring Boot Logback and Log4j2 Extensions]
 
 === Spring Tips
 
@@ -131,6 +141,9 @@
 * [x] https://www.youtube.com/watch?v=8VJ_dSdV3pY[Spring Tips: Making the Joyful Jump to Java 21]
 * [x] https://www.youtube.com/watch?v=srBYXhhLVV4[Spring Tips: Spring Data JDBC]
 * [x] https://www.youtube.com/watch?v=Yh8t04NG_K4[Spring Tips: The Spring Authorization Server]
+* [x] https://www.youtube.com/watch?v=p3aLjH2VPzU[Spring Tips: the Spring Authorization Server: securing SPAs and messaging flows]
+* [x] https://www.youtube.com/watch?v=GVsKQ4dp_pQ[Spring Tips: the Spring Authorization Server: durability of data]
+* [x] https://www.youtube.com/watch?v=ykEK2xuJrN8[Spring Tips: go fast with Spring Boot 3.1]
 
 === Videos
 
@@ -157,6 +170,9 @@
 * [x] https://vladmihalcea.com/2pl-two-phase-locking/[How does the 2PL (Two-Phase Locking) algorithm work]
 
 == Articles
+
+* [x] https://docs.oracle.com/cd/E83833_01/bigData.Doc/data_processing_onPrem/src/rdp_config_dates.html[Date format configuration]
+* [x] https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html[SimpleDateFormat]
 * [x] https://piotrminkowski.com/2022/01/05/useful-unknown-java-features/[Useful & Unknown Java Features]
 * [x] https://piotrminkowski.com/2023/01/30/useful-unknown-java-libraries/[Useful & Unknown Java Libraries]
 * [x] https://piotrminkowski.com/2019/10/04/overview-of-java-stream-api-extensions/[Overview of Java Stream API Extensions]
@@ -181,6 +197,11 @@
 * [x] https://www.infoworld.com/article/3336222/java-challengers-6-thread-behavior-in-the-jvm.html[Thread behavior in the JVM]
 * [x] https://www.infoworld.com/article/3512039/does-java-pass-by-reference-or-pass-by-value.html[Does Java pass by reference or pass by value?]
 * [x] https://digma.ai/blog/25-reasons-java-is-still-around-in-2023/[25 REASONS WHY JAVA IS STILL AROUND IN 2023]
+* [x] https://www.baeldung.com/java-exceptions-performance[Performance Effects of Exceptions in Java]
+* [x] https://www.baeldung.com/cs/runtime-vs-compile-time[Runtime vs. Compile Time]
+* [x] https://www.baeldung.com/spring-6-ahead-of-time-optimizations[Ahead of Time Optimizations in Spring 6]
+* [x] https://www.baeldung.com/java-logging-intro[Introduction to Java Logging]
+* [x] https://www.baeldung.com/java-comparing-string-to-enum[Comparing a String to an Enum Value in Java]
 
 == Java Service Provider Interface (SPI)
 * [ ] https://docs.oracle.com/javase/tutorial/ext/basics/index.html[Lesson: Creating and Using Extensions]
@@ -215,6 +236,10 @@
 == Vaadin
 
 * [x] https://www.youtube.com/watch?v=bxy2JgqqKDU[Spring Boot Web App Tutorial (Java) | Full Course]
+
+== Algorithms / Data Structures
+
+* [x] https://github.com/girliemac/a-picture-is-worth-a-1000-words/tree/main/algorithms[Algorithms / Data Structures]
 
 == Reference
 * [x] https://www.sqltutorial.org/sql-window-functions/[SQL Window Functions]

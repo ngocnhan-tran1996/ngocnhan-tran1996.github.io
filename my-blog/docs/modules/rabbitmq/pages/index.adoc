@@ -29,3 +29,6 @@
 * [x] https://www.rabbitmq.com/reliability.html[Reliability Guide]
 * [x] https://www.rabbitmq.com/sender-selected.html[Sender-selected Distribution]
 * [x] https://www.rabbitmq.com/dlx.html[Dead Letter Exchanges]
+* [x] https://www.rabbitmq.com/blog/2011/02/10/introducing-publisher-confirms[Introducing Publisher Confirms]
+* [x] https://www.rabbitmq.com/blog/2022/07/13/rabbitmq-3-11-feature-preview-super-streams[RabbitMQ 3.11 Feature Preview: Super Streams]
+* [x] https://www.rabbitmq.com/blog/2022/07/05/rabbitmq-3-11-feature-preview-single-active-consumer-for-streams[RabbitMQ 3.11 Feature Preview: Single Active Consumer for Streams]
