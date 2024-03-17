@@ -19,6 +19,7 @@
 * [x] https://piotrminkowski.com/2020/06/19/distributed-transactions-in-microservices-with-spring-boot/[Distributed Transactions in Microservices with Spring Boot]
 * [x] https://piotrminkowski.com/2022/01/24/distributed-transactions-in-microservices-with-kafka-streams-and-spring-boot/[Distributed Transactions in Microservices with Kafka Streams and Spring Boot]
 * [x] https://piotrminkowski.com/2022/02/07/deep-dive-into-saga-transactions-with-kafka-streams-and-spring-boot/[Deep Dive into Saga Transactions with Kafka Streams and Spring Boot]
+* [x] https://www.baeldung.com/java-atomikos[A Guide to Atomikos]
 
 === JPA
 * [x] https://vladmihalcea.com/spring-data-jpa-findbyid/[The Spring Data JPA findById Anti-Pattern]
@@ -26,6 +27,7 @@
 * [x] https://www.baeldung.com/jpa-optimistic-locking[Optimistic Locking in JPA]
 * [x] https://spring.io/blog/2022/07/31/how-to-integrate-hibernates-multitenant-feature-with-spring-data-jpa-in-a-spring-boot-application/[How to integrate Hibernates Multitenant feature with Spring Data JPA in a Spring Boot application]
 * [x] https://medium.com/@majbahbuet08/performance-pitfalls-while-using-spring-data-jpa-and-solutions-to-avoid-them-5eb4ee3fe4ea[Performance Pitfalls while using Spring Data JPA and Solutions to avoid them]
+* [x] https://www.baeldung.com/spring-data-jpa-findfirst-vs-findtop[Differences Between Spring Data JPA findFirst() and findTop()]
 
 === JDBC
 
@@ -128,6 +130,12 @@
 * [x] https://www.sivalabs.in/spring-boot-3-error-reporting-using-problem-details/[Spring Boot 3 : Error Responses using Problem Details for HTTP APIs]
 * [x] https://www.baeldung.com/spring-log4j2-config-per-profile[Different Log4j2 Configurations per Spring Profile]
 * [x] https://www.baeldung.com/spring-boot-logback-log4j2[Spring Boot Logback and Log4j2 Extensions]
+* [x] https://www.baeldung.com/spring-boot-fix-the-no-main-manifest-attribute[Fixing the No Main Manifest Attribute in Spring Boot]
+* [x] https://www.baeldung.com/spring-boot-load-multiple-yaml-configuration-files[Loading Multiple YAML Configuration Files in Spring Boot]
+* [x] https://spring.io/blog/2024/03/15/hypermedia-and-browser-enhancement[Hypermedia and Browser Enhancement]
+* [x] https://www.baeldung.com/spring-extract-custom-header-request[Extracting a Custom Header From the Request]
+* [x] https://www.baeldung.com/webclient-stream-large-byte-array-to-file[Stream Large Byte[\] to File With WebClient]
+* [x] https://www.baeldung.com/java-extract-values-assertj[https://www.baeldung.com/java-extract-values-assertj]
 
 === Spring Tips
 
@@ -202,6 +210,8 @@
 * [x] https://www.baeldung.com/spring-6-ahead-of-time-optimizations[Ahead of Time Optimizations in Spring 6]
 * [x] https://www.baeldung.com/java-logging-intro[Introduction to Java Logging]
 * [x] https://www.baeldung.com/java-comparing-string-to-enum[Comparing a String to an Enum Value in Java]
+* [x] https://www.baeldung.com/java-mapstruct-nested-mapping[Use Mapper in Another Mapper with Mapstruct and Java]
+* [x] https://www.baeldung.com/rest-vs-graphql-vs-grpc[REST vs. GraphQL vs. gRPC – Which API to Choose?]
 
 == Java Service Provider Interface (SPI)
 * [ ] https://docs.oracle.com/javase/tutorial/ext/basics/index.html[Lesson: Creating and Using Extensions]
