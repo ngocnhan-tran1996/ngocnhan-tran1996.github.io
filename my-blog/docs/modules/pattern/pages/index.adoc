@@ -51,6 +51,7 @@
 * [x] https://en.wikipedia.org/wiki/Domain-driven_design[Domain-driven design]
 * [x] https://martinfowler.com/articles/patterns-of-distributed-systems/two-phase-commit.html[Two-Phase Commit]
 * [x] https://martinfowler.com/articles/patterns-of-distributed-systems/write-ahead-log.html[Write-Ahead Log]
+* [x] https://www.martinfowler.com/bliki/CQRS.html[CQRS]
 
 == Reference
 

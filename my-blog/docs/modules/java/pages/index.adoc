@@ -56,6 +56,7 @@
 * [x] https://spring.io/blog/2023/10/04/synchronizing-with-external-transaction-managers-in-spring-cloud-stream/[Synchronizing with External Transaction Managers in Spring Cloud Stream Kafka Applications]
 * [x] https://spring.io/blog/2023/10/11/transactional-rollback-strategies-with-spring-cloud-stream-and-apache-kafka/[Transactional Rollback Strategies with Spring Cloud Stream and Apache Kafka]
 * [x] https://spring.io/blog/2023/10/16/apache-kafkas-exactly-once-semantics-in-spring-cloud-stream-kafka[Apache Kafka’s Exactly-Once Semantics in Spring Cloud Stream Kafka Applications]
+* [x] https://www.baeldung.com/spring-retry-kafka-consumer[Implementing Retry in Kafka Consumer]
 
 === Docker
 
@@ -136,6 +137,8 @@
 * [x] https://www.baeldung.com/spring-extract-custom-header-request[Extracting a Custom Header From the Request]
 * [x] https://www.baeldung.com/webclient-stream-large-byte-array-to-file[Stream Large Byte[\] to File With WebClient]
 * [x] https://www.baeldung.com/java-extract-values-assertj[https://www.baeldung.com/java-extract-values-assertj]
+* [x] https://www.baeldung.com/spring-data-3-crud-repository-interfaces[New CRUD Repository Interfaces in Spring Data 3]
+* [x] https://www.baeldung.com/spring-boot-enum-mapping[Enum Mapping in Spring Boot]
 
 === Spring Tips
 
