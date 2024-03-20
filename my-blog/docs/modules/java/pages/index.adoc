@@ -28,6 +28,13 @@
 * [x] https://spring.io/blog/2022/07/31/how-to-integrate-hibernates-multitenant-feature-with-spring-data-jpa-in-a-spring-boot-application/[How to integrate Hibernates Multitenant feature with Spring Data JPA in a Spring Boot application]
 * [x] https://medium.com/@majbahbuet08/performance-pitfalls-while-using-spring-data-jpa-and-solutions-to-avoid-them-5eb4ee3fe4ea[Performance Pitfalls while using Spring Data JPA and Solutions to avoid them]
 * [x] https://www.baeldung.com/spring-data-jpa-findfirst-vs-findtop[Differences Between Spring Data JPA findFirst() and findTop()]
+* [x] https://vladmihalcea.com/spring-data-query-methods/[The best way to use Spring Data query methods]
+* [x] https://vladmihalcea.com/best-spring-data-jparepository/[The best Spring Data JpaRepository]
+* [x] https://vladmihalcea.com/a-beginners-guide-to-jpa-hibernate-entity-state-transitions/[A beginner’s guide to entity state transitions with JPA and Hibernate]
+* [x] https://vladmihalcea.com/jpa-persist-and-merge/[How do persist and merge work in JPA]
+* [x] https://vladmihalcea.com/one-to-many-dto-projection-hibernate/[How to fetch a one-to-many DTO projection with JPA and Hibernate]
+* [x] https://vladmihalcea.com/why-you-should-never-use-the-table-identifier-generator-with-jpa-and-hibernate/[Why you should never use the TABLE identifier generator with JPA and Hibernate]
+* [x] https://vladmihalcea.com/jpa-persist-merge-hibernate-save-update-saveorupdate/[How do JPA persist, merge and Hibernate save, update, saveOrUpdate methods work]
 
 === JDBC
 
@@ -139,6 +146,7 @@
 * [x] https://www.baeldung.com/java-extract-values-assertj[https://www.baeldung.com/java-extract-values-assertj]
 * [x] https://www.baeldung.com/spring-data-3-crud-repository-interfaces[New CRUD Repository Interfaces in Spring Data 3]
 * [x] https://www.baeldung.com/spring-boot-enum-mapping[Enum Mapping in Spring Boot]
+* [x] https://www.baeldung.com/uuid-vs-sequential-id-as-primary-key[UUID vs. Sequential ID as Primary Key]
 
 === Spring Tips
 
@@ -155,6 +163,8 @@
 * [x] https://www.youtube.com/watch?v=p3aLjH2VPzU[Spring Tips: the Spring Authorization Server: securing SPAs and messaging flows]
 * [x] https://www.youtube.com/watch?v=GVsKQ4dp_pQ[Spring Tips: the Spring Authorization Server: durability of data]
 * [x] https://www.youtube.com/watch?v=ykEK2xuJrN8[Spring Tips: go fast with Spring Boot 3.1]
+* [x] https://www.youtube.com/watch?v=PsNNGuLi0ns[Spring Tips: Configuration]
+* [x] https://www.youtube.com/watch?v=dmdkJ3ZmT5E[Spring Tips: Spring Batch Remote Partitioning, your easy button for data scale!]
 
 === Videos
 
