@@ -5,6 +5,9 @@
 * [x] https://github.com/github/gitignore/blob/main/Java.gitignore[Example .gitignore file]
 * [x] https://about.gitlab.com/blog/2015/02/19/8-tips-to-help-you-work-better-with-git/[8 Tips to help you work better with Git]
 * [x] https://devmaster.edu.vn/git-khong-co-gi-dang-so-ca.html[Git không có gì đáng sợ cả!]
+* [x] https://git-scm.com/docs/git-sparse-checkout[git-sparse-checkout]
+* [x] https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners[About code owners]
+* [x] https://github.blog/2020-01-17-bring-your-monorepo-down-to-size-with-sparse-checkout/[Bring your monorepo down to size with sparse-checkout]
 
 [pass]
 <div class="bd-example-snippet bd-code-snippet bd-file-ref">

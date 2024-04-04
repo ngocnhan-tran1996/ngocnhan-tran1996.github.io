@@ -147,6 +147,7 @@
 * [x] https://www.baeldung.com/spring-data-3-crud-repository-interfaces[New CRUD Repository Interfaces in Spring Data 3]
 * [x] https://www.baeldung.com/spring-boot-enum-mapping[Enum Mapping in Spring Boot]
 * [x] https://www.baeldung.com/uuid-vs-sequential-id-as-primary-key[UUID vs. Sequential ID as Primary Key]
+* [x] https://github.com/spring-projects/spring-framework/issues/25346[Support @ControllerAdvice on @Bean factory method #25346]
 
 === Spring Tips
 
@@ -177,6 +178,8 @@
 * [x] https://www.youtube.com/watch?v=MlmHrbcNouc[DataSources]
 * [x] https://www.youtube.com/watch?v=0P8UU5vkvI8[Dr. Mark Pollack, lead of the new Spring AI project]
 * [x] https://www.youtube.com/watch?v=7K6YPRUtBkQ[Generating Images with Spring AI]
+* [x] https://www.youtube.com/watch?v=oHPNpgy21Rk[Spring Boot Apache Pulsar | Producer & Consumer Hands-On Example | Javatechie]
+* [x] https://www.youtube.com/watch?v=exqfB1WaqIw[Performance oriented Spring Data JPA & Hibernate by Maciej Walkowiak]
 
 === Source reference
 
@@ -227,6 +230,8 @@
 * [x] https://www.baeldung.com/rest-vs-graphql-vs-grpc[REST vs. GraphQL vs. gRPC – Which API to Choose?]
 * [x] https://www.adam-bien.com/roller/abien/entry/service_s_new_serviceimpl_why[Service s = new ServiceImpl() - Why You Are Doing That?]
 * [x] https://softwareengineering.stackexchange.com/questions/150045/what-is-the-point-of-having-every-service-class-have-an-interface[What is the point of having every service class have an interface? [duplicate\]]
+* [x] https://github.com/swagger-api/swagger-core/issues/3323[Generic Response Types #3323]
+* [x] https://en.wikipedia.org/wiki/JDBC_driver[JDBC driver]
 
 == Java Service Provider Interface (SPI)
 * [ ] https://docs.oracle.com/javase/tutorial/ext/basics/index.html[Lesson: Creating and Using Extensions]
@@ -257,6 +262,12 @@
 * [x] https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-21/[A categorized list of all Java and JVM features since JDK 8 to 21]
 * [x] https://docs.oracle.com/en/java/javase/21/core/foreign-function-and-memory-api.html[Foreign Function and Memory API]
 * [x] https://docs.oracle.com/en/java/javase/21/core/virtual-threads.html[Virtual Threads]
+
+== Java Magazine
+
+* [x] https://blogs.oracle.com/javamagazine/post/curly-braces-java-git-monorepo[Curly Braces #1: Java and a project monorepo]
+* [x] https://www.dell.com/en-us/blog/non-inclusive-text-in-source-code-a-developers-journey/[Non-inclusive Text in Source Code – a Developer’s Journey]
+* [x] https://blogs.oracle.com/javamagazine/post/designing-and-implementing-a-library[Designing and Implementing a Library]
 
 == Vaadin
 
