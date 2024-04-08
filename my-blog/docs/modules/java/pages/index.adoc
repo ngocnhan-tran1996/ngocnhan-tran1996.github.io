@@ -148,6 +148,7 @@
 * [x] https://www.baeldung.com/spring-boot-enum-mapping[Enum Mapping in Spring Boot]
 * [x] https://www.baeldung.com/uuid-vs-sequential-id-as-primary-key[UUID vs. Sequential ID as Primary Key]
 * [x] https://github.com/spring-projects/spring-framework/issues/25346[Support @ControllerAdvice on @Bean factory method #25346]
+* [x] https://vkuzel.com/log-requests-and-responses-including-body-in-spring-boot[Log requests and responses including body in Spring Boot]
 
 === Spring Tips
 
@@ -180,6 +181,7 @@
 * [x] https://www.youtube.com/watch?v=7K6YPRUtBkQ[Generating Images with Spring AI]
 * [x] https://www.youtube.com/watch?v=oHPNpgy21Rk[Spring Boot Apache Pulsar | Producer & Consumer Hands-On Example | Javatechie]
 * [x] https://www.youtube.com/watch?v=exqfB1WaqIw[Performance oriented Spring Data JPA & Hibernate by Maciej Walkowiak]
+* [x] https://www.youtube.com/watch?v=5tTp3kW0Y8M[How To Log Incoming HTTP Requests with Spring Boot 3]
 
 === Source reference
 
@@ -236,6 +238,7 @@
 == Java Service Provider Interface (SPI)
 * [ ] https://docs.oracle.com/javase/tutorial/ext/basics/index.html[Lesson: Creating and Using Extensions]
 * [x] https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/ServiceLoader.html[ServiceLoader]
+* [x] https://blog.frankel.ch/migrating-serviceloader-java-9-module-system/[Migrating the ServiceLoader to the Java 9 module system]
 
 == Source Reference
 * [x] https://medium.com/@jojoooo/exploring-a-base-spring-boot-application-with-java-21-virtual-thread-spring-security-flyway-c0fde13c1eca[A Comprehensive guide to Spring Boot 3.2 with Java 21, Virtual Threads, Spring Security, PostgreSQL, Flyway, Caching, Micrometer, Opentelemetry, JUnit 5, RabbitMQ, Keycloak Integration, and More! (10/17)]
@@ -279,3 +282,4 @@
 
 == Reference
 * [x] https://www.sqltutorial.org/sql-window-functions/[SQL Window Functions]
+* [x] https://semver.org/lang/vi/[Semantic Versioning 2.0.0]

@@ -1,3 +1,4 @@
 = My Learning Path About Database
 
 * [x] https://asktom.oracle.com/ords/f?p=100:11:0::::P11_QUESTION_ID:492636200346818072[High Watermark on a table]
+* [x] https://stackoverflow.com/questions/32548367/oracle-identifier-maximum-length[Oracle Identifier Maximum Length]

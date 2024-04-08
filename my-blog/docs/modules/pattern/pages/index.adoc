@@ -56,6 +56,7 @@
 * [x] https://martinfowler.com/articles/patterns-of-distributed-systems/write-ahead-log.html[Write-Ahead Log]
 * [x] https://www.martinfowler.com/bliki/CQRS.html[CQRS]
 * [x] https://www.baeldung.com/java-demeter-law[Law of Demeter in Java]
+* [x] https://blog.frankel.ch/chopping-monolith/[Chopping the monolith]
 
 == Reference
 
