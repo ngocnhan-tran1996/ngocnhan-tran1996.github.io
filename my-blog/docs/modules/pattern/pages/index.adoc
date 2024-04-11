@@ -57,6 +57,8 @@
 * [x] https://www.martinfowler.com/bliki/CQRS.html[CQRS]
 * [x] https://www.baeldung.com/java-demeter-law[Law of Demeter in Java]
 * [x] https://blog.frankel.ch/chopping-monolith/[Chopping the monolith]
+* [x] https://blog.frankel.ch/chopping-monolith-demo/[Chopping the monolith - the demo]
+
 
 == Reference
 

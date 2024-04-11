@@ -149,6 +149,7 @@
 * [x] https://www.baeldung.com/uuid-vs-sequential-id-as-primary-key[UUID vs. Sequential ID as Primary Key]
 * [x] https://github.com/spring-projects/spring-framework/issues/25346[Support @ControllerAdvice on @Bean factory method #25346]
 * [x] https://vkuzel.com/log-requests-and-responses-including-body-in-spring-boot[Log requests and responses including body in Spring Boot]
+* [x] https://github.com/spring-projects/spring-framework/pull/24533[Repeatable Read HttpServletRequest InputStream #24533]
 
 === Spring Tips
 
