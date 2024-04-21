@@ -50,15 +50,15 @@
 == Articles
 
 * [x] https://martinfowler.com/bliki/TellDontAsk.html[TellDontAsk]
-* [x] https://stateless.co/hal_specification.html[HAL - Hypertext Application Language]
-* [x] https://en.wikipedia.org/wiki/Domain-driven_design[Domain-driven design]
 * [x] https://martinfowler.com/articles/patterns-of-distributed-systems/two-phase-commit.html[Two-Phase Commit]
 * [x] https://martinfowler.com/articles/patterns-of-distributed-systems/write-ahead-log.html[Write-Ahead Log]
 * [x] https://www.martinfowler.com/bliki/CQRS.html[CQRS]
+* [x] https://martinfowler.com/articles/microservices.html[Microservices]
 * [x] https://www.baeldung.com/java-demeter-law[Law of Demeter in Java]
 * [x] https://blog.frankel.ch/chopping-monolith/[Chopping the monolith]
 * [x] https://blog.frankel.ch/chopping-monolith-demo/[Chopping the monolith - the demo]
-
+* [x] https://stateless.co/hal_specification.html[HAL - Hypertext Application Language]
+* [x] https://en.wikipedia.org/wiki/Domain-driven_design[Domain-driven design]
 
 == Reference
 

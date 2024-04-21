@@ -150,6 +150,7 @@
 * [x] https://github.com/spring-projects/spring-framework/issues/25346[Support @ControllerAdvice on @Bean factory method #25346]
 * [x] https://vkuzel.com/log-requests-and-responses-including-body-in-spring-boot[Log requests and responses including body in Spring Boot]
 * [x] https://github.com/spring-projects/spring-framework/pull/24533[Repeatable Read HttpServletRequest InputStream #24533]
+* [x] https://medium.com/javarevisited/tracing-in-spring-boot3-097205dc08f4[Tracing in Spring Boot3]
 
 === Spring Tips
 
@@ -168,6 +169,8 @@
 * [x] https://www.youtube.com/watch?v=ykEK2xuJrN8[Spring Tips: go fast with Spring Boot 3.1]
 * [x] https://www.youtube.com/watch?v=PsNNGuLi0ns[Spring Tips: Configuration]
 * [x] https://www.youtube.com/watch?v=dmdkJ3ZmT5E[Spring Tips: Spring Batch Remote Partitioning, your easy button for data scale!]
+* [x] https://www.youtube.com/watch?v=jG6sYey45G8[Spring Tips: GRPC]
+* [x] https://www.youtube.com/watch?v=0uvQQuxyAv4[Spring Tips: the Spring Expression Language]
 
 === Videos
 
@@ -183,6 +186,7 @@
 * [x] https://www.youtube.com/watch?v=oHPNpgy21Rk[Spring Boot Apache Pulsar | Producer & Consumer Hands-On Example | Javatechie]
 * [x] https://www.youtube.com/watch?v=exqfB1WaqIw[Performance oriented Spring Data JPA & Hibernate by Maciej Walkowiak]
 * [x] https://www.youtube.com/watch?v=5tTp3kW0Y8M[How To Log Incoming HTTP Requests with Spring Boot 3]
+* [x] https://www.youtube.com/watch?v=X_kKfNko3hA[Spring Tips: Hello, Java 22!]
 
 === Source reference
 
@@ -251,6 +255,7 @@
 * [x] https://github.com/LogNet/grpc-spring-boot-starter[Spring boot starter for gRPC framework]
 * [x] https://github.com/kiberohrannik/webflux-log[webflux-log]
 * [x] https://github.com/wimdeblauwe/error-handling-spring-boot-starter[error-handling-spring-boot-starter]
+* [x] https://github.com/gavlyukovskiy/spring-boot-data-source-decorator[spring-boot-data-source-decorator]
 
 == Java Language Updates
 
