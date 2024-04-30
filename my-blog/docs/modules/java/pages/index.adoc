@@ -9,6 +9,7 @@
 * [x] [.text-decoration-line-through]#https://docs.spring.io/spring-data/commons/docs/current/reference/html[Spring Data Old Version]#
 * [ ] https://docs.spring.io/spring-data/commons/reference/index.html[Spring Data]
 * [x] https://docs.spring.io/spring-amqp/docs/current/reference/html/[Spring AMQP]
+* [x] https://docs.spring.io/spring-security/reference/index.html[Spring Security]
 
 === Transactions
 
@@ -239,6 +240,8 @@
 * [x] https://softwareengineering.stackexchange.com/questions/150045/what-is-the-point-of-having-every-service-class-have-an-interface[What is the point of having every service class have an interface? [duplicate\]]
 * [x] https://github.com/swagger-api/swagger-core/issues/3323[Generic Response Types #3323]
 * [x] https://en.wikipedia.org/wiki/JDBC_driver[JDBC driver]
+* [x] https://www.oracle.com/technical-resources/articles/java/jpa.html[The Java Persistence API - A Simpler Programming Model for Entity Persistence]
+* [x] https://docs.oracle.com/javase/1.5.0/docs/guide/language/annotations.html[Annotations]
 
 == Java Service Provider Interface (SPI)
 * [ ] https://docs.oracle.com/javase/tutorial/ext/basics/index.html[Lesson: Creating and Using Extensions]

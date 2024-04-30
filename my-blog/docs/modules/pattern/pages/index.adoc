@@ -47,18 +47,38 @@
 == Techniques
 * [x] https://refactoring.guru/introduce-null-object[Introduce Null Object]
 
-== Articles
+== Martinfowler
 
 * [x] https://martinfowler.com/bliki/TellDontAsk.html[TellDontAsk]
 * [x] https://martinfowler.com/articles/patterns-of-distributed-systems/two-phase-commit.html[Two-Phase Commit]
 * [x] https://martinfowler.com/articles/patterns-of-distributed-systems/write-ahead-log.html[Write-Ahead Log]
-* [x] https://www.martinfowler.com/bliki/CQRS.html[CQRS]
+* [x] https://martinfowler.com/bliki/CQRS.html[CQRS]
 * [x] https://martinfowler.com/articles/microservices.html[Microservices]
+* [x] https://martinfowler.com/bliki/ContinuousDelivery.html[Continuous Delivery]
+* [x] https://martinfowler.com/bliki/DeploymentPipeline.html[Deployment Pipeline]
+* [x] https://martinfowler.com/bliki/DevOpsCulture.html[Dev Ops Culture]
+* [x] https://martinfowler.com/bliki/ObservedRequirement.html[Observed Requirement]
+* [x] https://martinfowler.com/bliki/PublishedInterface.html[Published Interface]
+* [x] https://martinfowler.com/bliki/SelfTestingCode.html[Self Testing Code]
+* [x] https://martinfowler.com/bliki/TestDrivenDevelopment.html[Test Driven Development]
+* [x] https://martinfowler.com/bliki/TechnicalDebt.html[Technical Debt]
+
+== JWT
+
+* [x] https://jwt.io/introduction[Introduction to JSON Web Tokens]
+* [x] https://www.iana.org/assignments/jwt/jwt.xhtml[JSON Web Token (JWT)]
+* [x] https://developer.okta.com/blog/2020/12/21/beginners-guide-to-jwt[A Beginner's Guide to JWTs]
+* [x] https://developer.okta.com/blog/2017/08/17/why-jwts-suck-as-session-tokens[Why JWTs Suck as Session Tokens]
+
+== Articles
+
 * [x] https://www.baeldung.com/java-demeter-law[Law of Demeter in Java]
 * [x] https://blog.frankel.ch/chopping-monolith/[Chopping the monolith]
 * [x] https://blog.frankel.ch/chopping-monolith-demo/[Chopping the monolith - the demo]
 * [x] https://stateless.co/hal_specification.html[HAL - Hypertext Application Language]
 * [x] https://en.wikipedia.org/wiki/Domain-driven_design[Domain-driven design]
+* [x] https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageBus.html[Message Bus]
+* [x] https://tidyfirst.substack.com/p/canon-tdd[Canon TDD]
 
 == Reference
 
