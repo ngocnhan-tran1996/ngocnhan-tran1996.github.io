@@ -10,6 +10,7 @@
 * [ ] https://docs.spring.io/spring-data/commons/reference/index.html[Spring Data]
 * [x] https://docs.spring.io/spring-amqp/docs/current/reference/html/[Spring AMQP]
 * [x] https://docs.spring.io/spring-security/reference/index.html[Spring Security]
+* [x] https://docs.spring.io/spring-authorization-server/reference/overview.html[Spring Authorization Server]
 
 === Transactions
 
@@ -97,11 +98,6 @@
 * [x] https://www.baeldung.com/spring-boot-caffeine-spring-get-all-keys[Get All Cached Keys with Caffeine Cache in Spring Boot]
 
 === Related Articles
-* [x] https://docs.spring.io/spring-data/jpa/docs/current/api/org/springframework/data/jpa/repository/query/QueryUtils.html[QueryUtils]
-* [x] https://docs.spring.io/spring-framework/docs/6.0.10/javadoc-api/org/springframework/beans/BeanUtils.html[Class BeanUtils]
-* [x] https://docs.spring.io/spring-framework/docs/6.0.10/javadoc-api/org/springframework/core/Conventions.html[Class Conventions]
-* [x] https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/annotation/ClassPathScanningCandidateComponentProvider.html[Class ClassPathScanningCandidateComponentProvider]
-* [x] https://docs.spring.io/spring-framework/docs/current/javadoc-api/constant-values.html[Constant Field Values]
 * [x] https://spring.io/blog/2014/12/02/latest-jackson-integration-improvements-in-spring[Latest Jackson integration improvements in Spring]
 * [x] https://spring.io/blog/2016/04/13/overriding-dependency-versions-with-spring-boot/[Overriding Dependency Versions with Spring Boot]
 * [x] https://developers.redhat.com/articles/2023/10/19/containerize-spring-boot-application-podman-desktop#[Containerize a Spring Boot application with Podman Desktop]
@@ -292,3 +288,18 @@
 == Reference
 * [x] https://www.sqltutorial.org/sql-window-functions/[SQL Window Functions]
 * [x] https://semver.org/lang/vi/[Semantic Versioning 2.0.0]
+
+== Spring Class
+
+* [x] https://docs.spring.io/spring-data/jpa/docs/current/api/org/springframework/data/jpa/repository/query/QueryUtils.html[QueryUtils]
+* [x] https://docs.spring.io/spring-framework/docs/6.0.10/javadoc-api/org/springframework/beans/BeanUtils.html[Class BeanUtils]
+* [x] https://docs.spring.io/spring-framework/docs/6.0.10/javadoc-api/org/springframework/core/Conventions.html[Class Conventions]
+* [x] https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/annotation/ClassPathScanningCandidateComponentProvider.html[Class ClassPathScanningCandidateComponentProvider]
+* [x] https://docs.spring.io/spring-framework/docs/current/javadoc-api/constant-values.html[Constant Field Values]
+* [x] https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/dao/EmptyResultDataAccessException.html[EmptyResultDataAccessException]
+* [x] https://docs.spring.io/spring-security/site/docs/current/api/org/springframework/security/converter/RsaKeyConverters.html[RsaKeyConverters]
+* [x] https://docs.spring.io/spring-security/site/docs/current/api/org/springframework/security/web/access/ExceptionTranslationFilter.html[ExceptionTranslationFilter]
+* [x] https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/method/annotation/ExceptionHandlerMethodResolver.html[ExceptionHandlerMethodResolver]
+* [x] https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/method/ControllerAdviceBean.html[ControllerAdviceBean]
+* [x] https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/servlet/mvc/method/annotation/ExceptionHandlerExceptionResolver.html[ExceptionHandlerExceptionResolver]
+* [x] https://docs.spring.io/spring-boot/docs/current/api/org/springframework/boot/actuate/web/exchanges/servlet/HttpExchangesFilter.html[HttpExchangesFilter]

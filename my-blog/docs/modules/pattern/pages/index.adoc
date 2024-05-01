@@ -62,6 +62,8 @@
 * [x] https://martinfowler.com/bliki/SelfTestingCode.html[Self Testing Code]
 * [x] https://martinfowler.com/bliki/TestDrivenDevelopment.html[Test Driven Development]
 * [x] https://martinfowler.com/bliki/TechnicalDebt.html[Technical Debt]
+* [x] https://martinfowler.com/bliki/UnitTest.html[Unit Test]
+* [x] https://martinfowler.com/bliki/TestDouble.html[Test Double]
 
 == JWT
 
