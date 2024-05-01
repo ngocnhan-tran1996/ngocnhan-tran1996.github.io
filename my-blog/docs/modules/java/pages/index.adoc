@@ -292,8 +292,8 @@
 == Spring Class
 
 * [x] https://docs.spring.io/spring-data/jpa/docs/current/api/org/springframework/data/jpa/repository/query/QueryUtils.html[QueryUtils]
-* [x] https://docs.spring.io/spring-framework/docs/6.0.10/javadoc-api/org/springframework/beans/BeanUtils.html[Class BeanUtils]
-* [x] https://docs.spring.io/spring-framework/docs/6.0.10/javadoc-api/org/springframework/core/Conventions.html[Class Conventions]
+* [x] https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/beans/BeanUtils.html[Class BeanUtils]
+* [x] https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/core/Conventions.html[Class Conventions]
 * [x] https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/annotation/ClassPathScanningCandidateComponentProvider.html[Class ClassPathScanningCandidateComponentProvider]
 * [x] https://docs.spring.io/spring-framework/docs/current/javadoc-api/constant-values.html[Constant Field Values]
 * [x] https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/dao/EmptyResultDataAccessException.html[EmptyResultDataAccessException]
