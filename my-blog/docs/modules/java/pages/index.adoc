@@ -148,6 +148,8 @@
 * [x] https://vkuzel.com/log-requests-and-responses-including-body-in-spring-boot[Log requests and responses including body in Spring Boot]
 * [x] https://github.com/spring-projects/spring-framework/pull/24533[Repeatable Read HttpServletRequest InputStream #24533]
 * [x] https://medium.com/javarevisited/tracing-in-spring-boot3-097205dc08f4[Tracing in Spring Boot3]
+* [x] https://www.springcloud.io/post/2022-03/record-request-and-response-bodies[How to Record Request and Response Bodies in Sping Boot Applications]
+* [x] https://www.makariev.com/blog/advanced-spring-boot-structure-clean-architecture-modulith/[Advanced Practices in Spring Boot: Building a Modular Application with Docker, Zipkin, and 100% Code Coverage]
 
 === Spring Tips
 
@@ -168,6 +170,8 @@
 * [x] https://www.youtube.com/watch?v=dmdkJ3ZmT5E[Spring Tips: Spring Batch Remote Partitioning, your easy button for data scale!]
 * [x] https://www.youtube.com/watch?v=jG6sYey45G8[Spring Tips: GRPC]
 * [x] https://www.youtube.com/watch?v=0uvQQuxyAv4[Spring Tips: the Spring Expression Language]
+* [x] https://www.youtube.com/watch?v=Z5hxolai4Tk[Spring Tips: Beans, Beans: What's in a Spring bean?]
+* [x] https://www.youtube.com/watch?v=1ouE2QAebuE[Spring Tips: Spring Cloud Gateway for Spring MVC]
 
 === Videos
 
@@ -303,3 +307,6 @@
 * [x] https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/method/ControllerAdviceBean.html[ControllerAdviceBean]
 * [x] https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/servlet/mvc/method/annotation/ExceptionHandlerExceptionResolver.html[ExceptionHandlerExceptionResolver]
 * [x] https://docs.spring.io/spring-boot/docs/current/api/org/springframework/boot/actuate/web/exchanges/servlet/HttpExchangesFilter.html[HttpExchangesFilter]
+* [x] https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/core/ResolvableType.html[ResolvableType]
+* [x] https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/mock/web/MockHttpServletResponse.html[Class MockHttpServletResponse]
+* [x] https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/util/AntPathMatcher.html[AntPathMatcher]

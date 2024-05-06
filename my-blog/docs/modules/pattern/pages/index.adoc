@@ -20,6 +20,7 @@
 * [x] https://www.enterpriseintegrationpatterns.com/patterns/messaging/PublishSubscribeChannel.html[Publish-Subscribe Channel]
 * [x] https://www.enterpriseintegrationpatterns.com/patterns/messaging/EncapsulatedSynchronousIntegration.html[Remote Procedure Invocation]
 * [x] https://www.enterpriseintegrationpatterns.com/patterns/messaging/PollingConsumer.html[Polling Consumer]
+* [x] https://www.enterpriseintegrationpatterns.com/patterns/messaging/CorrelationIdentifier.html[Correlation Identifier]
 
 == Inversion of Control
 * [x] https://martinfowler.com/bliki/InversionOfControl.html[Inversion of Control]
@@ -81,6 +82,7 @@
 * [x] https://en.wikipedia.org/wiki/Domain-driven_design[Domain-driven design]
 * [x] https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageBus.html[Message Bus]
 * [x] https://tidyfirst.substack.com/p/canon-tdd[Canon TDD]
+* [x] https://www.enterpriseintegrationpatterns.com/ramblings/18_starbucks.html[Starbucks Does Not Use Two-Phase Commit]
 
 == Reference
 
