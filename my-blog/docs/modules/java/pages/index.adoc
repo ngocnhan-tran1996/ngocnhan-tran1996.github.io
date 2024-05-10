@@ -150,6 +150,9 @@
 * [x] https://medium.com/javarevisited/tracing-in-spring-boot3-097205dc08f4[Tracing in Spring Boot3]
 * [x] https://www.springcloud.io/post/2022-03/record-request-and-response-bodies[How to Record Request and Response Bodies in Sping Boot Applications]
 * [x] https://www.makariev.com/blog/advanced-spring-boot-structure-clean-architecture-modulith/[Advanced Practices in Spring Boot: Building a Modular Application with Docker, Zipkin, and 100% Code Coverage]
+* [x] https://www.baeldung.com/spring-boot-set-default-timezone[Setting Default TimeZone in Spring Boot Application]
+* [x] https://github.com/spring-projects/spring-security/issues/4368[After adding custom filters, permitAll() does not work #4368]
+* [x] https://github.com/spring-projects/spring-security/issues/14120[PermitAll routes returns 401 when token provided is expired or an invalid string #14120]
 
 === Spring Tips
 

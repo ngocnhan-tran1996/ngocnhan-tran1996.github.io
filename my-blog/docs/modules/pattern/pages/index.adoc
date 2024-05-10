@@ -65,6 +65,8 @@
 * [x] https://martinfowler.com/bliki/TechnicalDebt.html[Technical Debt]
 * [x] https://martinfowler.com/bliki/UnitTest.html[Unit Test]
 * [x] https://martinfowler.com/bliki/TestDouble.html[Test Double]
+* [x] https://martinfowler.com/bliki/TechnicalDebtQuadrant.html[Technical Debt Quadrant]
+* [x] https://martinfowler.com/bliki/PolyglotPersistence.html[Polyglot Persistence]
 
 == JWT
 
