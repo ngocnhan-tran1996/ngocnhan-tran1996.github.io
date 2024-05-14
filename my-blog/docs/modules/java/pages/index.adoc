@@ -245,6 +245,7 @@
 * [x] https://en.wikipedia.org/wiki/JDBC_driver[JDBC driver]
 * [x] https://www.oracle.com/technical-resources/articles/java/jpa.html[The Java Persistence API - A Simpler Programming Model for Entity Persistence]
 * [x] https://docs.oracle.com/javase/1.5.0/docs/guide/language/annotations.html[Annotations]
+* [x] https://projectreactor.io/docs/netty/release/reference/index.html#http-client[6. HTTP Client]
 
 == Java Service Provider Interface (SPI)
 * [ ] https://docs.oracle.com/javase/tutorial/ext/basics/index.html[Lesson: Creating and Using Extensions]
@@ -313,3 +314,4 @@
 * [x] https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/core/ResolvableType.html[ResolvableType]
 * [x] https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/mock/web/MockHttpServletResponse.html[Class MockHttpServletResponse]
 * [x] https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/util/AntPathMatcher.html[AntPathMatcher]
+* [x] https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/util/WebUtils.html[WebUtils]
