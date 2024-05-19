@@ -69,6 +69,9 @@
 * [x] https://martinfowler.com/bliki/PolyglotPersistence.html[Polyglot Persistence]
 * [x] https://martinfowler.com/bliki/DesignStaminaHypothesis.html[Design Stamina Hypothesis]
 * [x] https://martinfowler.com/bliki/MonolithFirst.html[Monolith First]
+* [x] https://martinfowler.com/bliki/BoundedContext.html[Bounded Context]
+* [x] https://martinfowler.com/bliki/UbiquitousLanguage.html[Ubiquitous Language]
+
 
 == JWT
 

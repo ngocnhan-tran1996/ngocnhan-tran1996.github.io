@@ -12,6 +12,9 @@
 * [x] https://docs.spring.io/spring-security/reference/index.html[Spring Security]
 * [x] https://docs.spring.io/spring-authorization-server/reference/overview.html[Spring Authorization Server]
 
+* [x] https://docs.spring.io/spring-framework/reference/core/beans/java/basic-concepts.html[Basic Concepts: @Bean and @Configuration]
+* [x] https://github.com/spring-projects/spring-framework/issues/27534#issuecomment-938632203[Method invocation in same class when both methods are @Transactional, but method 2 never executes]
+
 === Transactions
 
 * [x] https://www.infoworld.com/article/2077963/distributed-transactions-in-spring--with-and-without-xa.html[Distributed transactions in Spring, with and without XA]
@@ -153,6 +156,7 @@
 * [x] https://www.baeldung.com/spring-boot-set-default-timezone[Setting Default TimeZone in Spring Boot Application]
 * [x] https://github.com/spring-projects/spring-security/issues/4368[After adding custom filters, permitAll() does not work #4368]
 * [x] https://github.com/spring-projects/spring-security/issues/14120[PermitAll routes returns 401 when token provided is expired or an invalid string #14120]
+* [x] https://www.danvega.dev/blog/2023/03/16/spring-proxy-bean-methods[Spring Boot Configuration proxy bean methods]
 
 === Spring Tips
 
@@ -246,6 +250,7 @@
 * [x] https://www.oracle.com/technical-resources/articles/java/jpa.html[The Java Persistence API - A Simpler Programming Model for Entity Persistence]
 * [x] https://docs.oracle.com/javase/1.5.0/docs/guide/language/annotations.html[Annotations]
 * [x] https://projectreactor.io/docs/netty/release/reference/index.html#http-client[6. HTTP Client]
+* [x] https://piotrminkowski.com/2017/04/14/microservices-api-documentation-with-swagger2/[Microservices API Documentation with Swagger2]
 
 == Java Service Provider Interface (SPI)
 * [ ] https://docs.oracle.com/javase/tutorial/ext/basics/index.html[Lesson: Creating and Using Extensions]
