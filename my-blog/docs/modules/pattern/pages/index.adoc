@@ -71,7 +71,7 @@
 * [x] https://martinfowler.com/bliki/MonolithFirst.html[Monolith First]
 * [x] https://martinfowler.com/bliki/BoundedContext.html[Bounded Context]
 * [x] https://martinfowler.com/bliki/UbiquitousLanguage.html[Ubiquitous Language]
-
+* [x] https://martinfowler.com/articles/dont-start-monolith.html[Don’t start with a monolith]
 
 == JWT
 
@@ -90,6 +90,8 @@
 * [x] https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessageBus.html[Message Bus]
 * [x] https://tidyfirst.substack.com/p/canon-tdd[Canon TDD]
 * [x] https://www.enterpriseintegrationpatterns.com/ramblings/18_starbucks.html[Starbucks Does Not Use Two-Phase Commit]
+* [x] https://sites.google.com/site/unclebobconsultingllc/a-mess-is-not-a-technical-debt[A Mess is not a Technical Debt.]
+* [x] https://github.com/apache/logging-log4j2/discussions/1814[Is JsonLayout allow to manipulate logevent such as PatternLayout? #1814]
 
 == Reference
 
