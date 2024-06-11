@@ -157,6 +157,7 @@
 * [x] https://github.com/spring-projects/spring-security/issues/4368[After adding custom filters, permitAll() does not work #4368]
 * [x] https://github.com/spring-projects/spring-security/issues/14120[PermitAll routes returns 401 when token provided is expired or an invalid string #14120]
 * [x] https://www.danvega.dev/blog/2023/03/16/spring-proxy-bean-methods[Spring Boot Configuration proxy bean methods]
+* [x] https://medium.com/@sehgal.mohit06/implementing-caching-in-spring-boot-application-9b7cf2f55f8e[Implement Caching in Spring Boot Application]
 
 === Spring Tips
 
@@ -179,6 +180,9 @@
 * [x] https://www.youtube.com/watch?v=0uvQQuxyAv4[Spring Tips: the Spring Expression Language]
 * [x] https://www.youtube.com/watch?v=Z5hxolai4Tk[Spring Tips: Beans, Beans: What's in a Spring bean?]
 * [x] https://www.youtube.com/watch?v=1ouE2QAebuE[Spring Tips: Spring Cloud Gateway for Spring MVC]
+* [x] https://www.youtube.com/watch?v=X_kKfNko3hA[Spring Tips: Hello, Java 22!]
+* [x] https://www.youtube.com/watch?v=9iH5h11YJak[Spring Tips: Virtual Threads]
+* [x] https://www.youtube.com/watch?v=6i-DWkZqS3g[Spring Tips: Spring Security, Webauthn, and Passkeys]
 
 === Videos
 
@@ -194,7 +198,7 @@
 * [x] https://www.youtube.com/watch?v=oHPNpgy21Rk[Spring Boot Apache Pulsar | Producer & Consumer Hands-On Example | Javatechie]
 * [x] https://www.youtube.com/watch?v=exqfB1WaqIw[Performance oriented Spring Data JPA & Hibernate by Maciej Walkowiak]
 * [x] https://www.youtube.com/watch?v=5tTp3kW0Y8M[How To Log Incoming HTTP Requests with Spring Boot 3]
-* [x] https://www.youtube.com/watch?v=X_kKfNko3hA[Spring Tips: Hello, Java 22!]
+* [x] https://www.youtube.com/watch?v=aX-bgylmprA[Spring Constructor Injection: Why is it the recommended approach to Dependency Injection?]
 
 === Source reference
 
@@ -320,3 +324,4 @@
 * [x] https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/mock/web/MockHttpServletResponse.html[Class MockHttpServletResponse]
 * [x] https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/util/AntPathMatcher.html[AntPathMatcher]
 * [x] https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/util/WebUtils.html[WebUtils]
+* [x] https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/http/server/ServletServerHttpRequest.html[ServletServerHttpRequest]

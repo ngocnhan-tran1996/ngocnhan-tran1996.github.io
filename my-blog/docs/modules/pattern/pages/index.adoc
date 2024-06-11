@@ -72,6 +72,7 @@
 * [x] https://martinfowler.com/bliki/BoundedContext.html[Bounded Context]
 * [x] https://martinfowler.com/bliki/UbiquitousLanguage.html[Ubiquitous Language]
 * [x] https://martinfowler.com/articles/dont-start-monolith.html[Don’t start with a monolith]
+* [x] https://martinfowler.com/bliki/SacrificialArchitecture.html[Sacrificial Architecture]
 
 == JWT
 
