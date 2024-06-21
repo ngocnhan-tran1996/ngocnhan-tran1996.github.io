@@ -80,6 +80,7 @@
 * [x] https://www.iana.org/assignments/jwt/jwt.xhtml[JSON Web Token (JWT)]
 * [x] https://developer.okta.com/blog/2020/12/21/beginners-guide-to-jwt[A Beginner's Guide to JWTs]
 * [x] https://developer.okta.com/blog/2017/08/17/why-jwts-suck-as-session-tokens[Why JWTs Suck as Session Tokens]
+* [x] https://garnier.wf/blog/2024/06/11/oauth2-token-expiry.html[OAuth2 and OpenID token expiration]
 
 == Articles
 
@@ -93,6 +94,18 @@
 * [x] https://www.enterpriseintegrationpatterns.com/ramblings/18_starbucks.html[Starbucks Does Not Use Two-Phase Commit]
 * [x] https://sites.google.com/site/unclebobconsultingllc/a-mess-is-not-a-technical-debt[A Mess is not a Technical Debt.]
 * [x] https://github.com/apache/logging-log4j2/discussions/1814[Is JsonLayout allow to manipulate logevent such as PatternLayout? #1814]
+
+== DEVOXX
+
+* [x] https://www.youtube.com/watch?v=td-3t3TBk1I[97 Things Every Java Programmer Should Know by TRISHA GEE & KEVLIN HENNEY]
+* [x] https://www.youtube.com/watch?v=-t2O1UDwXlM[What's Looming in Spring? by VENKAT SUBRAMANIAM & JOSH LONG]
+* [x] https://www.youtube.com/watch?v=DHwNR7h3k5Y[Know your Java? by Venkat Subramaniam]
+* [x] https://www.youtube.com/watch?v=exqfB1WaqIw[Performance oriented Spring Data JPA & Hibernate by Maciej Walkowiak]
+* [x] https://www.youtube.com/watch?v=hzATjYXplbk[Finding Java's Hidden Performance Traps by VICTOR RENTEA]
+
+== Developer Summit
+
+* [x] https://www.youtube.com/watch?v=OLp4yecQp2Y[Code Review, you said? - Venkat Subramaniam]
 
 == Reference
 
