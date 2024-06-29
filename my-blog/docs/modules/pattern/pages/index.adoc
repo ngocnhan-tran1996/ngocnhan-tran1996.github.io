@@ -102,6 +102,9 @@
 * [x] https://www.youtube.com/watch?v=DHwNR7h3k5Y[Know your Java? by Venkat Subramaniam]
 * [x] https://www.youtube.com/watch?v=exqfB1WaqIw[Performance oriented Spring Data JPA & Hibernate by Maciej Walkowiak]
 * [x] https://www.youtube.com/watch?v=hzATjYXplbk[Finding Java's Hidden Performance Traps by VICTOR RENTEA]
+* [x] https://www.youtube.com/watch?v=ABm0KhsZJ0c[Java's Hidden Gems: Tools and Libraries by Johan Janssen]
+* [x] https://www.youtube.com/watch?v=kwxRe-4dnVU[Spring Security: The Good Parts by DANIEL GARNIER-MOIROUX]
+* [x] https://www.youtube.com/watch?v=VF0SXojfJso[A design pattern goes to the supermarket by KAYA WEERS]
 
 == Developer Summit
 
