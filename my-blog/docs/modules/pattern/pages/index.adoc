@@ -105,6 +105,11 @@
 * [x] https://www.youtube.com/watch?v=ABm0KhsZJ0c[Java's Hidden Gems: Tools and Libraries by Johan Janssen]
 * [x] https://www.youtube.com/watch?v=kwxRe-4dnVU[Spring Security: The Good Parts by DANIEL GARNIER-MOIROUX]
 * [x] https://www.youtube.com/watch?v=VF0SXojfJso[A design pattern goes to the supermarket by KAYA WEERS]
+* [x] https://www.youtube.com/watch?v=S6Z7vB5zc0g[Datafaker: the most powerful fake data generator library by ELIAS NOGUEIRA]
+* [x] https://www.youtube.com/watch?v=8FRU_aGY4mY[Data Oriented Programming in Java 21 by Nicolai Parlog]
+* [x] https://www.youtube.com/watch?v=1qdANLdLddk[Exception Handling in Functional and Reactive Programming by Venkat Subramaniam]
+* [x] https://www.youtube.com/watch?v=6yGztN6SXG8[TDD & DDD from the Ground Up (Live Coding) by CHRIS SIMON]
+* [x] https://www.youtube.com/watch?v=iI9x_qzOWyA[Setting up data driven tests with Java tools by ANDRES ALMIRAY & OLEG ŠELAJEV]
 
 == Developer Summit
 

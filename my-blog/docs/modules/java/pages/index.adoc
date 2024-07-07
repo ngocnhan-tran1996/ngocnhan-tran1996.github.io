@@ -166,6 +166,7 @@
 * [x] https://github.com/spring-projects/spring-security/issues/14120[PermitAll routes returns 401 when token provided is expired or an invalid string #14120]
 * [x] https://www.danvega.dev/blog/2023/03/16/spring-proxy-bean-methods[Spring Boot Configuration proxy bean methods]
 * [x] https://medium.com/@sehgal.mohit06/implementing-caching-in-spring-boot-application-9b7cf2f55f8e[Implement Caching in Spring Boot Application]
+* [x] https://www.wimdeblauwe.com/blog/2024/06/25/transactional-outbox-pattern-with-spring-boot/[Transactional Outbox pattern with Spring Boot]
 
 === Spring Tips
 
