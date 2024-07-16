@@ -174,6 +174,9 @@
 * [x] https://www.danvega.dev/blog/2023/03/16/spring-proxy-bean-methods[Spring Boot Configuration proxy bean methods]
 * [x] https://medium.com/@sehgal.mohit06/implementing-caching-in-spring-boot-application-9b7cf2f55f8e[Implement Caching in Spring Boot Application]
 * [x] https://www.wimdeblauwe.com/blog/2024/06/25/transactional-outbox-pattern-with-spring-boot/[Transactional Outbox pattern with Spring Boot]
+* [x] https://rieckpil.de/reducing-testcontainers-execution-time-with-junit-5-callbacks/[Reducing Testcontainers Execution Time with JUnit 5 Callbacks]
+* [x] https://stackoverflow.com/questions/259140/scanning-java-annotations-at-runtime/1415338[Scanning Java annotations at runtime]
+* [x] https://stackoverflow.com/questions/435890/find-java-classes-implementing-an-interface[Find Java classes implementing an interface [duplicate\]]
 
 === Spring Tips
 
