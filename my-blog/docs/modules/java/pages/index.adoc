@@ -109,6 +109,13 @@
 * [x] https://bell-sw.com/announcements/2020/09/21/microservices-101-understanding-the-architecture/[Java microservices: architecture, best practices, tutorials]
 * [x] https://bell-sw.com/blog/microservices-vs-monoliths-which-approach-is-better-for-your-project/[Microservices vs monoliths: which approach is better for your project?]
 
+=== Dimitri
+
+* [x] https://dimitri.codes/difference-spring-data-jdbc-jpa/[What is the difference between JDBC, JPA, Hibernate and Spring Data?]
+* [x] https://dimitri.codes/spring-interface/[Do I need an interface with Spring boot?]
+* [x] https://dimitri.codes/resttemplate-or-webclient/[Battle of the Spring REST clients: RestTemplate, WebClient or RestClient?]
+* [x] https://dimitri.codes/spring-boot-htmx-intro/[Getting started with htmx and Spring Boot]
+
 === Related Articles
 * [x] https://spring.io/blog/2014/12/02/latest-jackson-integration-improvements-in-spring[Latest Jackson integration improvements in Spring]
 * [x] https://spring.io/blog/2016/04/13/overriding-dependency-versions-with-spring-boot/[Overriding Dependency Versions with Spring Boot]
@@ -194,6 +201,7 @@
 * [x] https://www.youtube.com/watch?v=6i-DWkZqS3g[Spring Tips: Spring Security, Webauthn, and Passkeys]
 * [x] https://www.youtube.com/watch?v=MYEx0kO2-8A[Spring Tips: Spring Modulith]
 * [x] https://www.youtube.com/watch?v=zeY3Wg1ieqI[Spring Tips: Go Further and Faster with Spring Boot 3.3 (Updated)]
+* [x] https://www.youtube.com/watch?v=msb2b3BeeQo[Spring Tips: Testcontainers, Docker Compose, and Service Connections, oh my!]
 
 === Videos
 
