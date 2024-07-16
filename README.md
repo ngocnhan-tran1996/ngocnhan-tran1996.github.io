@@ -1,59 +1,56 @@
-Welcome to My Repo
-===================
+<h1 align="center">Hi 👋, I'm Ngoc Nhan</h1>
 
-- [Welcome to My Repo](#welcome-to-my-repo)
-- [How this works](#how-this-works)
-  - [Prerequisites](#prerequisites)
-  - [Install Node.js](#install-nodejs)
-  - [Install Antora](#install-antora)
-  - [Run Antora](#run-antora)
-- [Reference](#reference)
+<h2 align="center">Backend Developer</h2>
 
-# How this works
+- 💬 Ask me about anything, I am happy to help.
 
-## Prerequisites
-* Install Node.js.
-* Install Antora.
+- 🔭 I’m currently working at **the one of most popular banks in Viet Nam**
 
-## Install Node.js
+- 📫 Reach me at **ngocnhan.tran1996@gmail.com**
 
-If you installed Node.js, please open a terminal and type:
+<h2 align="center">Connect with me</h2>
+<p align="center">
+<a href="https://linkedin.com/in/ngocnhan-tran1996" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ngocnhan-tran1996" height="30" width="40" />
+</a>
+</p>
 
-```node
-node -v
-```
+<h2 align="center">Languages and Tools:</h2>
 
-If no version number is displayed in your terminal, you need to install Node.js.
+### Programming Language
 
-Please select and download [NodeJS](https://nodejs.org/en/download) based on your platform.
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50" />
+</a>
 
-**Note:** version node >= `v16.20.0`
+### Backend Framework
 
-Once you’ve installed Node.js, it’s time to install Antora.
+<a href="https://spring.io/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50" />
+</a>
 
-## Install Antora
+### Database
 
-```node
-npm i -g @antora/cli@3.1 @antora/site-generator@3.1
-```
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50" />
+</a>
 
-You can verify that the antora command is available on your path by running:
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50" />
+</a>
 
-```node
- antora -v
-```
+<a href="https://redis.io" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50" />
+</a>
 
-## Run Antora
+### Messaging Libraries
 
-In the terminal, you type
+<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="50" height="50" />
+</a>
 
-```node
-antora --fetch antora-playbook.yml
-```
+### Version Control
 
-Navigate to the build/site directory and open the index.html file in your browser to see the result.
-
-# Reference
-
-- [Antora](https://antora.org/)
-- [NodeJS](https://nodejs.org/en/download)
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" />
+</a>
