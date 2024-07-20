@@ -114,6 +114,7 @@
 == Developer Summit
 
 * [x] https://www.youtube.com/watch?v=OLp4yecQp2Y[Code Review, you said? - Venkat Subramaniam]
+* [x] https://www.youtube.com/watch?v=oZ6LLooOoqE[How to Approach Refactoring - Venkat Subramaniam]
 
 == Reference
 

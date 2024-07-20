@@ -4,6 +4,12 @@
 * [x] https://docs.oracle.com/javase/tutorial/getStarted/index.html[Getting Started]
 * [x] https://docs.oracle.com/javase/tutorial/java/index.html[Learning the Java Language]
 
+== Cracking the Java Coding Interview
+
+* [x] https://www.youtube.com/shorts/Kb3YDZrBRZ0[How is Map.keySet() method working?]
+* [x] https://www.youtube.com/shorts/ubmAvn-8QTM[What is a Read Write Lock?]
+* [x] https://www.youtube.com/shorts/E6VCxEzVSyw[Difference between Enum and Enumeration]
+
 == Spring Framework
 * [x] https://docs.spring.io/spring-framework/reference/[Spring Framework]
 * [x] [.text-decoration-line-through]#https://docs.spring.io/spring-data/commons/docs/current/reference/html[Spring Data Old Version]#
@@ -205,6 +211,8 @@
 * [x] https://www.youtube.com/watch?v=MYEx0kO2-8A[Spring Tips: Spring Modulith]
 * [x] https://www.youtube.com/watch?v=zeY3Wg1ieqI[Spring Tips: Go Further and Faster with Spring Boot 3.3 (Updated)]
 * [x] https://www.youtube.com/watch?v=msb2b3BeeQo[Spring Tips: Testcontainers, Docker Compose, and Service Connections, oh my!]
+* [x] https://www.youtube.com/watch?v=K8na2qdHDuI[Spring Tips: Data Oriented Programming in Java 21+]
+* [x] https://www.youtube.com/watch?v=pvE4pwyzkpE[Spring Tips: Proxies]
 
 === Videos
 
@@ -276,6 +284,7 @@
 * [x] https://docs.oracle.com/javase/1.5.0/docs/guide/language/annotations.html[Annotations]
 * [x] https://projectreactor.io/docs/netty/release/reference/index.html#http-client[6. HTTP Client]
 * [x] https://piotrminkowski.com/2017/04/14/microservices-api-documentation-with-swagger2/[Microservices API Documentation with Swagger2]
+* [x] https://rieckpil.de/spring-boot-test-slices-overview-and-usage/[Spring Boot Test Slices: Overview and Usage]
 
 == Java Service Provider Interface (SPI)
 * [ ] https://docs.oracle.com/javase/tutorial/ext/basics/index.html[Lesson: Creating and Using Extensions]
