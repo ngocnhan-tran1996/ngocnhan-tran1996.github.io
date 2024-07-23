@@ -11,7 +11,7 @@ export default function App() {
           <h1 className="text-body-secondary">Tran Ngoc Nhan</h1>
         </blockquote>
 
-        <figcaption className="blockquote-footer fs-6 fw-bold">
+        <figcaption className="blockquote-footer fs-5 fw-bold">
           Java Developer
         </figcaption>
       </figure>

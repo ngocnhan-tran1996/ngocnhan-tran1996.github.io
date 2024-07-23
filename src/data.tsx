@@ -89,13 +89,15 @@ export const workExperienceData: SectionProperty[] = [
   }
 ];
 
+const badge = "badge rounded-pill text-bg-secondary fw-normal me-1";
+
 export const skillsData: SectionProperty[] = [
   {
     title: "Languages",
     children: (
       <>
-        <span className="badge rounded-pill text-bg-secondary me-1">English</span>
-        <span className="badge rounded-pill text-bg-secondary">Vietnamese</span>
+        <span className={badge}>English</span>
+        <span className={badge}>Vietnamese</span>
       </>
     )
   },
@@ -103,8 +105,8 @@ export const skillsData: SectionProperty[] = [
     title: "Programming Languages",
     children: (
       <>
-        <span className="badge rounded-pill text-bg-secondary me-1">Java</span>
-        <span className="badge rounded-pill text-bg-secondary">Javascript</span>
+        <span className={badge}>Java</span>
+        <span className={badge}>Javascript</span>
       </>
     )
   },
@@ -112,15 +114,15 @@ export const skillsData: SectionProperty[] = [
     title: "Frameworks & Platforms",
     children: (
       <>
-        <span className="badge rounded-pill text-bg-secondary me-1">Spring Framework</span>
-        <span className="badge rounded-pill text-bg-secondary me-1">Spring Boot</span>
-        <span className="badge rounded-pill text-bg-secondary me-1">Spring JPA</span>
-        <span className="badge rounded-pill text-bg-secondary me-1">Thymeleaf</span>
-        <span className="badge rounded-pill text-bg-secondary me-1">Hibernate</span>
-        <span className="badge rounded-pill text-bg-secondary me-1">Boostrap</span>
-        <span className="badge rounded-pill text-bg-secondary me-1">Thymeleaf</span>
-        <span className="badge rounded-pill text-bg-secondary me-1">ReactJS</span>
-        <span className="badge rounded-pill text-bg-secondary">NextJS</span>
+        <span className={badge}>Spring Framework</span>
+        <span className={badge}>Spring Boot</span>
+        <span className={badge}>Spring JPA</span>
+        <span className={badge}>Thymeleaf</span>
+        <span className={badge}>Hibernate</span>
+        <span className={badge}>Boostrap</span>
+        <span className={badge}>Thymeleaf</span>
+        <span className={badge}>ReactJS</span>
+        <span className={badge}>NextJS</span>
       </>
     )
   },
@@ -128,9 +130,9 @@ export const skillsData: SectionProperty[] = [
     title: "Databases",
     children: (
       <>
-        <span className="badge rounded-pill text-bg-secondary me-1">MySQL</span>
-        <span className="badge rounded-pill text-bg-secondary me-1">PostgreSQL</span>
-        <span className="badge rounded-pill text-bg-secondary">Oracle</span>
+        <span className={badge}>MySQL</span>
+        <span className={badge}>PostgreSQL</span>
+        <span className={badge}>Oracle</span>
       </>
     )
   },
@@ -138,12 +140,12 @@ export const skillsData: SectionProperty[] = [
     title: "Version Controll & IDE",
     children: (
       <>
-        <span className="badge rounded-pill text-bg-secondary me-1">Git</span>
-        <span className="badge rounded-pill text-bg-secondary  me-1">Github</span>
-        <span className="badge rounded-pill text-bg-secondary me-1">Gitlab</span>
-        <span className="badge rounded-pill text-bg-secondary me-1">Eclipse</span>
-        <span className="badge rounded-pill text-bg-secondary me-1">VS Code</span>
-        <span className="badge rounded-pill text-bg-secondary">IntelliJ</span>
+        <span className={badge}>Git</span>
+        <span className={badge}>Github</span>
+        <span className={badge}>Gitlab</span>
+        <span className={badge}>Eclipse</span>
+        <span className={badge}>VS Code</span>
+        <span className={badge}>IntelliJ</span>
       </>
     )
   },
@@ -151,14 +153,14 @@ export const skillsData: SectionProperty[] = [
     title: "Knowledge",
     children: (
       <>
-        <span className="badge rounded-pill text-bg-secondary me-1">OOP</span>
-        <span className="badge rounded-pill text-bg-secondary me-1">Design Pattern</span>
-        <span className="badge rounded-pill text-bg-secondary me-1">SOLID Principles</span>
-        <span className="badge rounded-pill text-bg-secondary me-1">Dependency Injection</span>
-        <span className="badge rounded-pill text-bg-secondary me-1">RestfulAPI</span>
-        <span className="badge rounded-pill text-bg-secondary me-1">Microservices</span>
-        <span className="badge rounded-pill text-bg-secondary me-1">RabbitMQ</span>
-        <span className="badge rounded-pill text-bg-secondary">ActiveMQ</span>
+        <span className={badge}>OOP</span>
+        <span className={badge}>Design Pattern</span>
+        <span className={badge}>SOLID Principles</span>
+        <span className={badge}>Dependency Injection</span>
+        <span className={badge}>RestfulAPI</span>
+        <span className={badge}>Microservices</span>
+        <span className={badge}>RabbitMQ</span>
+        <span className={badge}>ActiveMQ</span>
       </>
     )
   },
@@ -166,8 +168,8 @@ export const skillsData: SectionProperty[] = [
     title: "Computer",
     children: (
       <>
-        <span className="badge rounded-pill text-bg-secondary me-1">Word</span>
-        <span className="badge rounded-pill text-bg-secondary">Excel</span>
+        <span className={badge}>Word</span>
+        <span className={badge}>Excel</span>
       </>
     )
   }
