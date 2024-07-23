@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ngoc Nhan</h1>
 
-See my resume: [ngocnhan-tran1996.github.io/](https://ngocnhan-tran1996.github.io/)
+See my resume: [ngocnhan-tran1996.github.io](https://ngocnhan-tran1996.github.io/)
 
 See my github: [ngocnhan-tran1996](https://github.com/ngocnhan-tran1996)
 
