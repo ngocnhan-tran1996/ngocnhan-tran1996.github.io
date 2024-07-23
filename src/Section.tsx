@@ -1,6 +1,6 @@
 import { Fragment } from 'react';
 
-export default function Section({ title, divideClassName, properties }: { title:string, divideClassName:string, properties: SectionProperty[] }) {
+export default function Section({ title, divideClassName, properties }: { title: string, divideClassName: string, properties: SectionProperty[] }) {
 
   var data = properties.map(
     property =>
