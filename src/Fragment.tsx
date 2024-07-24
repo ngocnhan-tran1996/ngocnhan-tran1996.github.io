@@ -19,9 +19,9 @@ export function SectionFragment({ title, divideClassName, properties }: { title:
   )
 }
 
-export function BadgeFragment({ value }: { value: string }) {
+export function BadgeFragment({ values }: { values: string[] }) {
 
-  return <span className="badge rounded-pill text-bg-secondary fw-normal me-1">{value}</span>
+  return values.map(value => <span className="badge rounded-pill text-bg-secondary fw-normal me-1">{value}</span>)
 }
 
 export interface SectionProperty {

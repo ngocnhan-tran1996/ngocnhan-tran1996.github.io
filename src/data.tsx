@@ -89,42 +89,42 @@ export const workExperienceData: SectionProperty[] = [
   }
 ];
 
-const languages = ["English", "Vietnamese"].map(value => <BadgeFragment value={value} />)
-const programmingLanguages = ["Java", "Javascript"].map(value => <BadgeFragment value={value} />)
-const frameworks = ["Spring Framework", "Spring Security", "Spring Boot", "Spring JPA", "Spring AMQP", "Spring Mail", "Thymeleaf", "Hibernate", "Boostrap", "ReactJS"].map(value => <BadgeFragment value={value} />)
-const databases = ["MySQL", "PostgreSQL", "Oracle"].map(value => <BadgeFragment value={value} />)
-const tools = ["Github", "Github", "Gitlab", "Eclipse", "VS Code", "IntelliJ"].map(value => <BadgeFragment value={value} />)
-const knowledge = ["OOP", "Design Pattern", "SOLID Principles", "Dependency Injection", "RestfulAPI", "Microservices", "RabbitMQ", "ActiveMQ"].map(value => <BadgeFragment value={value} />)
-const anotherTools = ["Word", "Excel"].map(value => <BadgeFragment value={value} />)
+const languages = <BadgeFragment values={["English", "Vietnamese"]} />
+const programmingLanguages = <BadgeFragment values={["Java", "Javascript"]} />
+const frameworks = <BadgeFragment values={["Spring Framework", "Spring Security", "Spring Boot", "Spring JPA", "Spring AMQP", "Spring Mail", "Thymeleaf", "Hibernate", "Boostrap", "ReactJS"]} />
+const databases = <BadgeFragment values={["MySQL", "PostgreSQL", "Oracle"]} />
+const tools = <BadgeFragment values={["Github", "Github", "Gitlab", "Eclipse", "VS Code", "IntelliJ"]} />
+const knowledge = <BadgeFragment values={["OOP", "Design Pattern", "SOLID Principles", "Dependency Injection", "RestfulAPI", "Microservices", "RabbitMQ", "ActiveMQ"]} />
+const anotherTools = <BadgeFragment values={["Word", "Excel"]} />
 
 export const skillsData: SectionProperty[] = [
   {
     title: "Languages",
-    children: <>{languages} </>
+    children: languages
   },
   {
     title: "Programming Languages",
-    children: <>{programmingLanguages}</>
+    children: programmingLanguages
   },
   {
     title: "Frameworks & Platforms",
-    children: <>{frameworks}</>
+    children: frameworks
   },
   {
     title: "Databases",
-    children: <>{databases}</>
+    children: databases
   },
   {
     title: "Version Control & IDE",
-    children: <>{tools}</>
+    children: tools
   },
   {
     title: "Knowledge",
-    children: <>{knowledge}</>
+    children: knowledge
   },
   {
     title: "Computer",
-    children: <>{anotherTools}</>
+    children: anotherTools
   }
 ]
 
