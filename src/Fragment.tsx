@@ -1,6 +1,6 @@
 import { Fragment } from 'react';
 
-export default function Section({ title, divideClassName, properties }: { title: string, divideClassName: string, properties: SectionProperty[] }) {
+export function SectionFragment({ title, divideClassName, properties }: { title: string, divideClassName: string, properties: SectionProperty[] }) {
 
   var data = properties.map(
     property =>
@@ -17,6 +17,11 @@ export default function Section({ title, divideClassName, properties }: { title:
       <dl className="row align-items-center">{data}</dl>
     </section>
   )
+}
+
+export function BadgeFragment({ value }: { value: string }) {
+
+  return <span className="badge rounded-pill text-bg-secondary me-1">{value}</span>
 }
 
 export interface SectionProperty {

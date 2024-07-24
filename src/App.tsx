@@ -1,4 +1,4 @@
-import Section from './Section'
+import { SectionFragment } from './Fragment'
 import { informationData, workExperienceData, skillsData, certificationData, educationData } from './data'
 
 export default function App() {
@@ -16,15 +16,15 @@ export default function App() {
         </figcaption>
       </figure>
 
-      <Section title="INFORMATION" divideClassName="border border-primary border-3 opacity-50" properties={informationData} />
+      <SectionFragment title="INFORMATION" divideClassName="border border-primary border-3 opacity-50" properties={informationData} />
 
-      <Section title="WORK EXPERIENCE" divideClassName="border border-black border-3 opacity-75" properties={workExperienceData} />
+      <SectionFragment title="WORK EXPERIENCE" divideClassName="border border-black border-3 opacity-75" properties={workExperienceData} />
 
-      <Section title="SKILLS" divideClassName="border border-secondary border-3 opacity-75" properties={skillsData} />
+      <SectionFragment title="SKILLS" divideClassName="border border-secondary border-3 opacity-75" properties={skillsData} />
 
-      <Section title="CERTIFICATIONS" divideClassName="border border-info border-3 opacity-75" properties={certificationData} />
+      <SectionFragment title="CERTIFICATIONS" divideClassName="border border-info border-3 opacity-75" properties={certificationData} />
 
-      <Section title="EDUCATION" divideClassName="border border-dark-subtle border-3 opacity-50" properties={educationData} />
+      <SectionFragment title="EDUCATION" divideClassName="border border-dark-subtle border-3 opacity-50" properties={educationData} />
     </div>
   )
 

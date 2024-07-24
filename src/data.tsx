@@ -1,4 +1,4 @@
-import { SectionProperty } from "./Section";
+import { BadgeFragment, SectionProperty } from "./Fragment";
 
 export const informationData: SectionProperty[] = [
   {
@@ -89,89 +89,42 @@ export const workExperienceData: SectionProperty[] = [
   }
 ];
 
-const badge = "badge rounded-pill text-bg-secondary fw-normal me-1";
+const languages = ["English", "Vietnamese"].map(value => <BadgeFragment value={value} />)
+const programmingLanguages = ["Java", "Javascript"].map(value => <BadgeFragment value={value} />)
+const frameworks = ["Spring Framework", "Spring Security", "Spring Boot", "Spring JPA", "Spring AMQP", "Spring Mail", "Thymeleaf", "Hibernate", "Boostrap", "ReactJS"].map(value => <BadgeFragment value={value} />)
+const databases = ["MySQL", "PostgreSQL", "Oracle"].map(value => <BadgeFragment value={value} />)
+const tools = ["Github", "Github", "Gitlab", "Eclipse", "VS Code", "IntelliJ"].map(value => <BadgeFragment value={value} />)
+const knowledge = ["OOP", "Design Pattern", "SOLID Principles", "Dependency Injection", "RestfulAPI", "Microservices", "RabbitMQ", "ActiveMQ"].map(value => <BadgeFragment value={value} />)
+const anotherTools = ["Word", "Excel"].map(value => <BadgeFragment value={value} />)
 
 export const skillsData: SectionProperty[] = [
   {
     title: "Languages",
-    children: (
-      <>
-        <span className={badge}>English</span>
-        <span className={badge}>Vietnamese</span>
-      </>
-    )
+    children: <>{languages} </>
   },
   {
     title: "Programming Languages",
-    children: (
-      <>
-        <span className={badge}>Java</span>
-        <span className={badge}>Javascript</span>
-      </>
-    )
+    children: <>{programmingLanguages}</>
   },
   {
     title: "Frameworks & Platforms",
-    children: (
-      <>
-        <span className={badge}>Spring Framework</span>
-        <span className={badge}>Spring Boot</span>
-        <span className={badge}>Spring JPA</span>
-        <span className={badge}>Thymeleaf</span>
-        <span className={badge}>Hibernate</span>
-        <span className={badge}>Boostrap</span>
-        <span className={badge}>Thymeleaf</span>
-        <span className={badge}>ReactJS</span>
-        <span className={badge}>NextJS</span>
-      </>
-    )
+    children: <>{frameworks}</>
   },
   {
     title: "Databases",
-    children: (
-      <>
-        <span className={badge}>MySQL</span>
-        <span className={badge}>PostgreSQL</span>
-        <span className={badge}>Oracle</span>
-      </>
-    )
+    children: <>{databases}</>
   },
   {
-    title: "Version Controll & IDE",
-    children: (
-      <>
-        <span className={badge}>Git</span>
-        <span className={badge}>Github</span>
-        <span className={badge}>Gitlab</span>
-        <span className={badge}>Eclipse</span>
-        <span className={badge}>VS Code</span>
-        <span className={badge}>IntelliJ</span>
-      </>
-    )
+    title: "Version Control & IDE",
+    children: <>{tools}</>
   },
   {
     title: "Knowledge",
-    children: (
-      <>
-        <span className={badge}>OOP</span>
-        <span className={badge}>Design Pattern</span>
-        <span className={badge}>SOLID Principles</span>
-        <span className={badge}>Dependency Injection</span>
-        <span className={badge}>RestfulAPI</span>
-        <span className={badge}>Microservices</span>
-        <span className={badge}>RabbitMQ</span>
-        <span className={badge}>ActiveMQ</span>
-      </>
-    )
+    children: <>{knowledge}</>
   },
   {
     title: "Computer",
-    children: (
-      <>
-        <span className={badge}>Word</span>
-        <span className={badge}>Excel</span>
-      </>
-    )
+    children: <>{anotherTools}</>
   }
 ]
 
