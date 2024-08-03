@@ -9,6 +9,9 @@
 * [x] https://www.youtube.com/shorts/Kb3YDZrBRZ0[How is Map.keySet() method working?]
 * [x] https://www.youtube.com/shorts/ubmAvn-8QTM[What is a Read Write Lock?]
 * [x] https://www.youtube.com/shorts/E6VCxEzVSyw[Difference between Enum and Enumeration]
+* [x] https://www.youtube.com/shorts/T93jU7tqT04[How can you reduce a Stream?]
+* [x] https://www.youtube.com/shorts/kXWl_Tv5wiU[What is JShell?]
+* [x] https://www.youtube.com/shorts/fpq4SQKLPDs[How is a HashSet working?]
 
 == Spring Framework
 * [x] https://docs.spring.io/spring-framework/reference/[Spring Framework]
@@ -183,6 +186,8 @@
 * [x] https://rieckpil.de/reducing-testcontainers-execution-time-with-junit-5-callbacks/[Reducing Testcontainers Execution Time with JUnit 5 Callbacks]
 * [x] https://stackoverflow.com/questions/259140/scanning-java-annotations-at-runtime/1415338[Scanning Java annotations at runtime]
 * [x] https://stackoverflow.com/questions/435890/find-java-classes-implementing-an-interface[Find Java classes implementing an interface [duplicate\]]
+* [x] https://bootify.medium.com/the-spring-initializr-alternative-for-starting-complex-spring-boot-apps-9e8d78d5fec4[The Spring Initializr alternative for starting complex Spring Boot apps]
+* [x] https://medium.com/codex/implementing-the-strategy-design-pattern-in-spring-boot-df3adb9ceb4a[Implementing the Strategy Design pattern in Spring Boot]
 
 === Spring Tips
 
@@ -213,6 +218,7 @@
 * [x] https://www.youtube.com/watch?v=msb2b3BeeQo[Spring Tips: Testcontainers, Docker Compose, and Service Connections, oh my!]
 * [x] https://www.youtube.com/watch?v=K8na2qdHDuI[Spring Tips: Data Oriented Programming in Java 21+]
 * [x] https://www.youtube.com/watch?v=pvE4pwyzkpE[Spring Tips: Proxies]
+* [x] https://www.youtube.com/watch?v=wAW2OpBKpvw[Spring Tips: Useful Annotation Processors]
 
 === Videos
 
@@ -285,6 +291,7 @@
 * [x] https://projectreactor.io/docs/netty/release/reference/index.html#http-client[6. HTTP Client]
 * [x] https://piotrminkowski.com/2017/04/14/microservices-api-documentation-with-swagger2/[Microservices API Documentation with Swagger2]
 * [x] https://rieckpil.de/spring-boot-test-slices-overview-and-usage/[Spring Boot Test Slices: Overview and Usage]
+* [x] https://maciejwalkowiak.com/blog/spring-boot-openapi-generate-client/[Generating HTTP clients in Spring Boot application from OpenAPI spec]
 
 == Java Service Provider Interface (SPI)
 * [ ] https://docs.oracle.com/javase/tutorial/ext/basics/index.html[Lesson: Creating and Using Extensions]
