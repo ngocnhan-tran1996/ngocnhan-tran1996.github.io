@@ -24,6 +24,10 @@ export const informationData: SectionProperty[] = [
   {
     title: "GitHub",
     children: <a href="https://github.com/ngocnhan-tran1996" title="Nhan's GitHub">https://github.com/ngocnhan-tran1996</a>
+  },
+  {
+    title: "Linkedin",
+    children: <a href="https://www.linkedin.com/in/ngocnhan-tran1996/" title="Nhan's Linkedin">https://www.linkedin.com/in/ngocnhan-tran1996</a>
   }
 ];
 
