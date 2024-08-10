@@ -9,3 +9,4 @@
 - [Secure Sockets Layer (SSL)](https://developer.mozilla.org/en-US/docs/Glossary/SSL)
 - [Transport Layer Security (TLS)](https://developer.mozilla.org/en-US/docs/Glossary/TLS)
 - [Cruft](https://en.wikipedia.org/wiki/Cruft)
+- [What is shotgun/voodoo programming?](https://stackoverflow.com/questions/11782951/what-is-shotgun-voodoo-programming)

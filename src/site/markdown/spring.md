@@ -23,6 +23,7 @@
 
 ## Documents
 
+- [What is Java Spring Boot?](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-java-spring-boot/)
 - [Spring Framework](https://docs.spring.io/spring-framework/reference/)
 - [Spring Data](https://docs.spring.io/spring-data/commons/reference/index.html)
 - [Spring AMQP](https://docs.spring.io/spring-amqp/docs/current/reference/html/)
@@ -202,6 +203,11 @@
 - [Spring Boot Test Slices: Overview and Usage](https://rieckpil.de/spring-boot-test-slices-overview-and-usage/)
 - [Generating HTTP clients in Spring Boot application from OpenAPI spec](https://maciejwalkowiak.com/blog/spring-boot-openapi-generate-client/)
 - [Microservices API Documentation with Swagger2](https://piotrminkowski.com/2017/04/14/microservices-api-documentation-with-swagger2/)
+- [Returning Errors Using ProblemDetail in Spring Boot](https://www.baeldung.com/spring-boot-return-errors-problemdetail)
+- [Spring Boot 3.3 Boosts Performance, Security, and Observability](https://www.infoq.com/news/2024/08/spring-boot-3-3/)
+- [Optimizing Spring Boot Config Management with ConfigMaps: Environment Variables or Volume Mounts](https://www.infoq.com/articles/config-maps-with-spring-boot/)
+- [Validation with Spring Boot - the Complete Guide](https://reflectoring.io/bean-validation-with-spring-boot/)
+- [Bean Validation Anti-Patterns](https://reflectoring.io/bean-validation-anti-patterns/)
 
 ## Spring Tips
 
@@ -295,3 +301,15 @@
 - [AntPathMatcher](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/util/AntPathMatcher.html)
 - [WebUtils](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/util/WebUtils.html)
 - [ServletServerHttpRequest](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/http/server/ServletServerHttpRequest.html)
+- [ResponseEntityExceptionHandler](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.html)
+- [JwtAuthenticationConverter](https://docs.spring.io/spring-security/site/docs/current/api/org/springframework/security/oauth2/server/resource/authentication/JwtAuthenticationConverter.html)
+- [RequestMappingHandlerAdapter](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.html)
+- [RequestResponseBodyMethodProcessor](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/servlet/mvc/method/annotation/RequestResponseBodyMethodProcessor.html)
+- [WebMvcConfigurationSupport](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/servlet/config/annotation/WebMvcConfigurationSupport.html)
+- [HandlerMethodValidationException](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/method/annotation/HandlerMethodValidationException.html)
+- [ApplicationObjectSupport](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/support/ApplicationObjectSupport.html)
+- [AbstractPropertyResolver](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/core/env/AbstractPropertyResolver.html)
+- [SystemPropertyUtils](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/util/SystemPropertyUtils.html)
+- [StandardEnvironment](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/core/env/StandardEnvironment.html)
+- [PropertySourcesPropertyResolver](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/core/env/PropertySourcesPropertyResolver.html)
+- [PropertiesLoaderUtils](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/core/io/support/PropertiesLoaderUtils.html)
