@@ -77,6 +77,10 @@
 - [Tackling the OAuth2 Client component model in Spring Security](https://spring.io/blog/2023/08/22/tackling-the-oauth2-client-component-model-in-spring-security/)
 - [Spring Boot 3 OAuth2 Client for non reactive project](https://neuw.medium.com/spring-boot-3-oauth2-client-for-servlets-based-project-1343de8bab34)
 - [How to Implement Simple Authentication in Spring Boot?](https://www.tutorialspoint.com/how-to-implement-simple-authentication-in-spring-boot)
+- [PermitAll routes returns 401 when token provided is expired or an invalid string #14120](https://github.com/spring-projects/spring-security/issues/14120)
+- [Rotate SSL Certificates with OpenShift and Spring Boot](https://piotrminkowski.com/2024/03/04/rotate-ssl-certificates-with-openshift-and-spring-boot/)
+- [Spring Authorization Server customization](https://garnier.wf/blog/2024/02/12/spring-auth-server-tokens.html)
+- [After adding custom filters, permitAll() does not work #4368](https://github.com/spring-projects/spring-security/issues/4368)
 
 ## Kafka
 
@@ -116,6 +120,7 @@
 - [Testing Spring Boot JMS with ActiveMQ Artemis and Testcontainers](https://martinelli.ch/testing-spring-boot-jms-with-artemis-and-testcontainers/)
 - [The best way to use Testcontainers with Spring Boot](https://maciejwalkowiak.com/blog/testcontainers-spring-boot-setup/)
 - [Enhanced Testcontainers and Development-Time Containers Support in Spring Boot 3.1](https://www.infoq.com/news/2023/07/enhanced-testcontainers-support/)
+- [Reducing Testcontainers Execution Time with JUnit 5 Callbacks](https://rieckpil.de/reducing-testcontainers-execution-time-with-junit-5-callbacks/)
 
 ## Cache
 
@@ -167,9 +172,7 @@
 - [Context Propagation with Project Reactor 3 - Unified Bridging between Reactive and Imperative](https://spring.io/blog/2023/03/30/context-propagation-with-project-reactor-3-unified-bridging-between-reactive)
 - [Guide to building Spring Boot library](https://piotrminkowski.com/2020/08/04/guide-to-building-spring-boot-library/)
 - [Spring Boot Tips, Tricks and Techniques](https://piotrminkowski.com/2021/01/13/spring-boot-tips-tricks-and-techniques/)
-- [Rotate SSL Certificates with OpenShift and Spring Boot](https://piotrminkowski.com/2024/03/04/rotate-ssl-certificates-with-openshift-and-spring-boot/)
 - [Building a Gateway](https://spring.io/guides/gs/gateway)
-- [Spring Authorization Server customization](https://garnier.wf/blog/2024/02/12/spring-auth-server-tokens.html)
 - [Spring Boot 3 : Error Responses using Problem Details for HTTP APIs](https://www.sivalabs.in/spring-boot-3-error-reporting-using-problem-details/)
 - [Different Log4j2 Configurations per Spring Profile](https://www.baeldung.com/spring-log4j2-config-per-profile)
 - [Spring Boot Logback and Log4j2 Extensions](https://www.baeldung.com/spring-boot-logback-log4j2)
@@ -189,11 +192,8 @@
 - [How to Record Request and Response Bodies in Sping Boot Applications](https://www.springcloud.io/post/2022-03/record-request-and-response-bodies)
 - [Advanced Practices in Spring Boot: Building a Modular Application with Docker, Zipkin, and 100% Code Coverage](https://www.makariev.com/blog/advanced-spring-boot-structure-clean-architecture-modulith/)
 - [Setting Default TimeZone in Spring Boot Application](https://www.baeldung.com/spring-boot-set-default-timezone)
-- [After adding custom filters, permitAll() does not work #4368](https://github.com/spring-projects/spring-security/issues/4368)
-- [PermitAll routes returns 401 when token provided is expired or an invalid string #14120](https://github.com/spring-projects/spring-security/issues/14120)
 - [Spring Boot Configuration proxy bean methods](https://www.danvega.dev/blog/2023/03/16/spring-proxy-bean-methods)
 - [Implement Caching in Spring Boot Application](https://medium.com/@sehgal.mohit06/implementing-caching-in-spring-boot-application-9b7cf2f55f8e)
-- [Reducing Testcontainers Execution Time with JUnit 5 Callbacks](https://rieckpil.de/reducing-testcontainers-execution-time-with-junit-5-callbacks/)
 - [Scanning Java annotations at runtime](https://stackoverflow.com/questions/259140/scanning-java-annotations-at-runtime/1415338)
 - [Find Java classes implementing an interface](https://stackoverflow.com/questions/435890/find-java-classes-implementing-an-interface)
 - [The Spring Initializr alternative for starting complex Spring Boot apps](https://bootify.medium.com/the-spring-initializr-alternative-for-starting-complex-spring-boot-apps-9e8d78d5fec4)
