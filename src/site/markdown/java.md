@@ -5,9 +5,7 @@
   * [The Java™ Tutorials](#the-java-tutorials)
   * [Cracking the Java Coding Interview](#cracking-the-java-coding-interview)
   * [Spring Framework](#spring-framework)
-    * [Transactions](#transactions)
-    * [JPA](#jpa)
-    * [JDBC](#jdbc)
+    * [JPA - JDBC - Transactions](#jpa---jdbc---transactions)
     * [Security](#security)
     * [Kafka](#kafka)
     * [Docker](#docker)
@@ -19,11 +17,10 @@
     * [Related Articles](#related-articles)
     * [Spring Tips](#spring-tips)
     * [Videos](#videos)
-    * [Source reference](#source-reference)
   * [Locking](#locking)
   * [Articles](#articles)
   * [Java Service Provider Interface (SPI)](#java-service-provider-interface-spi)
-  * [Source Reference](#source-reference-1)
+  * [Source Reference](#source-reference)
   * [Java Language Updates](#java-language-updates)
   * [Java Magazine](#java-magazine)
   * [Vaadin](#vaadin)
@@ -50,11 +47,12 @@
 - [Why you should not use static initializers?](https://www.youtube.com/shorts/52wIam7kkL4)
 - [How can you stop a Thread?](https://www.youtube.com/shorts/f4fajEBqY0g)
 - [What does volatile mean?](https://www.youtube.com/shorts/qJm6RoEy9_s)
+- [What is the difference between Comparator and Comparable?](https://www.youtube.com/shorts/LBSSz2NOeQU)
+- [What is the difference between a reduce() and collect()?](https://www.youtube.com/shorts/8ddP1WDxULg)
 
 ## Spring Framework
 
 - [Spring Framework](https://docs.spring.io/spring-framework/reference/)
-- [Spring Data Old Version](https://docs.spring.io/spring-data/commons/docs/current/reference/html)
 - [Spring Data](https://docs.spring.io/spring-data/commons/reference/index.html)
 - [Spring AMQP](https://docs.spring.io/spring-amqp/docs/current/reference/html/)
 - [Spring Security](https://docs.spring.io/spring-security/reference/index.html)
@@ -63,7 +61,7 @@
 - [Basic Concepts: @Bean and @Configuration](https://docs.spring.io/spring-framework/reference/core/beans/java/basic-concepts.html)
 - [Method invocation in same class when both methods are @Transactional, but method 2 never executes](https://github.com/spring-projects/spring-framework/issues/27534#issuecomment-938632203)
 
-### Transactions
+### JPA - JDBC - Transactions
 
 - [Distributed transactions in Spring, with and without XA](https://www.infoworld.com/article/2077963/distributed-transactions-in-spring--with-and-without-xa.html)
 - [Spring Integration](https://www.atomikos.com/Documentation/SpringIntegration)
@@ -73,9 +71,9 @@
 - [Distributed Transactions in Microservices with Kafka Streams and Spring Boot](https://piotrminkowski.com/2022/01/24/distributed-transactions-in-microservices-with-kafka-streams-and-spring-boot/)
 - [Deep Dive into Saga Transactions with Kafka Streams and Spring Boot](https://piotrminkowski.com/2022/02/07/deep-dive-into-saga-transactions-with-kafka-streams-and-spring-boot/)
 - [A Guide to Atomikos](https://www.baeldung.com/java-atomikos)
+- [Transactional Outbox pattern with Spring Boot](https://www.wimdeblauwe.com/blog/2024/06/25/transactional-outbox-pattern-with-spring-boot/)
 
-### JPA
-
+---
 - [The Spring Data JPA findById Anti-Pattern](https://vladmihalcea.com/spring-data-jpa-findbyid/)
 - [Pessimistic Locking in JPA](https://www.baeldung.com/jpa-pessimistic-locking)
 - [Optimistic Locking in JPA](https://www.baeldung.com/jpa-optimistic-locking)
@@ -91,9 +89,9 @@
 - [How do JPA persist, merge and Hibernate save, update, saveOrUpdate methods work](https://vladmihalcea.com/jpa-persist-merge-hibernate-save-update-saveorupdate/)
 - [Java Records – How to use them with Hibernate and JPA](https://thorben-janssen.com/java-records-hibernate-jpa/)
 - [JPA caching with Hazelcast, Hibernate and Spring Boot](https://piotrminkowski.com/2017/05/08/jpa-caching-with-hazelcast-hibernate-and-spring-boot/)
+- [Spring Boot JpaRepository with Example](https://www.geeksforgeeks.org/spring-boot-jparepository-with-example/)
 
-### JDBC
-
+---
 - [Introducing Spring Data JDBC](https://spring.io/blog/2018/09/17/introducing-spring-data-jdbc/)
 - [Spring Data JDBC, References, and Aggregates](https://spring.io/blog/2018/09/24/spring-data-jdbc-references-and-aggregates/)
 - [Spring Data JDBC - How to use custom ID generation](https://spring.io/blog/2021/09/09/spring-data-jdbc-how-to-use-custom-id-generation/)
@@ -209,7 +207,7 @@
 - [Hypermedia and Browser Enhancement](https://spring.io/blog/2024/03/15/hypermedia-and-browser-enhancement)
 - [Extracting a Custom Header From the Request](https://www.baeldung.com/spring-extract-custom-header-request)
 - [Stream Large Byte to File With WebClient](https://www.baeldung.com/webclient-stream-large-byte-array-to-file)
-- [https://www.baeldung.com/java-extract-values-assertj](https://www.baeldung.com/java-extract-values-assertj)
+- [Extract Values using AssertJ in Java](https://www.baeldung.com/java-extract-values-assertj)
 - [New CRUD Repository Interfaces in Spring Data 3](https://www.baeldung.com/spring-data-3-crud-repository-interfaces)
 - [Enum Mapping in Spring Boot](https://www.baeldung.com/spring-boot-enum-mapping)
 - [UUID vs. Sequential ID as Primary Key](https://www.baeldung.com/uuid-vs-sequential-id-as-primary-key)
@@ -224,12 +222,14 @@
 - [PermitAll routes returns 401 when token provided is expired or an invalid string #14120](https://github.com/spring-projects/spring-security/issues/14120)
 - [Spring Boot Configuration proxy bean methods](https://www.danvega.dev/blog/2023/03/16/spring-proxy-bean-methods)
 - [Implement Caching in Spring Boot Application](https://medium.com/@sehgal.mohit06/implementing-caching-in-spring-boot-application-9b7cf2f55f8e)
-- [Transactional Outbox pattern with Spring Boot](https://www.wimdeblauwe.com/blog/2024/06/25/transactional-outbox-pattern-with-spring-boot/)
 - [Reducing Testcontainers Execution Time with JUnit 5 Callbacks](https://rieckpil.de/reducing-testcontainers-execution-time-with-junit-5-callbacks/)
 - [Scanning Java annotations at runtime](https://stackoverflow.com/questions/259140/scanning-java-annotations-at-runtime/1415338)
 - [Find Java classes implementing an interface](https://stackoverflow.com/questions/435890/find-java-classes-implementing-an-interface)
 - [The Spring Initializr alternative for starting complex Spring Boot apps](https://bootify.medium.com/the-spring-initializr-alternative-for-starting-complex-spring-boot-apps-9e8d78d5fec4)
 - [Implementing the Strategy Design pattern in Spring Boot](https://medium.com/codex/implementing-the-strategy-design-pattern-in-spring-boot-df3adb9ceb4a)
+- [Ahead of Time Optimizations in Spring 6](https://www.baeldung.com/spring-6-ahead-of-time-optimizations)
+- [Spring Boot Test Slices: Overview and Usage](https://rieckpil.de/spring-boot-test-slices-overview-and-usage/)
+- [Generating HTTP clients in Spring Boot application from OpenAPI spec](https://maciejwalkowiak.com/blog/spring-boot-openapi-generate-client/)
 
 ### Spring Tips
 
@@ -261,6 +261,7 @@
 - [Spring Tips: Data Oriented Programming in Java 21+](https://www.youtube.com/watch?v=K8na2qdHDuI)
 - [Spring Tips: Proxies](https://www.youtube.com/watch?v=pvE4pwyzkpE)
 - [Spring Tips: Useful Annotation Processors](https://www.youtube.com/watch?v=wAW2OpBKpvw)
+- [Spring Tips: Spring Security method security with special guest Rob Winch](https://www.youtube.com/watch?v=JYZHp5eqS2I)
 
 ### Videos
 
@@ -276,13 +277,6 @@
 - [Spring Boot Apache Pulsar | Producer & Consumer Hands-On Example | Javatechie](https://www.youtube.com/watch?v=oHPNpgy21Rk)
 - [How To Log Incoming HTTP Requests with Spring Boot 3](https://www.youtube.com/watch?v=5tTp3kW0Y8M)
 - [Spring Constructor Injection: Why is it the recommended approach to Dependency Injection?](https://www.youtube.com/watch?v=aX-bgylmprA)
-
-### Source reference
-
-- [spring-boot-testjars](https://github.com/spring-projects-experimental/spring-boot-testjars)
-- [talk-spring-data-jdbc](https://github.com/schauder/talk-spring-data-jdbc)
-- [Spring Tips](https://github.com/spring-tips)
-- [the Coffee Software Show](https://github.com/coffee-software-show)
 
 ## Locking
 
@@ -319,7 +313,6 @@
 - [25 REASONS WHY JAVA IS STILL AROUND IN 2023](https://digma.ai/blog/25-reasons-java-is-still-around-in-2023/)
 - [Performance Effects of Exceptions in Java](https://www.baeldung.com/java-exceptions-performance)
 - [Runtime vs. Compile Time](https://www.baeldung.com/cs/runtime-vs-compile-time)
-- [Ahead of Time Optimizations in Spring 6](https://www.baeldung.com/spring-6-ahead-of-time-optimizations)
 - [Introduction to Java Logging](https://www.baeldung.com/java-logging-intro)
 - [Comparing a String to an Enum Value in Java](https://www.baeldung.com/java-comparing-string-to-enum)
 - [Use Mapper in Another Mapper with Mapstruct and Java](https://www.baeldung.com/java-mapstruct-nested-mapping)
@@ -332,8 +325,6 @@
 - [Annotations](https://docs.oracle.com/javase/1.5.0/docs/guide/language/annotations.html)
 - [6. HTTP Client](https://projectreactor.io/docs/netty/release/reference/index.html#http-client)
 - [Microservices API Documentation with Swagger2](https://piotrminkowski.com/2017/04/14/microservices-api-documentation-with-swagger2/)
-- [Spring Boot Test Slices: Overview and Usage](https://rieckpil.de/spring-boot-test-slices-overview-and-usage/)
-- [Generating HTTP clients in Spring Boot application from OpenAPI spec](https://maciejwalkowiak.com/blog/spring-boot-openapi-generate-client/)
 
 ## Java Service Provider Interface (SPI)
 
@@ -353,6 +344,10 @@
 - [webflux-log](https://github.com/kiberohrannik/webflux-log)
 - [error-handling-spring-boot-starter](https://github.com/wimdeblauwe/error-handling-spring-boot-starter)
 - [spring-boot-data-source-decorator](https://github.com/gavlyukovskiy/spring-boot-data-source-decorator)
+- [spring-boot-testjars](https://github.com/spring-projects-experimental/spring-boot-testjars)
+- [talk-spring-data-jdbc](https://github.com/schauder/talk-spring-data-jdbc)
+- [Spring Tips](https://github.com/spring-tips)
+- [the Coffee Software Show](https://github.com/coffee-software-show)
 
 ## Java Language Updates
 
@@ -391,9 +386,9 @@
 ## Spring Class
 
 - [QueryUtils](https://docs.spring.io/spring-data/jpa/docs/current/api/org/springframework/data/jpa/repository/query/QueryUtils.html)
-- [Class BeanUtils](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/beans/BeanUtils.html)
-- [Class Conventions](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/core/Conventions.html)
-- [Class ClassPathScanningCandidateComponentProvider](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/annotation/ClassPathScanningCandidateComponentProvider.html)
+- [BeanUtils](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/beans/BeanUtils.html)
+- [Conventions](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/core/Conventions.html)
+- [ClassPathScanningCandidateComponentProvider](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/annotation/ClassPathScanningCandidateComponentProvider.html)
 - [Constant Field Values](https://docs.spring.io/spring-framework/docs/current/javadoc-api/constant-values.html)
 - [EmptyResultDataAccessException](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/dao/EmptyResultDataAccessException.html)
 - [RsaKeyConverters](https://docs.spring.io/spring-security/site/docs/current/api/org/springframework/security/converter/RsaKeyConverters.html)
@@ -403,7 +398,7 @@
 - [ExceptionHandlerExceptionResolver](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/servlet/mvc/method/annotation/ExceptionHandlerExceptionResolver.html)
 - [HttpExchangesFilter](https://docs.spring.io/spring-boot/docs/current/api/org/springframework/boot/actuate/web/exchanges/servlet/HttpExchangesFilter.html)
 - [ResolvableType](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/core/ResolvableType.html)
-- [Class MockHttpServletResponse](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/mock/web/MockHttpServletResponse.html)
+- [MockHttpServletResponse](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/mock/web/MockHttpServletResponse.html)
 - [AntPathMatcher](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/util/AntPathMatcher.html)
 - [WebUtils](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/util/WebUtils.html)
 - [ServletServerHttpRequest](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/http/server/ServletServerHttpRequest.html)
