@@ -11,6 +11,7 @@
     <menu name="KEYWORDS">
       <item name="JAVA" href="java.html"/>
       <item name="SPRING" href="spring.html"/>
+      <item name="EXAMPLE" href="example.html"/>
       <item name="DATABASE" href="database.html"/>
       <item name="JARGON" href="jargon.html"/>
       <item name="PATTERN" href="pattern.html"/>
