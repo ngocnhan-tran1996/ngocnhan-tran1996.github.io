@@ -106,6 +106,10 @@
 
 - [Algorithms / Data Structures](https://github.com/girliemac/a-picture-is-worth-a-1000-words/tree/main/algorithms)
 
+## Inside Java Newscast
+
+- [Why Is Integrity by Default So Important? - Inside Java Newscast #73](https://www.youtube.com/watch?v=ucdzGd-f8as)
+
 ## Reference
 
 - [SQL Window Functions](https://www.sqltutorial.org/sql-window-functions/)

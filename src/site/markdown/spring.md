@@ -208,6 +208,7 @@
 - [Optimizing Spring Boot Config Management with ConfigMaps: Environment Variables or Volume Mounts](https://www.infoq.com/articles/config-maps-with-spring-boot/)
 - [Validation with Spring Boot - the Complete Guide](https://reflectoring.io/bean-validation-with-spring-boot/)
 - [Bean Validation Anti-Patterns](https://reflectoring.io/bean-validation-anti-patterns/)
+- [URL Matching with PathPattern in Spring MVC](https://spring.io/blog/2020/06/30/url-matching-with-pathpattern-in-spring-mvc)
 
 ## Spring Tips
 
@@ -313,3 +314,7 @@
 - [StandardEnvironment](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/core/env/StandardEnvironment.html)
 - [PropertySourcesPropertyResolver](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/core/env/PropertySourcesPropertyResolver.html)
 - [PropertiesLoaderUtils](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/core/io/support/PropertiesLoaderUtils.html)
+- [PropertyAccessorFactory](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/beans/PropertyAccessorFactory.html)
+- [AbstractMessageListenerContainer](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/jms/listener/AbstractMessageListenerContainer.html)
+- [BeanFactoryUtils](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/beans/factory/BeanFactoryUtils.html)
+- [PathPatternParser](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/util/pattern/PathPatternParser.html)
