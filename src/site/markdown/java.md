@@ -9,6 +9,7 @@
   * [Java Language Updates](#java-language-updates)
   * [Java Magazine](#java-magazine)
   * [Algorithms / Data Structures](#algorithms--data-structures)
+  * [Inside Java Newscast](#inside-java-newscast)
   * [Reference](#reference)
 <!-- TOC -->
 
@@ -32,6 +33,10 @@
 - [What does volatile mean?](https://www.youtube.com/shorts/qJm6RoEy9_s)
 - [What is the difference between Comparator and Comparable?](https://www.youtube.com/shorts/LBSSz2NOeQU)
 - [What is the difference between a reduce() and collect()?](https://www.youtube.com/shorts/8ddP1WDxULg)
+- [What is the class named Class?](https://www.youtube.com/shorts/uQMhcWcRwnA)
+- [What is a Record?](https://www.youtube.com/shorts/fozD9MBIabE)
+- [What is a vararg?](https://www.youtube.com/shorts/OmghkfwJaTg)
+- [How should you close a file?](https://www.youtube.com/shorts/rBNQz5hd2lo)
 
 ## Articles
 
@@ -74,6 +79,7 @@
 - [The Java Persistence API - A Simpler Programming Model for Entity Persistence](https://www.oracle.com/technical-resources/articles/java/jpa.html)
 - [Annotations](https://docs.oracle.com/javase/1.5.0/docs/guide/language/annotations.html)
 - [6. HTTP Client](https://projectreactor.io/docs/netty/release/reference/index.html#http-client)
+- [Maven CI Friendly Versions](https://maven.apache.org/maven-ci-friendly.html)
 
 ## Java Service Provider Interface (SPI)
 

@@ -4,6 +4,9 @@
 * [My Code or My Copied Code](#my-code-or-my-copied-code)
   * [Custom ExceptionHandler](#custom-exceptionhandler)
   * [Custom annotation](#custom-annotation)
+  * [Custom Spring Autoconfiguration MvcTest](#custom-spring-autoconfiguration-mvctest)
+  * [Error Request](#error-request)
+  * [Some Useful Code In Spring](#some-useful-code-in-spring)
 <!-- TOC -->
 
 ## Custom ExceptionHandler
@@ -67,3 +70,28 @@ return servletInvocableHandlerMethod.invokeForRequest(
 - [Override default message when @ResponseBody is null](https://stackoverflow.com/questions/67745858/override-default-message-when-responsebody-is-null/)
 - [Replace RequestResponseBodyMethodProcessor with CustomMethodProcessor using BeanPostProcessor](https://stackoverflow.com/questions/52322432/replace-requestresponsebodymethodprocessor-with-custommethodprocessor-using-bean)
 - [Spring HandlerMethodArgumentResolver not executing](https://stackoverflow.com/questions/17331448/spring-handlermethodargumentresolver-not-executing/19847526)
+
+## Custom Spring Autoconfiguration MvcTest
+
+`org.springframework.boot.test.autoconfigure.web.servlet.AutoConfigureWebMvc.imports`
+
+## Error Request
+
+```java
+"org.springframework.boot.web.servlet.error.DefaultErrorAttributes.ERROR"
+RequestDispatcher.ERROR_EXCEPTION
+RequestDispatcher.ERROR_REQUEST_URI
+DispatcherServlet.EXCEPTION_ATTRIBUTE
+
+// Reference
+org.springframework.web.util.WebUtils.exposeErrorRequestAttributes
+```
+
+## Some Useful Code In Spring
+
+```java
+ResolvableType.isAssignableFrom(ResolvableType)
+var errors = new BeanPropertyBindingResult(..., ...)
+org.springframework.validation.Validator.validate(..., errors)
+ResolvableType.forType(...)
+```

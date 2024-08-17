@@ -14,6 +14,7 @@
   * [Dimitri](#dimitri)
   * [Articles](#articles)
   * [Spring Tips](#spring-tips)
+  * [Spring I/O](#spring-io)
   * [Videos](#videos)
   * [Locking](#locking)
   * [Source Reference](#source-reference)
@@ -241,6 +242,11 @@
 - [Spring Tips: Proxies](https://www.youtube.com/watch?v=pvE4pwyzkpE)
 - [Spring Tips: Useful Annotation Processors](https://www.youtube.com/watch?v=wAW2OpBKpvw)
 - [Spring Tips: Spring Security method security with special guest Rob Winch](https://www.youtube.com/watch?v=JYZHp5eqS2I)
+
+## Spring I/O
+
+- [Unit Test Your Spring Architecture With ArchUnit by Roland Weisleder @ Spring I/O 2024](https://www.youtube.com/watch?v=sGmhaizFcEA)
+- [Unlocking Java's Code Maze by Mihaela Gheorghe-Roman @ Spring I/O 2024](https://www.youtube.com/watch?v=VAcopLqV3Qc)
 
 ## Videos
 
