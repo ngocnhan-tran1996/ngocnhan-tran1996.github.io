@@ -94,4 +94,13 @@ ResolvableType.isAssignableFrom(ResolvableType)
 var errors = new BeanPropertyBindingResult(..., ...)
 org.springframework.validation.Validator.validate(..., errors)
 ResolvableType.forType(...)
+
+// get request handler
+var handlerMapping = ApplicationContext.getBean("requestMappingHandlerMapping", RequestMappingHandlerMapping.class);
+var handlerExecutionChain = handlerMapping.getHandler(request);
+return (HandlerMethod) handlerExecutionChain.getHandler();
+
+// spring security - bearer token
+private final List<AntPathRequestMatcher> requestMatchers = new ArrayList<>();
+private BearerTokenResolver bearerTokenResolver = new DefaultBearerTokenResolver();
 ```

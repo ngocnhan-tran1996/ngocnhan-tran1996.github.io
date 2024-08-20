@@ -37,6 +37,7 @@
 - [What is a Record?](https://www.youtube.com/shorts/fozD9MBIabE)
 - [What is a vararg?](https://www.youtube.com/shorts/OmghkfwJaTg)
 - [How should you close a file?](https://www.youtube.com/shorts/rBNQz5hd2lo)
+- [What is the difference between a Runnable and a Callable?](https://www.youtube.com/shorts/bC6sdJ-GijQ)
 
 ## Articles
 
@@ -120,3 +121,7 @@
 
 - [SQL Window Functions](https://www.sqltutorial.org/sql-window-functions/)
 - [Semantic Versioning 2.0.0](https://semver.org/lang/vi/)
+
+## Java Class
+
+- [CopyOnWriteArraySet](https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/CopyOnWriteArraySet.html)
