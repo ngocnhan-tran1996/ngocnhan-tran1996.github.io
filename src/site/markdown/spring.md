@@ -83,6 +83,9 @@
 - [Rotate SSL Certificates with OpenShift and Spring Boot](https://piotrminkowski.com/2024/03/04/rotate-ssl-certificates-with-openshift-and-spring-boot/)
 - [Spring Authorization Server customization](https://garnier.wf/blog/2024/02/12/spring-auth-server-tokens.html)
 - [After adding custom filters, permitAll() does not work #4368](https://github.com/spring-projects/spring-security/issues/4368)
+- [Spring Security taking care about Authorization header for permitAll resources #14274](https://github.com/spring-projects/spring-security/issues/14274)
+- [Spring Security without the WebSecurityConfigurerAdapter](https://spring.io/blog/2022/02/21/spring-security-without-the-websecurityconfigureradapter)
+- [spring-security-samples](https://github.com/spring-projects/spring-security-samples)
 
 ## Kafka
 
@@ -329,3 +332,12 @@
 - [PropertySourcesPlaceholderConfigurer](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/support/PropertySourcesPlaceholderConfigurer.html)
 - [MultiValueMap](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/util/MultiValueMap.html)
 - [RequestMappingHandlerMapping](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerMapping.html)
+- [Environment](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/core/env/Environment.html)
+- [Binder](https://docs.spring.io/spring-boot/api/java/org/springframework/boot/context/properties/bind/Binder.html)
+- [BeanPropertyBindingResult](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/validation/BeanPropertyBindingResult.html)
+- [AbstractMessageConverterMethodArgumentResolver](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/servlet/mvc/method/annotation/AbstractMessageConverterMethodArgumentResolver.html)
+
+## Spring Security Class
+
+- [AntPathRequestMatcher](https://docs.spring.io/spring-security/site/docs/current/api/org/springframework/security/web/util/matcher/AntPathRequestMatcher.html)
+- [BearerTokenResolver](https://docs.spring.io/spring-security/site/docs/current/api/org/springframework/security/oauth2/server/resource/web/BearerTokenResolver.html)
