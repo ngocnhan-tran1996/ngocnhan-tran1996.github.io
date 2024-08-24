@@ -117,6 +117,8 @@
 - [Dynamic Multi Tenancy with Spring Boot, Hibernate and Liquibase Part 6: Implementing the Shared Database with Discriminator Column pattern using Postgres Row Level Security](https://callistaenterprise.se/blogg/teknik/2020/10/24/multi-tenancy-with-spring-boot-part6/)
 - [Dynamic Multi Tenancy with Spring Boot, Hibernate and Liquibase Part 7: Combining the Shared Database pattern with Database per Group of Tenants (a.k.a. Shard) for additional scalability](https://callistaenterprise.se/blogg/teknik/2022/03/26/multi-tenancy-with-spring-boot-part7/)
 - [Dynamic Multi Tenancy with Spring Boot, Hibernate and Liquibase Part 8: Shared Database pattern with Hibernate 6](https://callistaenterprise.se/blogg/teknik/2023/05/22/multi-tenancy-with-spring-boot-part8/)
+- [A Guide to Spring AbstractRoutingDatasource](https://www.baeldung.com/spring-abstract-routing-data-source)
+- [Dynamic DataSource Routing](https://spring.io/blog/2007/01/23/dynamic-datasource-routing)
 
 ## TESTCONTAINERS
 
@@ -213,6 +215,7 @@
 - [Validation with Spring Boot - the Complete Guide](https://reflectoring.io/bean-validation-with-spring-boot/)
 - [Bean Validation Anti-Patterns](https://reflectoring.io/bean-validation-anti-patterns/)
 - [URL Matching with PathPattern in Spring MVC](https://spring.io/blog/2020/06/30/url-matching-with-pathpattern-in-spring-mvc)
+- [Structured logging in Spring Boot 3.4](https://spring.io/blog/2024/08/23/structured-logging-in-spring-boot-3-4)
 
 ## Spring Tips
 
@@ -313,7 +316,6 @@
 - [ServletServerHttpRequest](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/http/server/ServletServerHttpRequest.html)
 - [ResponseEntityExceptionHandler](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.html)
 - [JwtAuthenticationConverter](https://docs.spring.io/spring-security/site/docs/current/api/org/springframework/security/oauth2/server/resource/authentication/JwtAuthenticationConverter.html)
-- [RequestMappingHandlerAdapter](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.html)
 - [RequestResponseBodyMethodProcessor](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/servlet/mvc/method/annotation/RequestResponseBodyMethodProcessor.html)
 - [WebMvcConfigurationSupport](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/servlet/config/annotation/WebMvcConfigurationSupport.html)
 - [HandlerMethodValidationException](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/method/annotation/HandlerMethodValidationException.html)
@@ -331,11 +333,20 @@
 - [SpringJUnitWebConfig](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/test/context/junit/jupiter/web/SpringJUnitWebConfig.html)
 - [PropertySourcesPlaceholderConfigurer](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/support/PropertySourcesPlaceholderConfigurer.html)
 - [MultiValueMap](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/util/MultiValueMap.html)
-- [RequestMappingHandlerMapping](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerMapping.html)
 - [Environment](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/core/env/Environment.html)
 - [Binder](https://docs.spring.io/spring-boot/api/java/org/springframework/boot/context/properties/bind/Binder.html)
 - [BeanPropertyBindingResult](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/validation/BeanPropertyBindingResult.html)
+
+### Spring Web
+
 - [AbstractMessageConverterMethodArgumentResolver](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/servlet/mvc/method/annotation/AbstractMessageConverterMethodArgumentResolver.html)
+- [RequestMappingHandlerAdapter](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.html)
+- [ErrorAttributes](https://docs.spring.io/spring-boot/api/java/org/springframework/boot/web/servlet/error/ErrorAttributes.html)
+- [RequestMappingHandlerMapping](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerMapping.html)
+- [AbstractMessageConverterMethodProcessor](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/servlet/mvc/method/annotation/AbstractMessageConverterMethodProcessor.html)
+- [InvocableHandlerMethod](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/messaging/handler/invocation/InvocableHandlerMethod.html)
+- [HandlerMethod](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/method/HandlerMethod.html)
+- [HttpExchangesFilter](https://docs.spring.io/spring-boot/api/java/org/springframework/boot/actuate/web/exchanges/servlet/HttpExchangesFilter.html)
 
 ## Spring Security Class
 
