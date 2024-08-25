@@ -253,6 +253,7 @@
 
 - [Unit Test Your Spring Architecture With ArchUnit by Roland Weisleder @ Spring I/O 2024](https://www.youtube.com/watch?v=sGmhaizFcEA)
 - [Unlocking Java's Code Maze by Mihaela Gheorghe-Roman @ Spring I/O 2024](https://www.youtube.com/watch?v=VAcopLqV3Qc)
+- [Spring Security Architecture Principles by Daniel Garnier-Moiroux @ Spring I/O 2024](https://www.youtube.com/watch?v=HyoLl3VcRFY)
 
 ## Videos
 

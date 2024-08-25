@@ -59,7 +59,6 @@
 - [Method overloading in the JVM](https://www.infoworld.com/article/3268983/java-challengers-1-method-overloading-in-the-jvm.html)
 - [All about Java class loaders](https://www.infoworld.com/article/3700054/all-about-java-class-loaders.html)
 - [How to use callbacks in Java](https://www.infoworld.com/article/3687234/how-to-use-callbacks-in-java.html)
-- [Benchmark JDBC connectors and Java 21 virtual threads](https://mariadb.com/resources/blog/benchmark-jdbc-connectors-and-java-21-virtual-threads/)
 - [Java 9: Collections, Streams](https://mydeveloperplanet.com/2017/11/16/java-9-collections-streams/)
 - [What Is Your Test Quality?](https://mydeveloperplanet.com/2020/03/24/what-is-your-test-quality/)
 - [Elementary Java language features](https://www.infoworld.com/article/2925720/elementary-java-language-features.html)
@@ -77,7 +76,6 @@
 - [Service s = new ServiceImpl() - Why You Are Doing That?](https://www.adam-bien.com/roller/abien/entry/service_s_new_serviceimpl_why)
 - [What is the point of having every service class have an interface?](https://softwareengineering.stackexchange.com/questions/150045/what-is-the-point-of-having-every-service-class-have-an-interface)
 - [Generic Response Types #3323](https://github.com/swagger-api/swagger-core/issues/3323)
-- [JDBC driver](https://en.wikipedia.org/wiki/JDBC_driver)
 - [The Java Persistence API - A Simpler Programming Model for Entity Persistence](https://www.oracle.com/technical-resources/articles/java/jpa.html)
 - [Annotations](https://docs.oracle.com/javase/1.5.0/docs/guide/language/annotations.html)
 - [6. HTTP Client](https://projectreactor.io/docs/netty/release/reference/index.html#http-client)
@@ -117,6 +115,13 @@
 ## Inside Java Newscast
 
 - [Why Is Integrity by Default So Important? - Inside Java Newscast #73](https://www.youtube.com/watch?v=ucdzGd-f8as)
+
+# Java Databases
+
+- [Benchmark JDBC connectors and Java 21 virtual threads](https://mariadb.com/resources/blog/benchmark-jdbc-connectors-and-java-21-virtual-threads/)
+- [JDBC driver](https://en.wikipedia.org/wiki/JDBC_driver)
+- [About Pool Sizing](https://github.com/brettwooldridge/HikariCP/wiki/About-Pool-Sizing)
+- [JDBC - a short guide](https://www.marcobehler.com/guides/jdbc)
 
 ## Reference
 
