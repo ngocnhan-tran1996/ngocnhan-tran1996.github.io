@@ -10,7 +10,9 @@
   * [Java Magazine](#java-magazine)
   * [Algorithms / Data Structures](#algorithms--data-structures)
   * [Inside Java Newscast](#inside-java-newscast)
+  * [Java Databases](#java-databases)
   * [Reference](#reference)
+  * [Java Class](#java-class)
 <!-- TOC -->
 
 ## The Java™ Tutorials
@@ -39,6 +41,8 @@
 - [How should you close a file?](https://www.youtube.com/shorts/rBNQz5hd2lo)
 - [What is the difference between a Runnable and a Callable?](https://www.youtube.com/shorts/bC6sdJ-GijQ)
 - [What is the difference between a Fork Join pool and an Executor Service?](https://www.youtube.com/shorts/sSw8r2hxCtk)
+- [How can you get an instance of a Class?](https://www.youtube.com/shorts/r23hw0duW2c)
+- [What does it mean to capture a variable?](https://www.youtube.com/shorts/DIXeOiF52JA)
 
 ## Articles
 
@@ -116,12 +120,13 @@
 
 - [Why Is Integrity by Default So Important? - Inside Java Newscast #73](https://www.youtube.com/watch?v=ucdzGd-f8as)
 
-# Java Databases
+## Java Databases
 
 - [Benchmark JDBC connectors and Java 21 virtual threads](https://mariadb.com/resources/blog/benchmark-jdbc-connectors-and-java-21-virtual-threads/)
 - [JDBC driver](https://en.wikipedia.org/wiki/JDBC_driver)
 - [About Pool Sizing](https://github.com/brettwooldridge/HikariCP/wiki/About-Pool-Sizing)
 - [JDBC - a short guide](https://www.marcobehler.com/guides/jdbc)
+- [Java & Databases: An Overview of Libraries & APIs](https://www.marcobehler.com/guides/java-databases)
 
 ## Reference
 

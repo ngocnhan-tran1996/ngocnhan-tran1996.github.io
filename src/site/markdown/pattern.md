@@ -14,6 +14,7 @@
   * [JWT](#jwt)
   * [Articles](#articles)
   * [DEVOXX](#devoxx)
+  * [Devnexus](#devnexus)
   * [Developer Summit](#developer-summit)
   * [Reference](#reference)
 <!-- TOC -->
@@ -129,6 +130,10 @@
 - [TDD & DDD from the Ground Up (Live Coding) by CHRIS SIMON](https://www.youtube.com/watch?v=6yGztN6SXG8)
 - [Setting up data driven tests with Java tools by ANDRES ALMIRAY & OLEG ŠELAJEV](https://www.youtube.com/watch?v=iI9x_qzOWyA)
 - [The Modular Monolith - a Practical Alternative to Microservices by VICTOR RENTEA](https://www.youtube.com/watch?v=nuHMlA3iLjY)
+
+## Devnexus
+
+- [Devnexus 2022 - What's Looming in Java The Why and What of Project Loom - Venkat Subramaniam](https://www.youtube.com/watch?v=y-SXxp1Kx_Y)
 
 ## Developer Summit
 

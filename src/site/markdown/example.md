@@ -7,6 +7,10 @@
   * [Custom Spring Autoconfiguration MvcTest](#custom-spring-autoconfiguration-mvctest)
   * [Error Request](#error-request)
   * [Some Useful Code In Spring](#some-useful-code-in-spring)
+  * [Third Party](#third-party)
+    * [Custom SpringDoc](#custom-springdoc)
+    * [Custom logback with Elasticsearch](#custom-logback-with-elasticsearch)
+    * [custom MDC](#custom-mdc)
 <!-- TOC -->
 
 ## Custom ExceptionHandler
@@ -112,4 +116,24 @@ RequestMappingHandlerAdapter#invokeHandlerMethod
 ServletInvocableHandlerMethod#invokeAndHandle
 InvocableHandlerMethod#invokeForRequest
 InvocableHandlerMethod#getMethodArgumentValues
+
+// Other
+WebApplicationContextUtils.getRequiredWebApplicationContext(request.getServletContext())
+
+// Trick ignore intellij
+//noinspection ConstantConditions
 ```
+
+## Third Party
+
+### Custom SpringDoc
+
+- OpenApiResource
+- OpenAPIService
+
+### Custom logback with Elasticsearch
+
+- [ECS-based logging for Java applications](https://github.com/elastic/ecs-logging-java)
+
+### custom MDC
+- [Slf4JEventListener](https://github.com/micrometer-metrics/tracing/blob/main/micrometer-tracing-bridges/micrometer-tracing-bridge-otel/src/main/java/io/micrometer/tracing/otel/bridge/Slf4JEventListener.java)

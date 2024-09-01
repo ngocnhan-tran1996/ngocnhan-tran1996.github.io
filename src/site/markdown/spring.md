@@ -20,6 +20,8 @@
   * [Source Reference](#source-reference)
   * [Vaadin](#vaadin)
   * [Spring Class](#spring-class)
+    * [Spring Web](#spring-web)
+  * [Spring Security Class](#spring-security-class)
 <!-- TOC -->
 
 ## Documents
@@ -348,6 +350,7 @@
 - [InvocableHandlerMethod](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/messaging/handler/invocation/InvocableHandlerMethod.html)
 - [HandlerMethod](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/method/HandlerMethod.html)
 - [HttpExchangesFilter](https://docs.spring.io/spring-boot/api/java/org/springframework/boot/actuate/web/exchanges/servlet/HttpExchangesFilter.html)
+- [MvcUriComponentsBuilder](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/servlet/mvc/method/annotation/MvcUriComponentsBuilder.html)
 
 ## Spring Security Class
 
