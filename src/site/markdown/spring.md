@@ -48,6 +48,7 @@
 - [A Guide to Atomikos](https://www.baeldung.com/java-atomikos)
 - [Transactional Outbox pattern with Spring Boot](https://www.wimdeblauwe.com/blog/2024/06/25/transactional-outbox-pattern-with-spring-boot/)
 - [Spring Transaction Best Practices](https://vladmihalcea.com/spring-transaction-best-practices/)
+- [Spring Transaction Management: @Transactional In-Depth](https://www.marcobehler.com/guides/spring-transaction-management-transactional-in-depth)
 
 ---
 - [The Spring Data JPA findById Anti-Pattern](https://vladmihalcea.com/spring-data-jpa-findbyid/)
@@ -129,7 +130,6 @@
 - [Testing Spring Boot JMS with ActiveMQ Artemis and Testcontainers](https://martinelli.ch/testing-spring-boot-jms-with-artemis-and-testcontainers/)
 - [The best way to use Testcontainers with Spring Boot](https://maciejwalkowiak.com/blog/testcontainers-spring-boot-setup/)
 - [Enhanced Testcontainers and Development-Time Containers Support in Spring Boot 3.1](https://www.infoq.com/news/2023/07/enhanced-testcontainers-support/)
-- [Reducing Testcontainers Execution Time with JUnit 5 Callbacks](https://rieckpil.de/reducing-testcontainers-execution-time-with-junit-5-callbacks/)
 
 ## Cache
 
@@ -208,7 +208,6 @@
 - [The Spring Initializr alternative for starting complex Spring Boot apps](https://bootify.medium.com/the-spring-initializr-alternative-for-starting-complex-spring-boot-apps-9e8d78d5fec4)
 - [Implementing the Strategy Design pattern in Spring Boot](https://medium.com/codex/implementing-the-strategy-design-pattern-in-spring-boot-df3adb9ceb4a)
 - [Ahead of Time Optimizations in Spring 6](https://www.baeldung.com/spring-6-ahead-of-time-optimizations)
-- [Spring Boot Test Slices: Overview and Usage](https://rieckpil.de/spring-boot-test-slices-overview-and-usage/)
 - [Generating HTTP clients in Spring Boot application from OpenAPI spec](https://maciejwalkowiak.com/blog/spring-boot-openapi-generate-client/)
 - [Microservices API Documentation with Swagger2](https://piotrminkowski.com/2017/04/14/microservices-api-documentation-with-swagger2/)
 - [Returning Errors Using ProblemDetail in Spring Boot](https://www.baeldung.com/spring-boot-return-errors-problemdetail)
@@ -256,6 +255,7 @@
 - [Unit Test Your Spring Architecture With ArchUnit by Roland Weisleder @ Spring I/O 2024](https://www.youtube.com/watch?v=sGmhaizFcEA)
 - [Unlocking Java's Code Maze by Mihaela Gheorghe-Roman @ Spring I/O 2024](https://www.youtube.com/watch?v=VAcopLqV3Qc)
 - [Spring Security Architecture Principles by Daniel Garnier-Moiroux @ Spring I/O 2024](https://www.youtube.com/watch?v=HyoLl3VcRFY)
+- [Things I Wish I Knew When I Started Testing Spring Boot Applications by Philip Riecks @ Spring I/O](https://www.youtube.com/watch?v=hR0bbk2tsF0)
 
 ## Videos
 
@@ -298,6 +298,19 @@
 
 - [Spring Boot Web App Tutorial (Java) | Full Course](https://www.youtube.com/watch?v=bxy2JgqqKDU)
 
+## Rieckpil
+
+- [Reducing Testcontainers Execution Time with JUnit 5 Callbacks](https://rieckpil.de/reducing-testcontainers-execution-time-with-junit-5-callbacks/)
+- [Spring Boot Test Slices: Overview and Usage](https://rieckpil.de/spring-boot-test-slices-overview-and-usage/)
+- [Customize Spring WebClient with WebClientCustomizer](https://rieckpil.de/customize-spring-webclient-with-webclientcustomizer/)
+- [Spring WebTestClient for Efficient REST API Testing](https://rieckpil.de/spring-webtestclient-for-efficient-testing-of-your-rest-api/)
+- [Setup and Examples for the Spring WebFlux WebClient](https://rieckpil.de/spring-webclient-for-restful-communication-setup-and-examples/)
+- [Choosing Between MockMvc and @SpringBootTest for Controller Testing](https://rieckpil.de/choosing-between-mockmvc-and-springboottest-for-testing/)
+- [Spring WebClient OAuth2 Integration for Spring WebFlux](https://rieckpil.de/spring-webclient-oauth2-integration-using-github-as-an-example/)
+- [Spring WebClient OAuth2 Integration for Spring Web (Servlet)](https://rieckpil.de/spring-webclient-oauth2-integration-for-spring-web-servlet/)
+- [Test Spring WebClient with MockWebServer from OkHttp](https://rieckpil.de/test-spring-webclient-with-mockwebserver-from-okhttp/)
+- [Setup and Examples for the Spring WebFlux WebClient](https://rieckpil.de/spring-webclient-for-restful-communication-setup-and-examples/)
+
 ## Spring Class
 
 - [QueryUtils](https://docs.spring.io/spring-data/jpa/docs/current/api/org/springframework/data/jpa/repository/query/QueryUtils.html)
@@ -306,22 +319,9 @@
 - [ClassPathScanningCandidateComponentProvider](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/annotation/ClassPathScanningCandidateComponentProvider.html)
 - [Constant Field Values](https://docs.spring.io/spring-framework/docs/current/javadoc-api/constant-values.html)
 - [EmptyResultDataAccessException](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/dao/EmptyResultDataAccessException.html)
-- [RsaKeyConverters](https://docs.spring.io/spring-security/site/docs/current/api/org/springframework/security/converter/RsaKeyConverters.html)
-- [ExceptionTranslationFilter](https://docs.spring.io/spring-security/site/docs/current/api/org/springframework/security/web/access/ExceptionTranslationFilter.html)
-- [ExceptionHandlerMethodResolver](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/method/annotation/ExceptionHandlerMethodResolver.html)
-- [ControllerAdviceBean](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/method/ControllerAdviceBean.html)
-- [ExceptionHandlerExceptionResolver](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/servlet/mvc/method/annotation/ExceptionHandlerExceptionResolver.html)
-- [HttpExchangesFilter](https://docs.spring.io/spring-boot/docs/current/api/org/springframework/boot/actuate/web/exchanges/servlet/HttpExchangesFilter.html)
 - [ResolvableType](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/core/ResolvableType.html)
-- [MockHttpServletResponse](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/mock/web/MockHttpServletResponse.html)
 - [AntPathMatcher](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/util/AntPathMatcher.html)
-- [WebUtils](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/util/WebUtils.html)
 - [ServletServerHttpRequest](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/http/server/ServletServerHttpRequest.html)
-- [ResponseEntityExceptionHandler](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.html)
-- [JwtAuthenticationConverter](https://docs.spring.io/spring-security/site/docs/current/api/org/springframework/security/oauth2/server/resource/authentication/JwtAuthenticationConverter.html)
-- [RequestResponseBodyMethodProcessor](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/servlet/mvc/method/annotation/RequestResponseBodyMethodProcessor.html)
-- [WebMvcConfigurationSupport](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/servlet/config/annotation/WebMvcConfigurationSupport.html)
-- [HandlerMethodValidationException](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/method/annotation/HandlerMethodValidationException.html)
 - [ApplicationObjectSupport](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/support/ApplicationObjectSupport.html)
 - [AbstractPropertyResolver](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/core/env/AbstractPropertyResolver.html)
 - [SystemPropertyUtils](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/util/SystemPropertyUtils.html)
@@ -331,9 +331,6 @@
 - [PropertyAccessorFactory](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/beans/PropertyAccessorFactory.html)
 - [AbstractMessageListenerContainer](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/jms/listener/AbstractMessageListenerContainer.html)
 - [BeanFactoryUtils](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/beans/factory/BeanFactoryUtils.html)
-- [PathPatternParser](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/util/pattern/PathPatternParser.html)
-- [WebMvcConfigurer](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/servlet/config/annotation/WebMvcConfigurer.html)
-- [SpringJUnitWebConfig](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/test/context/junit/jupiter/web/SpringJUnitWebConfig.html)
 - [PropertySourcesPlaceholderConfigurer](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/context/support/PropertySourcesPlaceholderConfigurer.html)
 - [MultiValueMap](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/util/MultiValueMap.html)
 - [Environment](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/core/env/Environment.html)
@@ -351,8 +348,33 @@
 - [HandlerMethod](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/method/HandlerMethod.html)
 - [HttpExchangesFilter](https://docs.spring.io/spring-boot/api/java/org/springframework/boot/actuate/web/exchanges/servlet/HttpExchangesFilter.html)
 - [MvcUriComponentsBuilder](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/servlet/mvc/method/annotation/MvcUriComponentsBuilder.html)
+- [ExceptionHandlerMethodResolver](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/method/annotation/ExceptionHandlerMethodResolver.html)
+- [ControllerAdviceBean](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/method/ControllerAdviceBean.html)
+- [ExceptionHandlerExceptionResolver](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/servlet/mvc/method/annotation/ExceptionHandlerExceptionResolver.html)
+- [HttpExchangesFilter](https://docs.spring.io/spring-boot/docs/current/api/org/springframework/boot/actuate/web/exchanges/servlet/HttpExchangesFilter.html)
+- [MockHttpServletResponse](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/mock/web/MockHttpServletResponse.html)
+- [WebClientCustomizer](https://docs.spring.io/spring-boot/api/java/org/springframework/boot/web/reactive/function/client/WebClientCustomizer.html)
+- [SpringJUnitWebConfig](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/test/context/junit/jupiter/web/SpringJUnitWebConfig.html)
+- [PathPatternParser](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/util/pattern/PathPatternParser.html)
+- [WebMvcConfigurer](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/servlet/config/annotation/WebMvcConfigurer.html)
+- [WebUtils](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/util/WebUtils.html)
+- [ResponseEntityExceptionHandler](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.html)
+- [RequestResponseBodyMethodProcessor](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/servlet/mvc/method/annotation/RequestResponseBodyMethodProcessor.html)
+- [WebMvcConfigurationSupport](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/servlet/config/annotation/WebMvcConfigurationSupport.html)
+- [HandlerMethodValidationException](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/method/annotation/HandlerMethodValidationException.html)
 
 ## Spring Security Class
 
 - [AntPathRequestMatcher](https://docs.spring.io/spring-security/site/docs/current/api/org/springframework/security/web/util/matcher/AntPathRequestMatcher.html)
 - [BearerTokenResolver](https://docs.spring.io/spring-security/site/docs/current/api/org/springframework/security/oauth2/server/resource/web/BearerTokenResolver.html)
+- [DelegatingPasswordEncoder](https://docs.spring.io/spring-security/site/docs/current/api/org/springframework/security/crypto/password/DelegatingPasswordEncoder.html)
+- [PasswordEncoderFactories](https://docs.spring.io/spring-security/site/docs/current/api/org/springframework/security/crypto/factory/PasswordEncoderFactories.html)
+- [RsaKeyConverters](https://docs.spring.io/spring-security/site/docs/current/api/org/springframework/security/converter/RsaKeyConverters.html)
+- [ExceptionTranslationFilter](https://docs.spring.io/spring-security/site/docs/current/api/org/springframework/security/web/access/ExceptionTranslationFilter.html)
+- [JwtAuthenticationConverter](https://docs.spring.io/spring-security/site/docs/current/api/org/springframework/security/oauth2/server/resource/authentication/JwtAuthenticationConverter.html)
+
+## Spring AMQP Class
+
+- [SimpleRabbitListenerContainerFactoryConfigurer](https://docs.spring.io/spring-boot/api/java/org/springframework/boot/autoconfigure/amqp/SimpleRabbitListenerContainerFactoryConfigurer.html)
+- [SimpleMessageListenerContainer](https://docs.spring.io/spring-amqp/api/org/springframework/amqp/rabbit/listener/SimpleMessageListenerContainer.html)
+- [RabbitListenerObservation.DefaultRabbitListenerObservationConvention](https://docs.spring.io/spring-amqp/api/org/springframework/amqp/rabbit/support/micrometer/RabbitListenerObservation.DefaultRabbitListenerObservationConvention.html)

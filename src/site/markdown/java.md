@@ -43,6 +43,8 @@
 - [What is the difference between a Fork Join pool and an Executor Service?](https://www.youtube.com/shorts/sSw8r2hxCtk)
 - [How can you get an instance of a Class?](https://www.youtube.com/shorts/r23hw0duW2c)
 - [What does it mean to capture a variable?](https://www.youtube.com/shorts/DIXeOiF52JA)
+- [What is Serialization?](https://www.youtube.com/shorts/psXVAoAZ7eE)
+- [What does happen before mean?](https://www.youtube.com/shorts/iW8YzPJff1k)
 
 ## Articles
 
@@ -127,6 +129,7 @@
 - [About Pool Sizing](https://github.com/brettwooldridge/HikariCP/wiki/About-Pool-Sizing)
 - [JDBC - a short guide](https://www.marcobehler.com/guides/jdbc)
 - [Java & Databases: An Overview of Libraries & APIs](https://www.marcobehler.com/guides/java-databases)
+- [What’s the difference between JPA, Hibernate and EclipseLink](https://thorben-janssen.com/difference-jpa-hibernate-eclipselink/)
 
 ## Reference
 
