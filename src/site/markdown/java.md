@@ -45,6 +45,9 @@
 - [What does it mean to capture a variable?](https://www.youtube.com/shorts/DIXeOiF52JA)
 - [What is Serialization?](https://www.youtube.com/shorts/psXVAoAZ7eE)
 - [What does happen before mean?](https://www.youtube.com/shorts/iW8YzPJff1k)
+- [When can you use finalize()?](https://www.youtube.com/shorts/esvDd8jTkHc)
+- [How can you skip elements in a stream?](https://www.youtube.com/shorts/djmcC_H8LV0)
+- [What is an anonymous class?](https://www.youtube.com/shorts/R5M8N9vyO2Q)
 
 ## Articles
 
