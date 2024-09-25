@@ -19,9 +19,12 @@
   * [Locking](#locking)
   * [Source Reference](#source-reference)
   * [Vaadin](#vaadin)
+  * [Rieckpil](#rieckpil)
   * [Spring Class](#spring-class)
+    * [Spring Boot](#spring-boot)
     * [Spring Web](#spring-web)
   * [Spring Security Class](#spring-security-class)
+  * [Spring AMQP Class](#spring-amqp-class)
 <!-- TOC -->
 
 ## Documents
