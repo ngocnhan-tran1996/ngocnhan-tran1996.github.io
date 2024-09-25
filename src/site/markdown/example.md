@@ -120,6 +120,16 @@ InvocableHandlerMethod#getMethodArgumentValues
 // Other
 WebApplicationContextUtils.getRequiredWebApplicationContext(request.getServletContext())
 
+// JPA
+RepositoryMethodInvoker
+
+// Spring Boot PlaceholderParser
+PlaceholderParser#nextStartPrefix
+
+// Spring Boot Elastic
+ElasticCommonSchemaService
+ElasticCommonSchemaStructuredLogFormatter
+
 // Trick ignore intellij
 //noinspection ConstantConditions
 ```

@@ -336,6 +336,13 @@
 - [Environment](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/core/env/Environment.html)
 - [Binder](https://docs.spring.io/spring-boot/api/java/org/springframework/boot/context/properties/bind/Binder.html)
 - [BeanPropertyBindingResult](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/validation/BeanPropertyBindingResult.html)
+- [PlaceholderConfigurerSupport](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/beans/factory/config/PlaceholderConfigurerSupport.html)
+
+### Spring Boot
+
+- [OriginTrackedMapPropertySource](https://docs.spring.io/spring-boot/api/java/org/springframework/boot/env/OriginTrackedMapPropertySource.html)
+- [CompositePropertySource](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/core/env/CompositePropertySource.html)
+- [DefaultPropertiesPropertySource](https://docs.spring.io/spring-boot/api/java/org/springframework/boot/DefaultPropertiesPropertySource.html)
 
 ### Spring Web
 
