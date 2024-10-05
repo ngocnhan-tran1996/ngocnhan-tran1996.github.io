@@ -48,6 +48,12 @@
 - [When can you use finalize()?](https://www.youtube.com/shorts/esvDd8jTkHc)
 - [How can you skip elements in a stream?](https://www.youtube.com/shorts/djmcC_H8LV0)
 - [What is an anonymous class?](https://www.youtube.com/shorts/R5M8N9vyO2Q)
+- [What is a LinkedHashSet?](https://www.youtube.com/shorts/BCwHuOyaDGw)
+- [How can you read a Gzip compressed file?](https://www.youtube.com/shorts/7T-K6fPAEo0)
+- [What is an intermediate Collector?](https://www.youtube.com/shorts/2J0uNLu1ZpQ)
+- [What is a HashTable?](https://www.youtube.com/shorts/TvLm8R45ziQ)
+- [What is a Consumer?](https://www.youtube.com/shorts/TJeDLWUES6c)
+- [What is a defensive copy?](https://www.youtube.com/shorts/n8b5iH9CUHM)
 
 ## Articles
 
