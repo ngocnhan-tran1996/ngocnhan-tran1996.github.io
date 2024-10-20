@@ -113,6 +113,9 @@
 - [Starbucks Does Not Use Two-Phase Commit](https://www.enterpriseintegrationpatterns.com/ramblings/18_starbucks.html)
 - [A Mess is not a Technical Debt.](https://sites.google.com/site/unclebobconsultingllc/a-mess-is-not-a-technical-debt)
 - [Is JsonLayout allow to manipulate logevent such as PatternLayout? #1814](https://github.com/apache/logging-log4j2/discussions/1814)
+- [Double-checked locking](https://en.wikipedia.org/wiki/Double-checked_locking#Usage_in_Java)
+- [Double-Checked Locking with Singleton](https://www.baeldung.com/java-singleton-double-checked-locking)
+- [Initialization-on-demand holder idiom](https://en.wikipedia.org/wiki/Initialization-on-demand_holder_idiom)
 
 ## DEVOXX
 

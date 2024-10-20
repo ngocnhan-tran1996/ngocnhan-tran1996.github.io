@@ -54,6 +54,7 @@
 - [What is a HashTable?](https://www.youtube.com/shorts/TvLm8R45ziQ)
 - [What is a Consumer?](https://www.youtube.com/shorts/TJeDLWUES6c)
 - [What is a defensive copy?](https://www.youtube.com/shorts/n8b5iH9CUHM)
+- [How can you read chars from a binary stream?](https://www.youtube.com/shorts/nH3Fpwb1yFU)
 
 ## Articles
 
@@ -95,6 +96,7 @@
 - [Annotations](https://docs.oracle.com/javase/1.5.0/docs/guide/language/annotations.html)
 - [6. HTTP Client](https://projectreactor.io/docs/netty/release/reference/index.html#http-client)
 - [Maven CI Friendly Versions](https://maven.apache.org/maven-ci-friendly.html)
+- [Maven: verify or clean install?](https://andresalmiray.com/maven-verify-or-clean-install/)
 
 ## Java Service Provider Interface (SPI)
 
