@@ -18,7 +18,6 @@ body {
   animation: fadeIn 1s ease-in-out;
   flex-direction: column;
   width: 100%;
-  margin-top: 1.2em;
 }
 
 @keyframes fadeIn {
